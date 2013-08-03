@@ -1,1 +1,1 @@
-alert("PRUEBA");
+alert("BIENVENIDO AL BLOG DE LA LOCURA DE MAO");
