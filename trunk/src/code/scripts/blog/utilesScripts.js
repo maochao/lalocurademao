@@ -1,8 +1,8 @@
-//var tipoBlog = "PUNK";
-var tipoBlog = "FITNESS";
+var tipoBlog = "PUNK";
+//var tipoBlog = "FITNESS";
 
-var ruta = "LA%20LOCURA%20DE%20MAO_files/";
-//var ruta = "http://sites.google.com/site/lalocurademao/scripts/";
+//var ruta = "LA%20LOCURA%20DE%20MAO_files/";
+var ruta = "http://sites.google.com/site/lalocurademao/scripts/";
 
 if (typeof tipoBlogExterna != "undefined") {
 	tipoBlog = tipoBlogExterna;
