@@ -1,5 +1,5 @@
-var tipoBlog = "PUNK";
-//var tipoBlog = "FITNESS";
+//var tipoBlog = "PUNK";
+var tipoBlog = "FITNESS";
 
 //var ruta = "LA%20LOCURA%20DE%20MAO_VAIO_files/";
 // var ruta = "LA%20LOCURA%20DE%20MAO_files/";
@@ -22,5 +22,7 @@ if (tipoBlog == "PUNK") {
 			+ "fondoFit.jpg') repeat scroll left top #000000";
 	document.getElementById('Header1_headerimg').src = ruta
 			+ "logo1BlogspotLARGO.png";
-	document.body.style.color = "purple";
+	document.getElementById('Header1_headerimg').width = "795";
+	document.body.style.color = "black";
+	document.getElementById('fondoEntrada').style.backgroundColor = "lavender";
 }
