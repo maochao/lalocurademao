@@ -1,5 +1,5 @@
-//var tipoBlog = "PUNK";
-var tipoBlog = "FITNESS";
+var tipoBlog = "PUNK";
+//var tipoBlog = "FITNESS";
 
 //var ruta = "LA%20LOCURA%20DE%20MAO_VAIO_files/";
 // var ruta = "LA%20LOCURA%20DE%20MAO_files/";
@@ -25,5 +25,5 @@ if (tipoBlog == "PUNK") {
 	document.getElementById('Header1_headerimg').width = "795";
 	document.body.style.color = "black";
 	document.getElementById('fondoEntrada').style.backgroundColor = "lavender";
-   alert("UTILES");
+   
 }
