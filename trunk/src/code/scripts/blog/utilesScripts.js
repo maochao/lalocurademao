@@ -25,4 +25,5 @@ if (tipoBlog == "PUNK") {
 	document.getElementById('Header1_headerimg').width = "795";
 	document.body.style.color = "black";
 	document.getElementById('fondoEntrada').style.backgroundColor = "lavender";
+   alert("UTILES");
 }
