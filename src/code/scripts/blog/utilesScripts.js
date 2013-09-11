@@ -1,5 +1,6 @@
-//var tipoBlog = "PUNK";
-var tipoBlog = "FITNESS";
+//PASS = gR8wR6bw5vn4
+var tipoBlog = "PUNK";
+//var tipoBlog = "FITNESS";
 
 //var ruta = "LA%20LOCURA%20DE%20MAO_VAIO_files/";
 // var ruta = "LA%20LOCURA%20DE%20MAO_files/";
