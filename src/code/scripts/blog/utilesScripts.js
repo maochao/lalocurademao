@@ -23,7 +23,7 @@ if (tipoBlog == "PUNK") {
 			+ "fondoFit.jpg') repeat scroll left top #000000";
 	document.getElementById('Header1_headerimg').src = ruta
 			+ "logo1BlogspotLARGO.png";
-	document.getElementById('Header1_headerimg').width = "795";
+	document.getElementById('Header1_headerimg').width = "790";
 	document.body.style.color = "black";
 	document.getElementById('fondoEntrada').style.backgroundColor = "lavender";
    
