@@ -26,5 +26,19 @@ if (tipoBlog == "PUNK") {
 	document.getElementById('Header1_headerimg').width = "790";
 	document.body.style.color = "black";
 	//document.getElementById('fondoEntrada').style.backgroundColor = "lavender";
-   
+}
+
+aniadirHojaEstilos();
+
+function aniadirHojaEstilos(){
+  if(document.createStyleSheet) {
+    document.createStyleSheet('https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/utilesCss.css');
+  }
+  else {
+    var styles = "@import url('https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/utilesCss.css');";
+    var newSS=document.createElement('link');
+    newSS.rel='stylesheet';
+    newSS.href='data:text/css,'+escape(styles);
+    document.getElementsByTagName("head")[0].appendChild(newSS);
+  }
 }
