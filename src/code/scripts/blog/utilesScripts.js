@@ -5,6 +5,7 @@ var tipoBlog = "FITNESS";
 //var ruta = "LA%20LOCURA%20DE%20MAO_VAIO_files/";
 // var ruta = "LA%20LOCURA%20DE%20MAO_files/";
 var ruta = "http://sites.google.com/site/lalocurademao/scripts/";
+var rutaCss = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/utilesCss.css";
 
 if (typeof tipoBlogExterna != "undefined") {
 	tipoBlog = tipoBlogExterna;
@@ -28,7 +29,8 @@ if (tipoBlog == "PUNK") {
 	//document.getElementById('fondoEntrada').style.backgroundColor = "lavender";
 }
 
-aniadirHojaEstilos();
+cargarFicheroCss(rutaCss, "css");
+//aniadirHojaEstilos();
 
 function aniadirHojaEstilos(){
   if(document.createStyleSheet) {
@@ -41,4 +43,22 @@ function aniadirHojaEstilos(){
     newSS.href='data:text/css,'+escape(styles);
     document.getElementsByTagName("head")[0].appendChild(newSS);
   }
+}
+
+function cargarFicheroCss(filename, filetype) {
+    if (filetype == "js") { //if filename is a external JavaScript file
+       // alert('called');
+        var fileref = document.createElement('script')
+        fileref.setAttribute("type", "text/javascript")
+        fileref.setAttribute("src", filename)
+        alert('called');
+    }
+    else if (filetype == "css") { //if filename is an external CSS file
+        var fileref = document.createElement("link")
+        fileref.setAttribute("rel", "stylesheet")
+        fileref.setAttribute("type", "text/css")
+        fileref.setAttribute("href", filename)
+    }
+    if (typeof fileref != "undefined")
+        document.getElementsByTagName("head")[0].appendChild(fileref)
 }
