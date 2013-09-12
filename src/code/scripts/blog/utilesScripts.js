@@ -21,7 +21,7 @@ if (tipoBlog == "PUNK") {
 } else if (tipoBlog == "FITNESS") {
 	// ASPECTOS BLOG FITNESS
 	document.body.style.background = "url(' " + ruta
-			+ "fondoFit.jpg') repeat scroll left top #000000";
+			+ "fondoFit.jpg') no-repeat center";
 	document.getElementById('Header1_headerimg').src = ruta
 			+ "logo1BlogspotLARGO.png";
 	document.getElementById('Header1_headerimg').width = "790";
