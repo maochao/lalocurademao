@@ -56,7 +56,7 @@ function cargarFicheroCss(filename, filetype) {
     else if (filetype == "css") { //if filename is an external CSS file
         var fileref = document.createElement("link")
         fileref.setAttribute("rel", "stylesheet")
-        fileref.setAttribute("type", "text/css")
+        fileref.setAttribute("type", "text/txt")
         fileref.setAttribute("href", filename)
     }
     if (typeof fileref != "undefined")
