@@ -1,2 +1,6 @@
 @CHARSET "ISO-8859-1";
 body{color:blue;}
+
+.date-outer {
+background-color: red;
+}
