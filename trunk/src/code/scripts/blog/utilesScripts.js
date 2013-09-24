@@ -25,7 +25,7 @@ if (tipoBlog == "PUNK") {
 	document.getElementById('Header1_headerimg').src = ruta
 			+ "logo1BlogspotLARGO.png";
 	document.getElementById('Header1_headerimg').width = "790";
-	document.body.style.color = "black";
+	//document.body.style.color = "black";
 	//document.getElementById('fondoEntrada').style.backgroundColor = "lavender";
 }
 
