@@ -1,6 +1,13 @@
 @CHARSET "ISO-8859-1";
-body{color:blue;}
+
+body {
+	color: blue;
+}
+
+.main-inner .widget .post-body ul li {
+	color: purple;
+}
 
 .date-outer {
-background-color: red;
+	background-color: red;
 }
