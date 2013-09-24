@@ -1,1 +1,13 @@
 @CHARSET "ISO-8859-1";
+//ESTILOS PARA LOS CSS FITNESS
+body {
+	color: blue;
+}
+
+.main-inner .widget .post-body ul li {
+	color: purple;
+}
+
+.date-outer {
+	background-color: red;
+}
