@@ -25,6 +25,7 @@ function cargarFicheroCss(filename, filetype) {
 	}
 }
 
+alert(tipoBlogEntrada);
 if (tipoBlog == "PUNK") {
 	// ASPECTOS BLOG PUNK
 	document.body.style.background = "url(' " + ruta
