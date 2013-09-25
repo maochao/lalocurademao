@@ -25,7 +25,7 @@ function cargarFicheroCss(filename, filetype) {
 	}
 }
 
-if (typeof fileref != "tipoBlogEntrada") {
+if (typeof tipoBlogEntrada != "undefined") {
 	tipoBlog = tipoBlogEntrada;
 }
 
