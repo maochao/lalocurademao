@@ -20,6 +20,9 @@ function cargarFicheroCss(filename, filetype) {
         fileref.setAttribute("type", "text/css");
         fileref.setAttribute("href", filename);
     }
+	    if (typeof fileref != "undefined") {
+		document.getElementsByTagName("head")[0].appendChild(fileref);
+	}
 }
 
 if (tipoBlog == "PUNK") {
