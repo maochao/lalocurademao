@@ -25,8 +25,10 @@ function cargarFicheroCss(filename, filetype) {
 	}
 }
 
-if (typeof tipoBlogEntrada != "undefined") {
+if (typeof (tipoBlogEntrada) != "undefined") {
 	tipoBlog = tipoBlogEntrada;
+	alert(tipoBlog);
+	alert(tipoBlogEntrada);
 }
 
 if (tipoBlog == "PUNK") {
