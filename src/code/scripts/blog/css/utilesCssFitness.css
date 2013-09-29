@@ -16,3 +16,11 @@ body {
 .date-outer {
 	background-color: red;
 }
+
+.footer-fauxborder-left{
+	background-color : navy;
+}
+
+#blog-pager{
+	background-color : navy;
+}
