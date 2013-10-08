@@ -36,6 +36,7 @@ if (tipoBlog == "PUNK") {
 	document.body.style.color = "pink";
 	document.getElementById('Header1_headerimg').src = ruta
 			+ "GrayscaleEdgyPunkRock_tituloBlog.png";
+  document.getElementById('Header1_headerimg').width = "780";
 	cargarFicheroCss(rutaCssPunk, "css");
 	
 } else if (tipoBlog == "FITNESS") {
@@ -44,6 +45,6 @@ if (tipoBlog == "PUNK") {
 			+ "fondoFit.jpg') repeat scroll left top #000000";
 	document.getElementById('Header1_headerimg').src = ruta
 			+ "logo1BlogspotLARGO.png";
-	document.getElementById('Header1_headerimg').width = "790";
+	document.getElementById('Header1_headerimg').width = "780";
 	cargarFicheroCss(rutaCssFitness, "css");
 }
