@@ -25,6 +25,14 @@ body {
 	background-color : navy;
 }
 
-.V{
+.valorTablaVerde{
 	color : green;
+}
+
+.valorTablaRojo{
+	color : red;
+}
+
+.valorTablaAmarillo{
+	color : yellow;
 }
