@@ -37,7 +37,6 @@ function cargarXMLDoc(archivoXML)
    xmlDoc.load(archivoXML);
 }
 
-alert("hola");
 if (tipoBlog == "PUNK") {
 	// ASPECTOS BLOG PUNK
 	document.body.style.background = "url(' " + ruta
