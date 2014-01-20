@@ -7,6 +7,7 @@ var tipoBlog = "FITNESS";
 var ruta = "http://sites.google.com/site/lalocurademao/scripts/";
 var rutaCssPunk = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/utilesCssPunk.css";
 var rutaCssFitness = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/utilesCssFitness.css";
+var rutaXmlDatosGimnasios = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/datos/archivoGimnasios.xml";
 
 function cargarFicheroCss(filename, filetype) {
     if (filetype == "js") { //if filename is a external JavaScript file
@@ -29,6 +30,21 @@ if (typeof (tipoBlogEntrada) != "undefined") {
 	tipoBlog = tipoBlogEntrada;
 }
 
+function cargarXMLDoc(archivoXML) 
+{
+ var xmlDoc;
+ if (window.XMLHttpRequest)
+   {
+    xmlDoc = new window.XMLHttpRequest();
+    xmlDoc.open("GET", archivoXML, false);
+    xmlDoc.send("");
+    return xmlDoc.responseXML;
+   }
+ alert("Error cargando el documento.");
+ return null;
+}
+
+alert("hola");
 if (tipoBlog == "PUNK") {
 	// ASPECTOS BLOG PUNK
 	document.body.style.background = "url(' " + ruta
@@ -36,7 +52,7 @@ if (tipoBlog == "PUNK") {
 	document.body.style.color = "pink";
 	document.getElementById('Header1_headerimg').src = ruta
 			+ "GrayscaleEdgyPunkRock_tituloBlog.png";
-  document.getElementById('Header1_headerimg').width = "780";
+    document.getElementById('Header1_headerimg').width = "780";
 	cargarFicheroCss(rutaCssPunk, "css");
 	
 } else if (tipoBlog == "FITNESS") {
@@ -47,4 +63,5 @@ if (tipoBlog == "PUNK") {
 			+ "logo1BlogspotLARGO.png";
 	document.getElementById('Header1_headerimg').width = "780";
 	cargarFicheroCss(rutaCssFitness, "css");
+	cargarXMLDoc(rutaXmlDatosGimnasios);
 }
