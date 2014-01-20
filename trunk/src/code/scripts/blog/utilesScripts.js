@@ -32,16 +32,9 @@ if (typeof (tipoBlogEntrada) != "undefined") {
 
 function cargarXMLDoc(archivoXML) 
 {
- var xmlDoc;
- if (window.XMLHttpRequest)
-   {
-    xmlDoc = new window.XMLHttpRequest();
-    xmlDoc.open("GET", archivoXML, false);
-    xmlDoc.send("");
-    return xmlDoc.responseXML;
-   }
- alert("Error cargando el documento.");
- return null;
+   var xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
+   xmlDoc.async="false";
+   xmlDoc.load(archivoXML);
 }
 
 alert("hola");
