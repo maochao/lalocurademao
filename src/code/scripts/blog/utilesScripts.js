@@ -30,13 +30,6 @@ if (typeof (tipoBlogEntrada) != "undefined") {
 	tipoBlog = tipoBlogEntrada;
 }
 
-function cargarXMLDoc(archivoXML) 
-{
-   var xmlDoc = new ActiveXObject("Microsoft.XMLDOM");
-   xmlDoc.async="false";
-   xmlDoc.load(archivoXML);
-}
-
 if (tipoBlog == "PUNK") {
 	// ASPECTOS BLOG PUNK
 	document.body.style.background = "url(' " + ruta
@@ -55,5 +48,4 @@ if (tipoBlog == "PUNK") {
 			+ "logo1BlogspotLARGO.png";
 	document.getElementById('Header1_headerimg').width = "780";
 	cargarFicheroCss(rutaCssFitness, "css");
-	//cargarXMLDoc(rutaXmlDatosGimnasios);
 }
