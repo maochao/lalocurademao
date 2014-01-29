@@ -65,3 +65,7 @@ xhttp.open("GET",filename,false);
 xhttp.send();
 return xhttp.responseText;
 }
+
+var filename = 'https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/datos/archivoDatos';
+var xmlDoc = loadXMLDoc(filename);
+alert(xmlDoc);
