@@ -49,3 +49,19 @@ if (tipoBlog == "PUNK") {
 	document.getElementById('Header1_headerimg').width = "780";
 	cargarFicheroCss(rutaCssFitness, "css");
 }
+
+//CARGA DE DATOS CON LOS GIMNASIOS
+function loadXMLDoc(filename)
+{
+if (window.XMLHttpRequest)
+  {
+  xhttp=new XMLHttpRequest();
+  }
+else // code for IE5 and IE6
+  {
+  xhttp=new ActiveXObject("Microsoft.XMLHTTP");
+  }
+xhttp.open("GET",filename,false);
+xhttp.send();
+return xhttp.responseText;
+}
