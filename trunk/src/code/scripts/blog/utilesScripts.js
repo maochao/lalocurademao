@@ -98,7 +98,7 @@ function loadXMLDocCors(filename)
 	
 	//definimos un callback para tratar los datos que recibamos
 	xhrObject.onload = function(){
-		alert(xhrObjet.responseText)
+		alert(xhrObject.responseText)
 	};
 	
 	//definimos un callback para tratar el caso de error
