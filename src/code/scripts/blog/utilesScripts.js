@@ -111,7 +111,7 @@ function loadXMLDocCors(filename)
 	}
 }
 
-var filename = 'https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/datos/archivoDatos';
+//var filename = 'https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/datos/archivoDatos';
 //var xmlDoc = loadXMLDocCors(filename);
-var xmlDoc = loadXMLDoc(filename);
-alert(xmlDoc);
+//var xmlDoc = loadXMLDoc(filename);
+//alert(xmlDoc);
