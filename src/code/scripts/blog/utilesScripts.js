@@ -103,7 +103,7 @@ function loadXMLDocCors(filename)
 	
 	//definimos un callback para tratar el caso de error
 	xhrObject.onerror = function(){
-	    // código para caso de error
+	    alert(xhrObject.responseText);
 	};
 	
 	//Enviamos la petición
