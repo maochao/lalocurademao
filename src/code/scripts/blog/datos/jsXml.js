@@ -7,7 +7,7 @@ $xmlDoc = $(_xml);
 $('#tabla tbody tr').remove();
 $xmlDoc.find("gimnasio").each(function (){
 		
-		var x = '<tr>';
+		var texto = '<tr>';
 		
 		var nombre = $(this).find("nombre").text();
 		var textoNombre = '<td><span>'+nombre+'</span></td>';
