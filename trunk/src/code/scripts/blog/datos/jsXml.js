@@ -10,7 +10,8 @@ $xmlDoc.find("gimnasio").each(function (){
 		var texto = '<tr>';
 		
 		var nombre = $(this).find("nombre").text();
-		var textoNombre = '<td><span>'+nombre+'</span></td>';
+		var url = $(this).find("url").text();
+		var textoNombre = '<td><a id="nombre" href="'+url+'"><span>'+nombre+'</span></a></td>';
 		texto = texto + textoNombre;
 		
 		var nota = $(this).find("nota").text();
