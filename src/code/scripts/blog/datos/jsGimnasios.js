@@ -4,7 +4,7 @@ var archivoGimnasios = "" +
 			"<gimnasio>" +
 				"<nombre>MCFIT LEGANES</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2013/06/review-mcfit-leganes.html</url>" +
-				"<nota>-</nota>" +
+				"<nota>9</nota>" +
 				"<mobiliario>-</mobiliario>" +
 				"<personal>-</personal>" +
 				"<precio>-</precio>" +
