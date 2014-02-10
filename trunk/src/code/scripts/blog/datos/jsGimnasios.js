@@ -183,43 +183,43 @@ var archivoGimnasios = "" +
   			"<mantenimiento>-</mantenimiento>" +
 			  "<sedes>-</sedes>" +
 			 "<extras>-</extras>" +
-				"<taquillas>-</taquillas>" +
-				"<duchas>15</duchas>" +
+				"<taquillas>142</taquillas>" +
+				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
 				"<nombre>CORPOWELLNESS TELEFONICA</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2013/10/review-corpowellness-telefonica.html</url>" +
-				"<nota>-</nota>" +
-				"<mobiliario>-</mobiliario>" +
-				"<personal>-</personal>" +
-				"<precio>-</precio>" +
-				"<masificacion>-</masificacion>" +
-		  	"<localizacion>-</localizacion>" +
-			  "<mantenimiento>-</mantenimiento>" +
-			  "<sedes>-</sedes>" +
+				"<nota>8.6</nota>" +
+				"<mobiliario>8.5</mobiliario>" +
+				"<personal>8.5</personal>" +
+				"<precio>7</precio>" +
+				"<masificacion>7</masificacion>" +
+		  	"<localizacion>8</localizacion>" +
+			  "<mantenimiento>8</mantenimiento>" +
+			  "<sedes>1</sedes>" +
 			 "<extras>-</extras>" +
-				"<taquillas>-</taquillas>" +
+				"<taquillas>268</taquillas>" +
 				"<duchas>15</duchas>" +
-				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
+				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
 				"<nombre>FITNESS CENTER VAGUADA</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2013/09/review-fitness-center-vaguada.html</url>" +
-				"<nota>-</nota>" +
-				"<mobiliario>-</mobiliario>" +
-				"<personal>-</personal>" +
-				"<precio>-</precio>" +
-				"<masificacion>-</masificacion>" +
-		  	"<localizacion>-</localizacion>" +
-			  "<mantenimiento>-</mantenimiento>" +
-			  "<sedes>-</sedes>" +
+				"<nota>3.9</nota>" +
+				"<mobiliario>4</mobiliario>" +
+				"<personal>6.5</personal>" +
+				"<precio>2</precio>" +
+				"<masificacion>3.5</masificacion>" +
+		  	"<localizacion>5</localizacion>" +
+			  "<mantenimiento>4</mantenimiento>" +
+			  "<sedes>1</sedes>" +
 			 "<extras>-</extras>" +
-				"<taquillas>-</taquillas>" +
-				"<duchas>15</duchas>" +
-				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
+		  	"<taquillas>100</taquillas>" +
+		  	"<duchas>10</duchas>" +
+	 		"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
