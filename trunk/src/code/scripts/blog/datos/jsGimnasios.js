@@ -175,13 +175,13 @@ var archivoGimnasios = "" +
 				"<nombre>MCFIT LEGANES</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2013/06/review-mcfit-leganes.html</url>" +
 				"<nota>9</nota>" +
-				"<mobiliario>-</mobiliario>" +
-				"<personal>-</personal>" +
-				"<precio>-</precio>" +
-				"<masificacion>-</masificacion>" +
-		  	"<localizacion>-</localizacion>" +
-  			"<mantenimiento>-</mantenimiento>" +
-			  "<sedes>-</sedes>" +
+				"<mobiliario>8.5</mobiliario>" +
+				"<personal>8</personal>" +
+				"<precio>9</precio>" +
+				"<masificacion>7</masificacion>" +
+		  	"<localizacion>6.5</localizacion>" +
+  			"<mantenimiento>8</mantenimiento>" +
+			  "<sedes>200</sedes>" +
 			 "<extras>-</extras>" +
 				"<taquillas>142</taquillas>" +
 				"<duchas>3</duchas>" +
