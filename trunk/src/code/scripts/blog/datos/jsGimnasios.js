@@ -3,7 +3,7 @@ var archivoGimnasios = "" +
 
 	 	"<gimnasio>" +
 				"<nombre>PRADOSPORT ARANDA de DUERO</nombre>" +
-				"<url></url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url></url>" +
 				"<nota>7</nota>" +
 				"<mobiliario>8.9</mobiliario>" +
 				"<personal>6.5</personal>" +
@@ -73,7 +73,7 @@ var archivoGimnasios = "" +
 				"<nombre>BASICFIT ORENSE</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2013/12/review-health-city-basic-fit-orense.html</url>" +
 				"<nota>8.8</nota>" +
-				"<mobiliario8</mobiliario>" +
+				"<mobiliario>8</mobiliario>" +
 				"<personal>7</personal>" +
 				"<precio>9</precio>" +
 				"<masificacion>7</masificacion>" +
