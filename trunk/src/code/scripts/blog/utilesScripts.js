@@ -49,5 +49,5 @@ if (tipoBlog == "PUNK") {
 			+ "logo1BlogspotLARGO.png";
 	document.getElementById('Header1_headerimg').width = "780";
 	cargarFicheroCss(rutaCssFitness, "css");
-	cargarFicheroCss(rutaCssTablaRanking, "css");
+	//cargarFicheroCss(rutaCssTablaRanking, "css");
 }
