@@ -3,7 +3,7 @@ var archivoGimnasios = "" +
 
 	 	"<gimnasio>" +
 				"<nombre>PRADOSPORT ARANDA de DUERO</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url></url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url>" +
 				"<nota>7</nota>" +
 				"<mobiliario>8.9</mobiliario>" +
 				"<personal>6.5</personal>" +
