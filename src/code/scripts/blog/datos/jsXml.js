@@ -4,7 +4,7 @@ function cargarDatos () {
 
 _xml =  $.parseXML(archivoGimnasios);
 $xmlDoc = $(_xml);
-$('#tabla tbody tr').remove();
+$('#myTable tbody tr').remove();
 $xmlDoc.find("gimnasio").each(function (){
 		
 		var texto = '<tr>';
@@ -64,6 +64,6 @@ $xmlDoc.find("gimnasio").each(function (){
 
 		texto = texto + '</tr>';
 		
-		$('#tabla tbody').append(texto);
+		$('#myTable tbody').append(texto);
 })
 };
