@@ -2,6 +2,7 @@ $(document).ready(function () {cargarDatos()});
 
 function cargarDatos () {
 
+alert("inicio CargaDAtos JSXML");
 _xml =  $.parseXML(archivoGimnasios);
 $xmlDoc = $(_xml);
 $('#myTable tbody tr').remove();
