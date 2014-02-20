@@ -438,7 +438,7 @@ var archivoGimnasios = "" +
 			  "<mantenimiento>8</mantenimiento>" +
 			  "<sedes>2</sedes>" +
 			  "<extras>-</extras>" +
-				"<taquillas>859</taquillas>" +
+				"<taquillas>851</taquillas>" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
 			"</gimnasio>" +
