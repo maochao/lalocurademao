@@ -10,7 +10,7 @@
 		var ruta = "http://sites.google.com/site/lalocurademao/scripts/";
 		var rutaCssPunk = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/utilesCssPunk.css";
 		var rutaCssFitness = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/utilesCssFitness.css";
-		var rutaCssTablaRanking = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/estilosTablaRanking.css";
+		var rutaCssTablaRanking = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/css/estilosTablaRankingGym.css";
 		var rutaXmlDatosGimnasios = "https://lalocurademao.googlecode.com/svn/trunk/src/code/scripts/blog/datos/archivoGimnasios.xml";
 	
 	/////////////////  FIN RUTAS ARCHIVOS  ///////////////
