@@ -1,17 +1,14 @@
-$(document).ready(function () {cargarDatos()});
+$(document).ready(function () {
+	cargarDatos("NOFILTRAR");
+	rellenarComboCiudades();
+	filtrarPorCiudad();
+	});
 
-function cargarDatos () {
-
-_xml =  $.parseXML(archivoGimnasios);
-$xmlDoc = $(_xml);
-$('#myTable tbody tr').remove();
-$xmlDoc.find("gimnasio").each(function (){
-		
-		var texto = '<tr>';
-		
+function formarTexto(texto){
+	
 		var nombre = $(this).find("nombre").text();
 		var url = $(this).find("url").text();
-		var textoNombre = '<td><a id="nombre" href="'+url+'"><span>'+nombre+'</span></a></td>';
+		var textoNombre = '<td><a href="'+url+'"><span>'+nombre+'</span></a></td>';
 		texto = texto + textoNombre;
 		
 		var nota = $(this).find("nota").text();
@@ -62,8 +59,45 @@ $xmlDoc.find("gimnasio").each(function (){
 		var textoPesoMaxMancuerna = '<td align="center"><span>'+pesoMaxMancuerna+'</span></td>';
 		texto = texto + textoPesoMaxMancuerna;
 
-		texto = texto + '</tr>';
+	return texto;
+}
+
+function cargarDatos (filtrar) {
+	
+	_xml =  $.parseXML(archivoGimnasios);
+	$xmlDoc = $(_xml);
+	$('#myTable tbody tr').remove();
+	$xmlDoc.find("gimnasio").each(function (){
+		
+		var texto = '<tr>';
+
+		texto = formarTexto(texto);
+
+	texto = texto + '</tr>';
+
+		var ciudad = $(this).find("ciudad").text();
+	if (!existeEnArray(ciudad,arrayCiudades)){
+		arrayCiudades.push(ciudad);
+	}
 		
 		$('#myTable tbody').append(texto);
 })
 };
+
+function rellenarComboCiudades(){
+    $.each(arrayCiudades, function(val, text) {
+        $('#ciudades').append(
+            $('<option></option>').val(val).html(text)
+        );            
+})}
+
+function filtrarPorCiudad(){
+	 $("#ciudades").change(function(){
+         var op = $("#ciudades option:selected");
+         ciudadSeleccionada(op.text());
+ });
+}
+
+function ciudadSeleccionada(ciudad){
+	cargarDatos(ciudad);
+}
