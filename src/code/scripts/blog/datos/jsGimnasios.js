@@ -16,6 +16,7 @@ var archivoGimnasios = "" +
 				"<taquillas>144</taquillas>" +
 				"<duchas>7</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>ARANDA DE DUERO</ciudad>" +
 			"</gimnasio>" +
 
 			"<gimnasio>" +
@@ -33,6 +34,7 @@ var archivoGimnasios = "" +
 				"<taquillas>160</taquillas>" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +
 		
 			"<gimnasio>" +
@@ -50,6 +52,7 @@ var archivoGimnasios = "" +
 				"<taquillas>232</taquillas>" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +
 	
 			"<gimnasio>" +
@@ -67,6 +70,7 @@ var archivoGimnasios = "" +
 				"<taquillas>28</taquillas>" +
 				"<duchas>7</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +
 
 			"<gimnasio>" +
@@ -84,6 +88,7 @@ var archivoGimnasios = "" +
 				"<taquillas>162</taquillas>" +
 				"<duchas>10</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +
 
 			"<gimnasio>" +
@@ -101,6 +106,7 @@ var archivoGimnasios = "" +
 				"<taquillas>160</taquillas>" +
 				"<duchas>7</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>COSLADA</ciudad>" +
 			"</gimnasio>" +
 
 			"<gimnasio>" +
@@ -118,6 +124,7 @@ var archivoGimnasios = "" +
 				"<taquillas>64</taquillas>" +
 				"<duchas>8</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>MIRANDA DE EBRO</ciudad>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
@@ -135,6 +142,7 @@ var archivoGimnasios = "" +
 				"<taquillas>40</taquillas>" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>30</pesoMaxMancuerna>" +
+        "<ciudad>HARO</ciudad>" +
 			"</gimnasio>" +		 
 			
 			"<gimnasio>" +
@@ -152,6 +160,7 @@ var archivoGimnasios = "" +
 				"<taquillas>300</taquillas>" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>38</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
@@ -169,6 +178,7 @@ var archivoGimnasios = "" +
 				"<taquillas>-</taquillas>" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>14</pesoMaxMancuerna>" +
+        "<ciudad>LANZAROTE</ciudad>" +
 			"</gimnasio>" +			
 
 			"<gimnasio>" +
@@ -186,6 +196,7 @@ var archivoGimnasios = "" +
 				"<taquillas>140</taquillas>" +
 				"<duchas>8</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +
 
 	  	"<gimnasio>" +
@@ -203,6 +214,7 @@ var archivoGimnasios = "" +
 				"<taquillas>142</taquillas>" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>LEGANÉS</ciudad>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
@@ -220,6 +232,7 @@ var archivoGimnasios = "" +
 				"<taquillas>268</taquillas>" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
@@ -237,6 +250,7 @@ var archivoGimnasios = "" +
 		  	"<taquillas>100</taquillas>" +
 		  	"<duchas>10</duchas>" +
 	 		"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
@@ -254,6 +268,7 @@ var archivoGimnasios = "" +
 				"<taquillas>761</taquillas>" +
 				"<duchas>14</duchas>" +
 				"<pesoMaxMancuerna>48</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
@@ -271,6 +286,7 @@ var archivoGimnasios = "" +
 				"<taquillas>366</taquillas>" +
 				"<duchas>11</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +			
 
 			"<gimnasio>" +
@@ -288,6 +304,7 @@ var archivoGimnasios = "" +
 				"<taquillas>320</taquillas>" +
 				"<duchas>14</duchas>" +
 				"<pesoMaxMancuerna>37.5</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -305,6 +322,7 @@ var archivoGimnasios = "" +
 				"<taquillas>-</taquillas>" +
 				"<duchas></duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +		
 
 			"<gimnasio>" +
@@ -322,6 +340,7 @@ var archivoGimnasios = "" +
 				"<taquillas>-</taquillas>" +
 				"<duchas>12</duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +		
 
 			"<gimnasio>" +
@@ -339,6 +358,7 @@ var archivoGimnasios = "" +
 				"<taquillas>-</taquillas>" +
 				"<duchas>10</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -356,6 +376,7 @@ var archivoGimnasios = "" +
 				"<taquillas>223</taquillas>" +
 				"<duchas>18</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -365,7 +386,7 @@ var archivoGimnasios = "" +
 				"<mobiliario>7</mobiliario>" +
 				"<personal>7</personal>" +
 				"<precio>8.5</precio>" +
-			 "<masificacion>4</masificacion>" +
+			  "<masificacion>4</masificacion>" +
 		  	"<localizacion>7</localizacion>" +
 			  "<mantenimiento>6.5</mantenimiento>" +
 			  "<sedes>13</sedes>" +
@@ -373,6 +394,7 @@ var archivoGimnasios = "" +
 				"<taquillas>428</taquillas>" +
 				"<duchas>9</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -390,6 +412,7 @@ var archivoGimnasios = "" +
 				"<taquillas>226</taquillas>" +
 				"<duchas>10</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -407,6 +430,7 @@ var archivoGimnasios = "" +
 				"<taquillas>190</taquillas>" +
 				"<duchas>8</duchas>" +
 				"<pesoMaxMancuerna>47.5</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
@@ -424,6 +448,7 @@ var archivoGimnasios = "" +
 				"<taquillas>859</taquillas>" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +
 		
 			"<gimnasio>" +
@@ -438,9 +463,10 @@ var archivoGimnasios = "" +
 			  "<mantenimiento>8</mantenimiento>" +
 			  "<sedes>2</sedes>" +
 			  "<extras>-</extras>" +
-				"<taquillas>851</taquillas>" +
+				"<taquillas>859</taquillas>" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>RIVAS VACIAMADRID</ciudad>" +
 			"</gimnasio>" +
 	
 			"<gimnasio>" +
@@ -458,6 +484,7 @@ var archivoGimnasios = "" +
 				"<taquillas>-</taquillas>" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
 			"</gimnasio>" +
 			
 		"</gimnasios>";
