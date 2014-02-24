@@ -11,7 +11,7 @@ var archivoGimnasios = "" +
 				"<masificacion>7</masificacion>" +
 		  	"<localizacion>6</localizacion>" +
 			  "<mantenimiento>8</mantenimiento>" +
-			  "<sedes>1</sedes>" +
+			  "<sedes>2</sedes>" +
  			 "<extras>0</extras>" +
 				"<taquillas>144</taquillas>" +
 				"<duchas>7</duchas>" +
