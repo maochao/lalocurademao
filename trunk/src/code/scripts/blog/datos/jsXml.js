@@ -1,69 +1,166 @@
-$(document).ready(function () {cargarDatos()});
+$(document).ready(function () {
+	cargarDatosInicio();
+	rellenarComboCiudades();
+	filtrarPorCiudad();
+	});
 
-function cargarDatos () {
+function rellenarComboCiudades(){
+    $.each(arrayCiudades, function(val, text) {
+        $('#ciudades').append(
+            $('<option></option>').val(val).html(text)
+        );            
+})}
 
-_xml =  $.parseXML(archivoGimnasios);
-$xmlDoc = $(_xml);
-$('#myTable tbody tr').remove();
-$xmlDoc.find("gimnasio").each(function (){
-                
-                var texto = '<tr>';
-                
-                var nombre = $(this).find("nombre").text();
-                var url = $(this).find("url").text();
-                var textoNombre = '<td><a id="nombre" href="'+url+'"><span>'+nombre+'</span></a></td>';
-                texto = texto + textoNombre;
-                
-                var nota = $(this).find("nota").text();
-                var textoNota = '<td align="center"><span>'+nota+'</span></td>';
-                texto = texto + textoNota;
-                
-                var mobiliario = $(this).find("mobiliario").text();
-                var textoMobiliario = '<td align="center"><span>'+mobiliario+'</span></td>';
-                texto = texto + textoMobiliario;
-                
-                var personal = $(this).find("personal").text();
-                var textoPersonal = '<td align="center"><span>'+personal+'</span></td>';
-                texto = texto + textoPersonal;
-                
-                var precio = $(this).find("precio").text();
-                var textoPrecio = '<td align="center"><span>'+precio+'</span></td>';
-                texto = texto + textoPrecio;
-                
-                var masificacion = $(this).find("masificacion").text();
-                var textoMasificacion = '<td align="center"><span>'+masificacion+'</span></td>';
-                texto = texto + textoMasificacion;
+function filtrarPorCiudad(){
+	 $("#ciudades").change(function(){
+         var op = $("#ciudades option:selected");
+         cargarDatosCiudad(op.text());
+ });
+}
 
-                var localizacion = $(this).find("localizacion").text();
-                var textoLocalizacion = '<td align="center"><span>'+localizacion+'</span></td>';
-                texto = texto + textoLocalizacion;
+function cargarDatosCiudad(ciudad) {
 
-                var mantenimiento = $(this).find("mantenimiento").text();
-                var textoMantenimiento = '<td align="center"><span>'+mantenimiento+'</span></td>';
-                texto = texto + textoMantenimiento;
+	var ciudadCombo = ciudad;
+	_xml =  $.parseXML(archivoGimnasios);
+	$xmlDoc = $(_xml);
+	$('#myTable tbody tr').remove();
+	$xmlDoc.find("gimnasio").each(function (){
+            
+    var texto = '<tr>';
+    
+    var ciudad = $(this).find("ciudad").text();
+	if (!existeEnArray(ciudad,arrayCiudades)){
+		arrayCiudades.push(ciudad);
+	}
+	
+	  if(ciudadCombo == ciudad || ciudadCombo == "SELECCIONA UNA CIUDAD"){  
+		    var nombre = $(this).find("nombre").text();
+		    var url = $(this).find("url").text();
+		    var textoNombre = '<td><a id="nombre" width="600" href="'+url+'"><span>'+nombre+'</span></a></td>';
+		    texto = texto + textoNombre;
+		    
+		    var nota = $(this).find("nota").text();
+		    var textoNota = '<td align="center" width="5" width="5"><span>'+nota+'</span></td>';
+		    texto = texto + textoNota;
+		    
+		    var mobiliario = $(this).find("mobiliario").text();
+		    var textoMobiliario = '<td align="center" width="5"><span>'+mobiliario+'</span></td>';
+		    texto = texto + textoMobiliario;
+		    
+		    var personal = $(this).find("personal").text();
+		    var textoPersonal = '<td align="center" width="5"><span>'+personal+'</span></td>';
+		    texto = texto + textoPersonal;
+		    
+		    var precio = $(this).find("precio").text();
+		    var textoPrecio = '<td align="center" width="5"><span>'+precio+'</span></td>';
+		    texto = texto + textoPrecio;
+		    
+		    var masificacion = $(this).find("masificacion").text();
+		    var textoMasificacion = '<td align="center" width="5"><span>'+masificacion+'</span></td>';
+		    texto = texto + textoMasificacion;
+		
+		    var localizacion = $(this).find("localizacion").text();
+		    var textoLocalizacion = '<td align="center" width="5"><span>'+localizacion+'</span></td>';
+		    texto = texto + textoLocalizacion;
+		
+		    var mantenimiento = $(this).find("mantenimiento").text();
+		    var textoMantenimiento = '<td align="center" width="5"><span>'+mantenimiento+'</span></td>';
+		    texto = texto + textoMantenimiento;
+		
+		    var sedes = $(this).find("sedes").text();
+		    var textoSedes = '<td align="center" width="5"><span>'+sedes+'</span></td>';
+		    texto = texto + textoSedes;
+		
+		    var extras = $(this).find("extras").text();
+		    var textoExtras = '<td align="center" width="5"><span>'+extras+'</span></td>';
+		    texto = texto + textoExtras;
+		    
+		    var taquillas = $(this).find("taquillas").text();
+		    var textoTaquillas = '<td align="center" width="5"><span>'+taquillas+'</span></td>';
+		    texto = texto + textoTaquillas;
+		
+		    var duchas = $(this).find("duchas").text();
+		    var textoDuchas = '<td align="center" width="5"><span>'+duchas+'</span></td>';
+		    texto = texto + textoDuchas;
+		
+		    var pesoMaxMancuerna = $(this).find("pesoMaxMancuerna").text();
+		    var textoPesoMaxMancuerna = '<td align="center" width="5"><span>'+pesoMaxMancuerna+'</span></td>';
+		    texto = texto + textoPesoMaxMancuerna;
+	  }
+	    
+    texto = texto + '</tr>';
+    
+    $('#myTable tbody').append(texto);})
+};
 
-                var sedes = $(this).find("sedes").text();
-                var textoSedes = '<td align="center"><span>'+sedes+'</span></td>';
-                texto = texto + textoSedes;
+function cargarDatosInicio() {
 
-                var extras = $(this).find("extras").text();
-                var textoExtras = '<td align="center"><span>'+extras+'</span></td>';
-                texto = texto + textoExtras;
+		_xml =  $.parseXML(archivoGimnasios);
+		$xmlDoc = $(_xml);
+		$('#myTable tbody tr').remove();
+		$xmlDoc.find("gimnasio").each(function (){
                 
-                var taquillas = $(this).find("taquillas").text();
-                var textoTaquillas = '<td align="center"><span>'+taquillas+'</span></td>';
-                texto = texto + textoTaquillas;
+        var texto = '<tr>';
+        
+        var nombre = $(this).find("nombre").text();
+        var url = $(this).find("url").text();
+        var textoNombre = '<td><a id="nombre" width="600" href="'+url+'"><span>'+nombre+'</span></a></td>';
+        texto = texto + textoNombre;
+        
+        var nota = $(this).find("nota").text();
+        var textoNota = '<td align="center" width="5"><span>'+nota+'</span></td>';
+        texto = texto + textoNota;
+        
+        var mobiliario = $(this).find("mobiliario").text();
+        var textoMobiliario = '<td align="center" width="5"><span>'+mobiliario+'</span></td>';
+        texto = texto + textoMobiliario;
+        
+        var personal = $(this).find("personal").text();
+        var textoPersonal = '<td align="center" width="5"><span>'+personal+'</span></td>';
+        texto = texto + textoPersonal;
+        
+        var precio = $(this).find("precio").text();
+        var textoPrecio = '<td align="center" width="5"><span>'+precio+'</span></td>';
+        texto = texto + textoPrecio;
+        
+        var masificacion = $(this).find("masificacion").text();
+        var textoMasificacion = '<td align="center" width="5"><span>'+masificacion+'</span></td>';
+        texto = texto + textoMasificacion;
 
-                var duchas = $(this).find("duchas").text();
-                var textoDuchas = '<td align="center"><span>'+duchas+'</span></td>';
-                texto = texto + textoDuchas;
+        var localizacion = $(this).find("localizacion").text();
+        var textoLocalizacion = '<td align="center" width="5"><span>'+localizacion+'</span></td>';
+        texto = texto + textoLocalizacion;
 
-                var pesoMaxMancuerna = $(this).find("pesoMaxMancuerna").text();
-                var textoPesoMaxMancuerna = '<td align="center"><span>'+pesoMaxMancuerna+'</span></td>';
-                texto = texto + textoPesoMaxMancuerna;
+        var mantenimiento = $(this).find("mantenimiento").text();
+        var textoMantenimiento = '<td align="center" width="5"><span>'+mantenimiento+'</span></td>';
+        texto = texto + textoMantenimiento;
 
-                texto = texto + '</tr>';
-                
-                $('#myTable tbody').append(texto);
-})
+        var sedes = $(this).find("sedes").text();
+        var textoSedes = '<td align="center" width="5"><span>'+sedes+'</span></td>';
+        texto = texto + textoSedes;
+
+        var extras = $(this).find("extras").text();
+        var textoExtras = '<td align="center" width="5"><span>'+extras+'</span></td>';
+        texto = texto + textoExtras;
+        
+        var taquillas = $(this).find("taquillas").text();
+        var textoTaquillas = '<td align="center" width="5"><span>'+taquillas+'</span></td>';
+        texto = texto + textoTaquillas;
+
+        var duchas = $(this).find("duchas").text();
+        var textoDuchas = '<td align="center" width="5"><span>'+duchas+'</span></td>';
+        texto = texto + textoDuchas;
+
+        var pesoMaxMancuerna = $(this).find("pesoMaxMancuerna").text();
+        var textoPesoMaxMancuerna = '<td align="center" width="5"><span>'+pesoMaxMancuerna+'</span></td>';
+        texto = texto + textoPesoMaxMancuerna;
+        
+        var ciudad = $(this).find("ciudad").text();
+    	if (!existeEnArray(ciudad,arrayCiudades)){
+    		arrayCiudades.push(ciudad);
+    	}
+
+        texto = texto + '</tr>';
+        
+        $('#myTable tbody').append(texto);})
 };
