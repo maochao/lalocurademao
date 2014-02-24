@@ -3,7 +3,7 @@ var archivoGimnasios = "" +
 
 	 	"<gimnasio>" +
 				"<nombre>PRADOSPORT ARANDA de DUERO</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-pradosport-aranda-de-duero.html</url>" +
 				"<nota>7</nota>" +
 				"<mobiliario>8.9</mobiliario>" +
 				"<personal>6.5</personal>" +
@@ -471,7 +471,7 @@ var archivoGimnasios = "" +
 	
 			"<gimnasio>" +
 				"<nombre>POLIDEPORTIVOS AND FITNESS TELEFONICA</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2011/-/cuidado-con-los-gimnasios.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2011/10/cuidado-con-los-gimnasios.html</url>" +
 				"<nota>3.5</nota>" +
 				"<mobiliario>6.5</mobiliario>" +
 				"<personal>4.5</personal>" +
