@@ -34,6 +34,11 @@ function cargarDatosCiudad(ciudad) {
 	}
 	
 	  if(ciudadCombo == ciudad || ciudadCombo == "SELECCIONA UNA CIUDAD"){  
+		  
+	        var foto = $(this).find("foto").text();
+	        var textoFoto = '<td><img width="50" heigth="50" src="'+foto+'"/></td>';
+	        texto = texto + textoFoto;
+		  
 		    var nombre = $(this).find("nombre").text();
 		    var url = $(this).find("url").text();
 		    var textoNombre = '<td><a id="nombre" width="600" href="'+url+'"><span>'+nombre+'</span></a></td>';
@@ -101,6 +106,10 @@ function cargarDatosInicio() {
 		$xmlDoc.find("gimnasio").each(function (){
                 
         var texto = '<tr>';
+        
+        var foto = $(this).find("foto").text();
+        var textoFoto = '<td><img width="50" heigth="50" src="'+foto+'"/></td>';
+        texto = texto + textoFoto;
         
         var nombre = $(this).find("nombre").text();
         var url = $(this).find("url").text();
