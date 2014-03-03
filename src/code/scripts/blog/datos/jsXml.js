@@ -18,6 +18,24 @@ function filtrarPorCiudad(){
  });
 }
 
+function establecerTipoGym(tipo){
+    var tipoGym = "";
+    
+    if (tipo == "LC")
+    	{tipoGym = "LOW COST"}
+    else if (tipo == "FL")
+		{tipoGym = "FITNESS LUJO"}
+    else if (tipo == "BR")
+		{tipoGym = "BARRIO"}
+    else if (tipo == "CD")
+		{tipoGym = "CENTRO DEPORTIVO"}
+    else if (tipo == "HT")
+		{tipoGym = "HOTEL"}
+    
+    return tipoGym;
+});
+}
+
 function cargarDatosCiudad(ciudad) {
 
 	var ciudadCombo = ciudad;
@@ -91,6 +109,10 @@ function cargarDatosCiudad(ciudad) {
 		    var pesoMaxMancuerna = $(this).find("pesoMaxMancuerna").text();
 		    var textoPesoMaxMancuerna = '<td align="center" width="5"><span>'+pesoMaxMancuerna+'</span></td>';
 		    texto = texto + textoPesoMaxMancuerna;
+		    
+		    var tipo = $(this).find("tipo").text();
+		    var textoTipo = '<td align="center" width="5"><span>'+establecerTipoGym(tipo)+'</span></td>';
+		    texto = texto + textoTipo;
 	  }
 	    
     texto = texto + '</tr>';
@@ -163,6 +185,10 @@ function cargarDatosInicio() {
         var pesoMaxMancuerna = $(this).find("pesoMaxMancuerna").text();
         var textoPesoMaxMancuerna = '<td align="center" width="5"><span>'+pesoMaxMancuerna+'</span></td>';
         texto = texto + textoPesoMaxMancuerna;
+        
+	    var tipo = $(this).find("tipo").text();
+	    var textoTipo = '<td align="center" width="5"><span>'+establecerTipoGym(tipo)+'</span></td>';
+	    texto = texto + textoTipo;
         
         var ciudad = $(this).find("ciudad").text();
     	if (!existeEnArray(ciudad,arrayCiudades)){
