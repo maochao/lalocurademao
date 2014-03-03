@@ -1,5 +1,25 @@
 var archivoGimnasios = "" +
 		"<gimnasios>" +
+      
+			"<gimnasio>" +
+				"<nombre>MCFIT TORREJÓN</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url>" +
+				"<nota>9</nota>" +
+				"<mobiliario>7</mobiliario>" +
+				"<personal>9.5</personal>" +
+				"<precio>9</precio>" +
+				"<masificacion>7</masificacion>" +
+		  	"<localizacion>6</localizacion>" +
+			  "<mantenimiento>8.5</mantenimiento>" +
+			  "<sedes>200</sedes>" +
+	 		 "<extras>-</extras>" +
+				"<taquillas>136</taquillas>" +
+				"<duchas>6</duchas>" +
+				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>TORREJÓN DE ARDOZ</ciudad>" +
+        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+			"</gimnasio>" +
+
 
 	 	"<gimnasio>" +
 				"<nombre>PRADOSPORT ARANDA de DUERO</nombre>" +
@@ -42,7 +62,7 @@ var archivoGimnasios = "" +
 			"<gimnasio>" +
 				"<nombre>MCFIT EL CARMEN</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/01/review-mcfit-el-carmen.html</url>" +
-				"<nota>9.1</nota>" +
+				"<nota>9.2</nota>" +
 				"<mobiliario>9</mobiliario>" +
 				"<personal>9</personal>" +
 				"<precio>9</precio>" +
