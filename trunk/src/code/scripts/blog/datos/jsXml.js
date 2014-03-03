@@ -1,6 +1,7 @@
 $(document).ready(function () {
 	cargarDatosInicio();
 	rellenarComboCiudades();
+	rellenarComboTipos();
 	filtrarPorCiudad();
 	});
 
@@ -8,6 +9,13 @@ function rellenarComboCiudades(){
     $.each(arrayCiudades, function(val, text) {
         $('#ciudades').append(
             $('<option></option>').val(val).html(text)
+        );            
+})}
+
+function rellenarComboTipos(){
+    $.each(arrayTipos, function(val, text) {
+        $('#tipos').append(
+            $('<option></option>').val(val).html(establecerTipoGym(text))
         );            
 })}
 
@@ -192,6 +200,11 @@ function cargarDatosInicio() {
         var ciudad = $(this).find("ciudad").text();
     	if (!existeEnArray(ciudad,arrayCiudades)){
     		arrayCiudades.push(ciudad);
+    	}
+    	
+        var tipoGym = $(this).find("tipo").text();
+    	if (!existeEnArray(tipoGym,arrayTipos)){
+    		arrayTipos.push(tipoGym);
     	}
 
         texto = texto + '</tr>';
