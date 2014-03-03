@@ -33,7 +33,6 @@ function establecerTipoGym(tipo){
 		{tipoGym = "HOTEL"}
     
     return tipoGym;
-});
 }
 
 function cargarDatosCiudad(ciudad) {
