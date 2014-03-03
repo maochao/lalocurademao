@@ -18,6 +18,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>TORREJÓN DE ARDOZ</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +
 
 
@@ -38,6 +39,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>ARANDA DE DUERO</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymPradosportAranda.png</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +
 
 			"<gimnasio>" +
@@ -57,6 +59,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +
 		
 			"<gimnasio>" +
@@ -76,6 +79,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +
 	
 			"<gimnasio>" +
@@ -95,6 +99,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymFitnessPlaceAlameda.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +
 
 			"<gimnasio>" +
@@ -114,6 +119,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymBasicfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +
 
 			"<gimnasio>" +
@@ -133,6 +139,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>COSLADA</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymSmartFit.jpg</foto>" +
+        "<tipo>CD</tipo>" +
 			"</gimnasio>" +
 
 			"<gimnasio>" +
@@ -152,6 +159,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MIRANDA DE EBRO</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymSentralMiranda.jpg</foto>" +
+        "<tipo>CD</tipo>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
@@ -171,6 +179,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>30</pesoMaxMancuerna>" +
         "<ciudad>HARO</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymOjasportHaro.jpg</foto>" +
+        "<tipo>BR</tipo>" +
 			"</gimnasio>" +		 
 			
 			"<gimnasio>" +
@@ -190,6 +199,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>38</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymStarSport.jpg</foto>" +
+        "<tipo>CD</tipo>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
@@ -209,6 +219,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>14</pesoMaxMancuerna>" +
         "<ciudad>LANZAROTE</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymBodyCareHesperia.jpg</foto>" +
+        "<tipo>HT</tipo>" +
 			"</gimnasio>" +			
 
 			"<gimnasio>" +
@@ -228,6 +239,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymAltaFit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +
 
 	  	"<gimnasio>" +
@@ -247,6 +259,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>LEGANÉS</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
@@ -266,6 +279,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymCorpowellnes.jpg</foto>" +
+        "<tipo>CD</tipo>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
@@ -285,6 +299,7 @@ var archivoGimnasios = "" +
 	 		"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymVaguada.jpg</foto>" +
+        "<tipo>CD</tipo>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
@@ -304,6 +319,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>48</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymCsc.png</foto>" +
+        "<tipo>FL</tipo>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
@@ -323,6 +339,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +			
 
 			"<gimnasio>" +
@@ -342,6 +359,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>37.5</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -361,6 +379,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +		
 
 			"<gimnasio>" +
@@ -380,6 +399,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +		
 
 			"<gimnasio>" +
@@ -399,6 +419,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -418,6 +439,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -437,6 +459,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -456,6 +479,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +		 
 
 			"<gimnasio>" +
@@ -475,6 +499,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>47.5</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<tipo>LC</tipo>" +
 			"</gimnasio>" +			
 			
 			"<gimnasio>" +
@@ -494,6 +519,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymO2.jpg</foto>" +
+        "<tipo>FL</tipo>" +
 			"</gimnasio>" +
 		
 			"<gimnasio>" +
@@ -513,6 +539,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>RIVAS VACIAMADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymPalestra.jpg</foto>" +
+        "<tipo>CD</tipo>" +
 			"</gimnasio>" +
 	
 			"<gimnasio>" +
@@ -532,6 +559,7 @@ var archivoGimnasios = "" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymPolFitness.gif</foto>" +
+        "<tipo>CD</tipo>" +
 			"</gimnasio>" +
 			
 		"</gimnasios>";
