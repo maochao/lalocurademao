@@ -1,5 +1,25 @@
 var archivoGimnasios = "" +
 		"<gimnasios>" +
+
+			"<gimnasio>" +
+				"<nombre>VIRGIN ACTIVE CLASSIC CAPITAN HAYA</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-virgin-active-classic-capitan.html</url>" +
+				"<nota>7.7</nota>" +
+				"<mobiliario>9</mobiliario>" +
+				"<personal>8.5</personal>" +
+				"<precio>4</precio>" +
+				"<masificacion>8</masificacion>" +
+		  	"<localizacion>8</localizacion>" +
+			  "<mantenimiento>9</mantenimiento>" +
+			  "<sedes>11</sedes>" +
+			  "<extras>-</extras>" +
+				"<taquillas>-</taquillas>" +
+				"<duchas>-</duchas>" +
+				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
+        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymVirgin.jpg</foto>" +
+        "<tipo>FL</tipo>" +
+			"</gimnasio>" +		 
       
 			"<gimnasio>" +
 				"<nombre>MCFIT TORREJÓN</nombre>" +
