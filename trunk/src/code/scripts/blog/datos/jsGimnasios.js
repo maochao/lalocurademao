@@ -2,6 +2,46 @@ var archivoGimnasios = "" +
 		"<gimnasios>" +
 
 			"<gimnasio>" +
+				"<nombre>CLUB ATLAS SANTA ELENA</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-club-atlas-santa-elena.html</url>" +
+				"<nota>7.9</nota>" +
+				"<mobiliario>9</mobiliario>" +
+				"<personal>9.5</personal>" +
+				"<precio>5</precio>" +
+				"<masificacion>8</masificacion>" +
+		  	"<localizacion>7</localizacion>" +
+			  "<mantenimiento>9</mantenimiento>" +
+			  "<sedes>5</sedes>" +
+			  "<extras>-</extras>" +
+				"<taquillas>-</taquillas>" +
+				"<duchas>-</duchas>" +
+				"<pesoMaxMancuerna>48</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
+        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</foto>" +
+        "<tipo>CD</tipo>" +
+			"</gimnasio>" +		 
+
+			"<gimnasio>" +
+				"<nombre>HOLMES PLACE LA MORALEJA</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-holmes-place-la-moraleja.html</url>" +
+				"<nota>7.9</nota>" +
+				"<mobiliario>9</mobiliario>" +
+				"<personal>9.5</personal>" +
+				"<precio>5</precio>" +
+				"<masificacion>8</masificacion>" +
+		  	"<localizacion>7</localizacion>" +
+			  "<mantenimiento>9</mantenimiento>" +
+			  "<sedes>8</sedes>" +
+			  "<extras>-</extras>" +
+				"<taquillas>-</taquillas>" +
+				"<duchas>-</duchas>" +
+				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
+        "<ciudad>ARROYO DE LA VEGA</ciudad>" +
+        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolmesPlace.jpg</foto>" +
+        "<tipo>FL</tipo>" +
+			"</gimnasio>" +		 
+
+			"<gimnasio>" +
 				"<nombre>VIRGIN ACTIVE CLASSIC CAPITAN HAYA</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-virgin-active-classic-capitan.html</url>" +
 				"<nota>7.7</nota>" +
@@ -23,7 +63,7 @@ var archivoGimnasios = "" +
       
 			"<gimnasio>" +
 				"<nombre>MCFIT TORREJÓN</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-torrejon.html</url>" +
 				"<nota>9</nota>" +
 				"<mobiliario>7</mobiliario>" +
 				"<personal>9.5</personal>" +
