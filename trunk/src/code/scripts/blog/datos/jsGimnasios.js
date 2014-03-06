@@ -4,18 +4,18 @@ var archivoGimnasios = "" +
 			"<gimnasio>" +
 				"<nombre>CLUB ATLAS SANTA ELENA</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-club-atlas-santa-elena.html</url>" +
-				"<nota>7.9</nota>" +
-				"<mobiliario>9</mobiliario>" +
-				"<personal>9.5</personal>" +
+				"<nota>7</nota>" +
+				"<mobiliario>6.5</mobiliario>" +
+				"<personal>8</personal>" +
 				"<precio>5</precio>" +
-				"<masificacion>8</masificacion>" +
+				"<masificacion>7</masificacion>" +
 		  	"<localizacion>7</localizacion>" +
-			  "<mantenimiento>9</mantenimiento>" +
+			  "<mantenimiento>6.5</mantenimiento>" +
 			  "<sedes>5</sedes>" +
 			  "<extras>-</extras>" +
 				"<taquillas>-</taquillas>" +
 				"<duchas>-</duchas>" +
-				"<pesoMaxMancuerna>48</pesoMaxMancuerna>" +
+				"<pesoMaxMancuerna>38</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</foto>" +
         "<tipo>CD</tipo>" +
@@ -105,7 +105,7 @@ var archivoGimnasios = "" +
 			"<gimnasio>" +
 				"<nombre>MCFIT VENTAS</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url>" +
-				"<nota>9</nota>" +
+				"<nota>8.9</nota>" +
 				"<mobiliario>9</mobiliario>" +
 				"<personal>8</personal>" +
 				"<precio>9</precio>" +
