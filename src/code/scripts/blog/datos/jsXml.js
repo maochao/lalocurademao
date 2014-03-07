@@ -51,7 +51,124 @@ function establecerTipoGym(tipo){
     return tipoGym;
 }
 
-function cargarDatosTipos(tipo) {
+function cargarEntrada(gimnasio) {
+
+	_xml =  $.parseXML(archivoGimnasios);
+	$xmlDoc = $(_xml);
+	$('#entrada div ').remove();
+	$xmlDoc.find("gimnasio").each(function (){
+	var todo = $(this);
+	var nombre = todo.find("nombre").text();
+         if(gimnasio == nombre){
+        	 
+        	 var presentacion = todo.find("presentacion").text();
+        	 var presentacionTexto = '<p>' + presentacion + '</p>';
+        	 $('#presentacion').append(presentacionTexto);
+        	 
+        	 var instalaciones = todo.find("instalaciones").text();
+        	 var instalacionesTexto = '<li><b>Instalaciones: </b>' + instalaciones + '</li>';
+        	 $('#instalaciones').append(instalacionesTexto);
+        	 
+        	 var staff = todo.find("staff").text();
+        	 var staffTexto = '<li><b>Staff: </b>' + staff + '</li>';
+        	 $('#staff').append(staffTexto);
+        	 
+        	 var musculacion = todo.find("musculacion").text();
+        	 var musculacionTexto = '<li><b>Musculacion: </b>' + musculacion + '</li>';
+        	 $('#musculacion').append(musculacionTexto);        	 
+        	 
+        	 var cardio = todo.find("cardio").text();
+        	 var cardioTexto = '<li><b>Cardio: </b>' + cardio + '</li>';
+        	 $('#cardio').append(cardioTexto);
+        	 
+        	 var vestuarios = todo.find("vestuarios").text();
+        	 var vestuariosTexto = '<li><b>Vestuarios: </b>' + vestuarios + '</li>';
+        	 $('#vestuarios').append(vestuariosTexto);
+        	 
+        	 var ubicacion = todo.find("ubicacion").text();
+        	 var ubicacionTexto = '<li><b>Ubicacion: </b>' + ubicacion + '</li>';
+        	 $('#ubicacion').append(ubicacionTexto);
+        	 
+        	 var extras = todo.find("extras").text();
+        	 var extrasTexto = '<li><b>Extras: </b>' + extras + '</li>';
+        	 $('#extras').append(extrasTexto);
+        	 
+        	 $('#tablaEntrada tbody tr').remove();
+        	 
+        	 	var texto = '';
+   			    texto = formarTextoEntrada(todo,texto);
+        	    
+        	 $('#tablaEntrada tbody').append(texto);
+         }   
+})
+};
+
+function formarTextoEntrada(todo,texto){
+    
+	var nombre = todo.find("nombre").text();
+	var nombreTexto = '<tr><th>CARACTERÍSTICA/GIMNASIO</th><th>' + nombre + '</th></tr>';
+    texto = texto + nombreTexto;
+    
+	var stuff = todo.find("stuff").text();
+	var stuffTexto = '<tr><th>Nota Stuff</th><th>' + stuff + '</th></tr>';
+    texto = texto + stuffTexto;
+    
+	var higiene = todo.find("higiene").text();
+	var higieneTexto = '<tr><th>Control Higiene</th><th>' + higiene + '</th></tr>';
+    texto = texto + higieneTexto;
+    
+	var desorden = todo.find("desorden").text();
+	var desordenTexto = '<tr><th>Desorden Sala Musculación</th><th>' + desorden + '</th></tr>';
+    texto = texto + desordenTexto;
+    
+	var metro = todo.find("metro").text();
+	var metroTexto = '<tr><th>Metro Cercano</th><th>' + metro + '</th></tr>';
+    texto = texto + metroTexto;
+    
+	var aparcamiento = todo.find("aparcamiento").text();
+	var aparcamientoTexto = '<tr><th>Aparcamiento</th><th>' + aparcamiento + '</th></tr>';
+    texto = texto + aparcamientoTexto;
+    
+	var plantas = todo.find("plantas").text();
+	var plantasTexto = '<tr><th>Plantas</th><th>' + plantas + '</th></tr>';
+    texto = texto + plantasTexto;
+    
+	var duchas = todo.find("duchas").text();
+	var duchasTexto = '<tr><th>NºDuchas</th><th>' + duchas + '</th></tr>';
+    texto = texto + duchasTexto;
+    
+	var puertaDuchas = todo.find("puertaDuchas").text();
+	var puertaDuchasTexto = '<tr><th>Puerta Duchas</th><th>' + puertaDuchas + '</th></tr>';
+    texto = texto + puertaDuchasTexto;
+    
+	var taquillas = todo.find("taquillas").text();
+	var taquillasTexto = '<tr><th>Nº Taquillas</th><th>' + taquillas + '</th></tr>';
+    texto = texto + taquillasTexto;
+    
+	var secador = todo.find("secador").text();
+	var secadorTexto = '<tr><th>Secador</th><th>' + secador + '</th></tr>';
+    texto = texto + secadorTexto;
+    
+	var crucesPolea = todo.find("crucesPolea").text();
+	var crucesPoleaTexto = '<tr><th>Máquina Cruces Polea</th><th>' + crucesPolea + '</th></tr>';
+    texto = texto + crucesPoleaTexto;
+    
+	var hackSentadillas = todo.find("hackSentadillas").text();
+	var hackSentadillasTexto = '<tr><th>Hack Sentadillas</th><th>' + hackSentadillas + '</th></tr>';
+    texto = texto + hackSentadillasTexto;
+    
+	var maquinaSoleo = todo.find("maquinaSoleo").text();
+	var maquinaSoleoTexto = '<tr><th>Máquina Soleo</th><th>' + maquinaSoleo + '</th></tr>';
+    texto = texto + maquinaSoleoTexto;
+    
+	var pesoMancuerna = todo.find("pesoMancuerna").text();
+	var pesoMancuernaTexto = '<tr><th>Peso Mancuernas</th><th>' + pesoMancuerna + '</th></tr>';
+    texto = texto + pesoMancuernaTexto;
+    
+    return texto;
+}
+
+function cargarDatosInicio(tipo) {
 
 	var tipoCombo = tipo;
 	_xml =  $.parseXML(archivoGimnasios);
