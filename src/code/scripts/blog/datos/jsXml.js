@@ -1,3 +1,6 @@
+var arrayCiudades = [];
+ var arrayTipos = [];
+      
 $(document).ready(function () {
   cargarEntrada("CLUB ATLAS SANTA ELENA");
 	cargarDatosInicio();
