@@ -1,4 +1,5 @@
 $(document).ready(function () {
+  cargarEntrada("CLUB ATLAS SANTA ELENA");
 	cargarDatosInicio();
 	rellenarComboCiudades();
 	rellenarComboTipos();
