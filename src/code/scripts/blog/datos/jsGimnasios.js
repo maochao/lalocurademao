@@ -4,24 +4,46 @@ var archivoGimnasios = "" +
 			"<gimnasio>" +
 				"<nombre>CLUB ATLAS SANTA ELENA</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-club-atlas-santa-elena.html</url>" +
-				"<nota>7</nota>" +
-				"<mobiliario>6.5</mobiliario>" +
-				"<personal>8</personal>" +
+				"<nota>7.9</nota>" +
+				"<mobiliario>9</mobiliario>" +
+				"<personal>9.5</personal>" +
 				"<precio>5</precio>" +
-				"<masificacion>7</masificacion>" +
+				"<masificacion>8</masificacion>" +
 		  	"<localizacion>7</localizacion>" +
-			  "<mantenimiento>6.5</mantenimiento>" +
+			  "<mantenimiento>9</mantenimiento>" +
 			  "<sedes>5</sedes>" +
 			  "<extras>-</extras>" +
 				"<taquillas>-</taquillas>" +
 				"<duchas>-</duchas>" +
-				"<pesoMaxMancuerna>38</pesoMaxMancuerna>" +
+				"<pesoMaxMancuerna>48</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</foto>" +
         "<tipo>CD</tipo>" +
-			"</gimnasio>" +		 
+        "<presentacion>No queríamos que se quedase en el olvido la review de un centro bastante singular, el Atlas de Santa Elena, en el barrio del Carmen. Lo visitamos gracias a un amigo que está apuntado. El centro en sí no está nada mal. Podría ser un mixto entre Centro Deportivo y Gimnasio de Barrio. Destaca sobremanera los 4 pisos de que dispone, dividiéndose en zonas. El trato amigable que proporciona un gimnasio de barrio y el espacio que dan 4 pisos lo hacen una buena opción para entrenar.</presentacion>" +
+        "<instalaciones>Dispone de hasta 5 sedes, la que visitamos se encuentra en el Barrio del Carmen. Dispone de 4 plantas y hasta ahora es el gimnasio con mayor número de éstas que hemos encontrado. En una planta la recepción, en otra la zona de cardio, otra para la de musculación y una más para los vestuarios. Tiene la ventaja de que puedes calentar iendo de una zona a otra, eso sí también puedes ir en ascensor, algo que tampoco había visto nunca en un gimnasio.</instalaciones>" +
+        "<staff>Muy amables en todo momento.</staff>" +
+        "<musculacion>Un piso dedicado por completo a la musculación con bancos, press de banca, poleas y máquinas de espalda y pierna. Con suficiente espacio pero que puede verse colapsado en un día con mucha afluencia.</musculacion>" +
+        "<cardio>Un piso completo para la práctica de cardio con salas de clases.</cardio>" +
+        "<vestuarios>Los vestuarios correctos aunque podrían ser algo más amplios.</vestuarios>" +
+        "<ubicacion></ubicacion>" +
+        "<extras>Podías encontrar maeterial diferente a los de los gimnasios Low Cost, como por ejemplo varias barras Bomber o de tríceps.</extras>" +
+        "<stuff>8.5</stuff>" +
+        "<higiene>65%</higiene>" +
+        "<desorden>35%</desorden>" +
+        "<metro>LA MORALEJA a 5'</metro>" +
+        "<aparcamiento>ZONA AZUL</aparcamiento>" +
+        "<plantas>4</plantas>" +
+        "<duchas>3</duchas>" +
+        "<puertaDuchas>V</puertaDuchas>" +
+        "<taquillas>150</taquillas>" +
+        "<secador></secador>" +
+        "<crucesPolea>1</crucesPolea>" +
+        "<hackSentadillas>2</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
+        "<pesoMancuerna>38</pesoMancuerna>" +
+     "</gimnasio>" +		 
 
-			"<gimnasio>" +
+   	"<gimnasio>" +
 				"<nombre>HOLMES PLACE LA MORALEJA</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-holmes-place-la-moraleja.html</url>" +
 				"<nota>7.9</nota>" +
@@ -105,7 +127,7 @@ var archivoGimnasios = "" +
 			"<gimnasio>" +
 				"<nombre>MCFIT VENTAS</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url>" +
-				"<nota>8.9</nota>" +
+				"<nota>9</nota>" +
 				"<mobiliario>9</mobiliario>" +
 				"<personal>8</personal>" +
 				"<precio>9</precio>" +
