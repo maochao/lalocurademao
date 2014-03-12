@@ -19,6 +19,7 @@ var archivoGimnasios = "" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion>No queríamos que se quedase en el olvido la review de un centro bastante singular, el Atlas de Santa Elena, en el barrio del Carmen. Lo visitamos gracias a un amigo que está apuntado. El centro en sí no está nada mal. Podría ser un mixto entre Centro Deportivo y Gimnasio de Barrio. Destaca sobremanera los 4 pisos de que dispone, dividiéndose en zonas. El trato amigable que proporciona un gimnasio de barrio y el espacio que dan 4 pisos lo hacen una buena opción para entrenar.</presentacion>" +
+        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/atlas.jpg</fotoPresentacion>" +
         "<instalaciones>Dispone de hasta 5 sedes, la que visitamos se encuentra en el Barrio del Carmen. Dispone de 4 plantas y hasta ahora es el gimnasio con mayor número de éstas que hemos encontrado. En una planta la recepción, en otra la zona de cardio, otra para la de musculación y una más para los vestuarios. Tiene la ventaja de que puedes calentar iendo de una zona a otra, eso sí también puedes ir en ascensor, algo que tampoco había visto nunca en un gimnasio.</instalaciones>" +
         "<staff>Muy amables en todo momento.</staff>" +
         "<musculacion>Un piso dedicado por completo a la musculación con bancos, press de banca, poleas y máquinas de espalda y pierna. Con suficiente espacio pero que puede verse colapsado en un día con mucha afluencia.</musculacion>" +
