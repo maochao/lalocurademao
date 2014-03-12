@@ -22,7 +22,7 @@ var archivoGimnasios = "" +
         "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
         "<instalaciones>Dispone de hasta 5 sedes, la que visitamos se encuentra en el Barrio del Carmen. Dispone de 4 plantas y hasta ahora es el gimnasio con mayor número de éstas que hemos encontrado. En una planta la recepción, en otra la zona de cardio, otra para la de musculación y una más para los vestuarios. Tiene la ventaja de que puedes calentar iendo de una zona a otra, eso sí también puedes ir en ascensor, algo que tampoco había visto nunca en un gimnasio.</instalaciones>" +
         "<fotoInstalaciones>http://sites.google.com/site/lalocurademao/scripts/atlas.jpg</fotoInstalaciones>" +
-        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones2>http://sites.google.com/site/lalocurademao/scripts/1388086688133.jpg</fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
