@@ -3,8 +3,10 @@ var arrayTipos = [];
 
 
 $(document).ready(function () {
-	cargarEntrada(nombreGymEntrada);
-	cargarDatosInicio();
+	if (nombreGymEntrada != null)  
+      {cargarEntrada(nombreGymEntrada);}
+
+  cargarDatosInicio();
 	rellenarComboCiudades();
 	rellenarComboTipos();
 	filtrarPorCiudad();
