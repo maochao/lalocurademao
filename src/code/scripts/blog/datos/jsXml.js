@@ -73,6 +73,12 @@ function cargarEntrada(gimnasio) {
         		 $('#presentacion').append(presentacionTexto);
         	 }
         	 
+        	 var fotoPresentacion = todo.find("fotoPresentacion").text();
+        	 if (fotoPresentacion != "" && fotoPresentacion != "-")  {
+        		 var fotoPresentacionTexto = '<img width="360" heigth="400" src="'+fotoPresentacion+'"/>';
+        		 $('#fotoPresentacion').append(fotoPresentacionTexto);
+        	 }
+        	 
         	 var instalaciones = todo.find("instalaciones").text();
         	 if (instalaciones != "" && instalaciones != "-")  {
 	        	 var instalacionesTexto = '<li><b>Instalaciones: </b>' + instalaciones + '</li>';
