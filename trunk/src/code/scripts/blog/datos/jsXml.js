@@ -1,8 +1,5 @@
-var arrayCiudades = [];
- var arrayTipos = [];
-      
 $(document).ready(function () {
-  cargarEntrada("CLUB ATLAS SANTA ELENA");
+	cargarEntrada(nombreGymEntrada);
 	cargarDatosInicio();
 	rellenarComboCiudades();
 	rellenarComboTipos();
@@ -59,118 +56,72 @@ function cargarEntrada(gimnasio) {
 
 	_xml =  $.parseXML(archivoGimnasios);
 	$xmlDoc = $(_xml);
-	$('#entrada div ').remove();
+	$('#tablaEntrada div ').remove();
 	$xmlDoc.find("gimnasio").each(function (){
 	var todo = $(this);
 	var nombre = todo.find("nombre").text();
          if(gimnasio == nombre){
         	 
         	 var presentacion = todo.find("presentacion").text();
-        	 var presentacionTexto = '<p>' + presentacion + '</p>';
-        	 $('#presentacion').append(presentacionTexto);
+        	 if (presentacion != "" && presentacion != "-")  {
+        		 var presentacionTexto = '<p>' + presentacion + '</p>';
+        		 $('#presentacion').append(presentacionTexto);
+        	 }
         	 
         	 var instalaciones = todo.find("instalaciones").text();
-        	 var instalacionesTexto = '<li><b>Instalaciones: </b>' + instalaciones + '</li>';
-        	 $('#instalaciones').append(instalacionesTexto);
+        	 if (instalaciones != "" && instalaciones != "-")  {
+	        	 var instalacionesTexto = '<li><b>Instalaciones: </b>' + instalaciones + '</li>';
+	        	 $('#instalaciones').append(instalacionesTexto);
+        	 }
         	 
         	 var staff = todo.find("staff").text();
-        	 var staffTexto = '<li><b>Staff: </b>' + staff + '</li>';
-        	 $('#staff').append(staffTexto);
+        	 if (staff != "" && staff != "-")  {
+	        	 var staffTexto = '<li><b>Staff: </b>' + staff + '</li>';
+	        	 $('#staff').append(staffTexto);
+        	 }
         	 
         	 var musculacion = todo.find("musculacion").text();
-        	 var musculacionTexto = '<li><b>Musculacion: </b>' + musculacion + '</li>';
-        	 $('#musculacion').append(musculacionTexto);        	 
+        	 if (musculacion != "" && musculacion != "-")  {
+	        	 var musculacionTexto = '<li><b>Musculacion: </b>' + musculacion + '</li>';
+	        	 $('#musculacion').append(musculacionTexto);
+        	 }
         	 
         	 var cardio = todo.find("cardio").text();
-        	 var cardioTexto = '<li><b>Cardio: </b>' + cardio + '</li>';
-        	 $('#cardio').append(cardioTexto);
+        	 if (cardio != "" && cardio != "-")  {
+	        	 var cardioTexto = '<li><b>Cardio: </b>' + cardio + '</li>';
+	        	 $('#cardio').append(cardioTexto);
+        	 }
         	 
         	 var vestuarios = todo.find("vestuarios").text();
-        	 var vestuariosTexto = '<li><b>Vestuarios: </b>' + vestuarios + '</li>';
-        	 $('#vestuarios').append(vestuariosTexto);
+        	 if (vestuarios != "" && vestuarios != "-")  {
+	        	 var vestuariosTexto = '<li><b>Vestuarios: </b>' + vestuarios + '</li>';
+	        	 $('#vestuarios').append(vestuariosTexto);
+        	 }
         	 
         	 var ubicacion = todo.find("ubicacion").text();
-        	 var ubicacionTexto = '<li><b>Ubicacion: </b>' + ubicacion + '</li>';
-        	 $('#ubicacion').append(ubicacionTexto);
+        	 if (ubicacion != "" && ubicacion != "-")  {
+	        	 var ubicacionTexto = '<li><b>Ubicacion: </b>' + ubicacion + '</li>';
+	        	 $('#ubicacion').append(ubicacionTexto);
+        	 }
         	 
         	 var extras = todo.find("extras").text();
-        	 var extrasTexto = '<li><b>Extras: </b>' + extras + '</li>';
-        	 $('#extras').append(extrasTexto);
+        	 if (extras != "" && extras != "-")  {
+	        	 var extrasTexto = '<li><b>Extras: </b>' + extras + '</li>';
+	        	 $('#extras').append(extrasTexto);
+        	 }
         	 
         	 $('#tablaEntrada tbody tr').remove();
-        	 
-        	 	var texto = '';
-   			    texto = formarTextoEntrada(todo,texto);
+        	    var texto = '<tr>';
         	    
-        	 $('#tablaEntrada tbody').append(texto);
+        	    var todo = $(this);
+   			    texto = formarTextoEntrada(todo,texto);
+        		    
+        	    texto = texto + '</tr>';
+        	    
+        	    $('#tablaEntrada tbody').append(texto);
          }   
 })
 };
-
-function formarTextoEntrada(todo,texto){
-    
-	var nombre = todo.find("nombre").text();
-	var nombreTexto = '<tr><th>CARACTERÍSTICA/GIMNASIO</th><th>' + nombre + '</th></tr>';
-    texto = texto + nombreTexto;
-    
-	var stuff = todo.find("stuff").text();
-	var stuffTexto = '<tr><th>Nota Stuff</th><th>' + stuff + '</th></tr>';
-    texto = texto + stuffTexto;
-    
-	var higiene = todo.find("higiene").text();
-	var higieneTexto = '<tr><th>Control Higiene</th><th>' + higiene + '</th></tr>';
-    texto = texto + higieneTexto;
-    
-	var desorden = todo.find("desorden").text();
-	var desordenTexto = '<tr><th>Desorden Sala Musculación</th><th>' + desorden + '</th></tr>';
-    texto = texto + desordenTexto;
-    
-	var metro = todo.find("metro").text();
-	var metroTexto = '<tr><th>Metro Cercano</th><th>' + metro + '</th></tr>';
-    texto = texto + metroTexto;
-    
-	var aparcamiento = todo.find("aparcamiento").text();
-	var aparcamientoTexto = '<tr><th>Aparcamiento</th><th>' + aparcamiento + '</th></tr>';
-    texto = texto + aparcamientoTexto;
-    
-	var plantas = todo.find("plantas").text();
-	var plantasTexto = '<tr><th>Plantas</th><th>' + plantas + '</th></tr>';
-    texto = texto + plantasTexto;
-    
-	var duchas = todo.find("duchas").text();
-	var duchasTexto = '<tr><th>NºDuchas</th><th>' + duchas + '</th></tr>';
-    texto = texto + duchasTexto;
-    
-	var puertaDuchas = todo.find("puertaDuchas").text();
-	var puertaDuchasTexto = '<tr><th>Puerta Duchas</th><th>' + puertaDuchas + '</th></tr>';
-    texto = texto + puertaDuchasTexto;
-    
-	var taquillas = todo.find("taquillas").text();
-	var taquillasTexto = '<tr><th>Nº Taquillas</th><th>' + taquillas + '</th></tr>';
-    texto = texto + taquillasTexto;
-    
-	var secador = todo.find("secador").text();
-	var secadorTexto = '<tr><th>Secador</th><th>' + secador + '</th></tr>';
-    texto = texto + secadorTexto;
-    
-	var crucesPolea = todo.find("crucesPolea").text();
-	var crucesPoleaTexto = '<tr><th>Máquina Cruces Polea</th><th>' + crucesPolea + '</th></tr>';
-    texto = texto + crucesPoleaTexto;
-    
-	var hackSentadillas = todo.find("hackSentadillas").text();
-	var hackSentadillasTexto = '<tr><th>Hack Sentadillas</th><th>' + hackSentadillas + '</th></tr>';
-    texto = texto + hackSentadillasTexto;
-    
-	var maquinaSoleo = todo.find("maquinaSoleo").text();
-	var maquinaSoleoTexto = '<tr><th>Máquina Soleo</th><th>' + maquinaSoleo + '</th></tr>';
-    texto = texto + maquinaSoleoTexto;
-    
-	var pesoMancuerna = todo.find("pesoMancuerna").text();
-	var pesoMancuernaTexto = '<tr><th>Peso Mancuernas</th><th>' + pesoMancuerna + '</th></tr>';
-    texto = texto + pesoMancuernaTexto;
-    
-    return texto;
-}
 
 function cargarDatosInicio(tipo) {
 
@@ -251,6 +202,189 @@ function cargarDatosInicio() {
         $('#myTable tbody').append(texto);})
 };
 
+function establecerEstilo(cifra,tipo) {
+	var  valorTablaRojo = "valorTablaRojo";
+	var  valorTablaVerde = "valorTablaVerde";
+	var  valorTablaAmarillo = "valorTablaAmarillo";
+	
+    var estilo = valorTablaAmarillo;
+    
+    if (tipo == "stuff"){
+    		
+    	if(cifra > "8"){
+    			estilo = valorTablaVerde;
+    		} else if(cifra < "5"){
+    			estilo = valorTablaRojo;
+    		}}
+    
+    else if (tipo == "higiene"){
+		
+		if(cifra > "8"){
+			estilo = valorTablaVerde;
+		} else if(cifra < "5"){
+			estilo = valorTablaRojo;}}
+    
+    else if (tipo == "desorden"){
+		
+		if(cifra < "20"){
+			estilo = valorTablaVerde;
+		} else if(cifra > "60"){
+			estilo = valorTablaRojo;}}
+    
+    else if (tipo == "duchas"){
+		
+		if(cifra > "10"){
+			estilo = valorTablaVerde;
+		} else if(cifra < "8"){
+			estilo = valorTablaRojo;}}
+    
+    else if (tipo == "puertaDuchas"){
+		
+		if(cifra == "V"){
+			estilo = valorTablaVerde;
+		} else if(cifra == "X"){
+			estilo = valorTablaRojo;}}
+    
+    else if (tipo == "taquillas"){
+		
+		if(cifra > "500"){
+			estilo = valorTablaVerde;
+		} else if(cifra < "200"){
+			estilo = valorTablaRojo;}}
+    
+    else if (tipo == "secador"){
+		
+		if(cifra > "4"){
+			estilo = valorTablaVerde;
+		} else if(cifra < "2"){
+			estilo = valorTablaRojo;}}    
+    
+    else if (tipo == "crucesPolea"){
+		
+		if(cifra > "2"){
+			estilo = valorTablaVerde;
+		} else if(cifra < "1"){
+			estilo = valorTablaRojo;}}
+    
+    else if (tipo == "hackSentadillas"){
+		
+		if(cifra > "2"){
+			estilo = valorTablaVerde;
+		} else if(cifra < "1"){
+			estilo = valorTablaRojo;}}
+    
+    else if (tipo == "maquinaSoleo"){
+		
+		if(cifra > "2"){
+			estilo = valorTablaVerde;
+		} else if(cifra < "1"){
+			estilo = valorTablaRojo;}}
+    
+    else if (tipo == "pesoMaxMancuerna"){
+		
+		if(cifra > "44"){
+			estilo = valorTablaVerde;
+		} else if(cifra < "36"){
+			estilo = valorTablaRojo;}}    
+    
+    return estilo;
+}
+
+function formarTextoEntrada(todo,texto){
+	
+    var nombre = todo.find("nombre").text();
+    if (nombre != "" && nombre != "-") {
+    	var nombreTexto = '<tr><th>CARACTERÍSTICA/GIMNASIO</th><th>' + nombre + '</th></tr>';
+    	texto = texto + nombreTexto;
+    }
+
+    var stuff = todo.find("stuff").text();
+    if (stuff != "" && stuff != "-") {
+	    var stuffTexto = '<tr><th>Nota Stuff</th><th class=' + establecerEstilo(stuff,"stuff") + '>' + stuff + '</th></tr>';
+	    texto = texto + stuffTexto;
+    }
+
+    var higiene = todo.find("higiene").text();
+    if (higiene != "" && higiene != "-") {
+    	var higieneTexto = '<tr><th>Control Higiene</th><th class=' + establecerEstilo(higiene,"higiene") + '>' + higiene + '</th></tr>';
+    	texto = texto + higieneTexto;
+    }
+
+    var desorden = todo.find("desorden").text();
+    if (desorden != "" && desorden != "-") {
+    	var desordenTexto = '<tr><th>Desorden Sala Musculación</th><th class=' + establecerEstilo(desorden,"desorden") + '>' + desorden + '</th></tr>';
+    	texto = texto + desordenTexto;
+    }
+
+    var metro = todo.find("metro").text();
+    if (metro != "" && metro != "-") {
+    	var metroTexto = '<tr><th>Metro Cercano</th><th>' + metro + '</th></tr>';
+    	texto = texto + metroTexto;
+    }
+
+    var aparcamiento = todo.find("aparcamiento").text();
+    if (aparcamiento != "" && aparcamiento != "-") {
+    	var aparcamientoTexto = '<tr><th>Aparcamiento</th><th>' + aparcamiento + '</th></tr>';
+    	texto = texto + aparcamientoTexto;
+    }
+
+    var plantas = todo.find("plantas").text();
+    if (plantas != "" && plantas != "-") {
+    	var plantasTexto = '<tr><th>Plantas</th><th>' + plantas + '</th></tr>';
+    	texto = texto + plantasTexto;
+    }
+
+    var duchas = todo.find("duchas").text();
+    if (duchas != "" && duchas != "-") {
+    	var duchasTexto = '<tr><th>NºDuchas</th><th class=' + establecerEstilo(duchas,"duchas") + '>' + duchas + '</th></tr>';
+    	texto = texto + duchasTexto;
+    }
+
+    var puertaDuchas = todo.find("puertaDuchas").text();
+    if (puertaDuchas != "" && puertaDuchas != "-") {
+    	var puertaDuchasTexto = '<tr><th>Puerta Duchas</th><th class=' + establecerEstilo(puertaDuchas,"puertaDuchas") + '>' + puertaDuchas + '</th></tr>';
+    	texto = texto + puertaDuchasTexto;
+    }
+
+    var taquillas = todo.find("taquillas").text();
+    if (taquillas != "" && taquillas != "-") {
+    	var taquillasTexto = '<tr><th>Nº Taquillas</th><th class=' + establecerEstilo(taquillas,"taquillas") + '>' + taquillas + '</th></tr>';
+    	texto = texto + taquillasTexto;
+    }
+
+    var secador = todo.find("secador").text();
+    if (secador != "" && secador != "-") {
+    	var secadorTexto = '<tr><th>Secador</th><th class=' + establecerEstilo(secador,"secador") + '>' + secador + '</th></tr>';
+    	texto = texto + secadorTexto;
+    }
+
+    var crucesPolea = todo.find("crucesPolea").text();
+    if (crucesPolea != "" && crucesPolea != "-") {
+    	var crucesPoleaTexto = '<tr><th>Máquina Cruces Polea</th><th class=' + establecerEstilo(crucesPolea,"crucesPolea") + '>' + crucesPolea + '</th></tr>';
+    	texto = texto + crucesPoleaTexto;
+    }
+
+    var hackSentadillas = todo.find("hackSentadillas").text();
+    if (hackSentadillas != "" && hackSentadillas != "-") {
+    	var hackSentadillasTexto = '<tr><th>Hack Sentadillas</th><th class=' + establecerEstilo(hackSentadillas,"hackSentadillas") + '>' + hackSentadillas + '</th></tr>';
+    	texto = texto + hackSentadillasTexto;
+    }
+
+    var maquinaSoleo = todo.find("maquinaSoleo").text();
+    if (maquinaSoleo != "" && maquinaSoleo != "-") {
+	    var maquinaSoleoTexto = '<tr><th>Máquina Soleo</th><th class=' + establecerEstilo(maquinaSoleo,"maquinaSoleo") + '>' + maquinaSoleo + '</th></tr>';
+	    texto = texto + maquinaSoleoTexto;
+    }
+
+    var pesoMaxMancuerna = todo.find("pesoMaxMancuerna").text();
+    if (pesoMaxMancuerna != "" && pesoMaxMancuerna != "-") {
+	    var pesoMancuernaTexto = '<tr><th>Peso Mancuernas</th><th class=' + establecerEstilo(pesoMaxMancuerna,"pesoMaxMancuerna") + '>' + pesoMaxMancuerna + '</th></tr>';
+	    texto = texto + pesoMancuernaTexto;
+    }
+
+    return texto;
+}
+
 function formarTexto(todo,texto){
 	    
 		var foto = todo.find("foto").text();
@@ -294,10 +428,6 @@ function formarTexto(todo,texto){
         var textoSedes = '<td align="center" width="5"><span>'+sedes+'</span></td>';
         texto = texto + textoSedes;
 
-        var extras = todo.find("extras").text();
-        var textoExtras = '<td align="center" width="5"><span>'+extras+'</span></td>';
-        texto = texto + textoExtras;
-        
         var taquillas = todo.find("taquillas").text();
         var textoTaquillas = '<td align="center" width="5"><span>'+taquillas+'</span></td>';
         texto = texto + textoTaquillas;
