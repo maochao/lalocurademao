@@ -85,10 +85,46 @@ function cargarEntrada(gimnasio) {
 	        	 $('#instalaciones').append(instalacionesTexto);
         	 }
         	 
+        	 var fotoInstalaciones = todo.find("fotoInstalaciones").text();
+        	 if (fotoInstalaciones != "" && fotoInstalaciones != "-")  {
+        		 var fotoInstalacionesTexto = '<img width="360" heigth="400" src="'+fotoInstalaciones+'"/>';
+        		 $('#fotoInstalaciones').append(fotoInstalacionesTexto);
+        	 }
+        	 
+        	 var fotoInstalaciones2 = todo.find("fotoInstalaciones2").text();
+        	 if (fotoInstalaciones2 != "" && fotoInstalaciones2 != "-")  {
+        		 var fotoInstalaciones2Texto = '<img width="360" heigth="400" src="'+fotoInstalaciones2+'"/>';
+        		 $('#fotoInstalaciones2').append(fotoInstalaciones2Texto);
+        	 }
+        	 
+        	 var fotoInstalaciones3 = todo.find("fotoInstalaciones3").text();
+        	 if (fotoInstalaciones3 != "" && fotoInstalaciones3 != "-")  {
+        		 var fotoInstalaciones3Texto = '<img width="360" heigth="400" src="'+fotoInstalaciones3+'"/>';
+        		 $('#fotoInstalaciones3').append(fotoInstalaciones3Texto);
+        	 }
+        	 
+        	 var fotoInstalaciones4 = todo.find("fotoInstalaciones4").text();
+        	 if (fotoInstalaciones4 != "" && fotoInstalaciones4 != "-")  {
+        		 var fotoInstalaciones4Texto = '<img width="360" heigth="400" src="'+fotoInstalaciones4+'"/>';
+        		 $('#fotoInstalaciones4').append(fotoInstalaciones4Texto);
+        	 }
+        	 
+        	 var fotoInstalaciones5 = todo.find("fotoInstalaciones5").text();
+        	 if (fotoInstalaciones5 != "" && fotoInstalaciones5 != "-")  {
+        		 var fotoInstalaciones5Texto = '<img width="360" heigth="400" src="'+fotoInstalaciones5+'"/>';
+        		 $('#fotoInstalaciones5').append(fotoInstalaciones5Texto);
+        	 }
+        	 
         	 var staff = todo.find("staff").text();
         	 if (staff != "" && staff != "-")  {
 	        	 var staffTexto = '<li><b>Staff: </b>' + staff + '</li>';
 	        	 $('#staff').append(staffTexto);
+        	 }
+        	 
+        	 var masificacionTexto = todo.find("masificacionTexto").text();
+        	 if (masificacionTexto != "" && masificacionTexto != "-")  {
+	        	 var masificacionTextoTexto = '<li><b>Masificacion: </b>' + masificacionTexto + '</li>';
+	        	 $('#masificacionTexto').append(masificacionTextoTexto);
         	 }
         	 
         	 var musculacion = todo.find("musculacion").text();
@@ -97,16 +133,106 @@ function cargarEntrada(gimnasio) {
 	        	 $('#musculacion').append(musculacionTexto);
         	 }
         	 
+        	 var fotoMusculacion = todo.find("fotoMusculacion").text();
+        	 if (fotoMusculacion != "" && fotoMusculacion != "-")  {
+        		 var fotoMusculacionTexto = '<img width="360" heigth="400" src="'+fotoMusculacion+'"/>';
+        		 $('#fotoMusculacion').append(fotoMusculacionTexto);
+        	 }
+        	 
+        	 var fotoMusculacion2 = todo.find("fotoMusculacion2").text();
+        	 if (fotoMusculacion2 != "" && fotoMusculacion2 != "-")  {
+        		 var fotoMusculacion2Texto = '<img width="360" heigth="400" src="'+fotoMusculacion2+'"/>';
+        		 $('#fotoMusculacion2').append(fotoMusculacion2Texto);
+        	 }
+        	 
+        	 var fotoMusculacion3 = todo.find("fotoMusculacion3").text();
+        	 if (fotoMusculacion3 != "" && fotoMusculacion3 != "-")  {
+        		 var fotoMusculacion3Texto = '<img width="360" heigth="400" src="'+fotoMusculacion3+'"/>';
+        		 $('#fotoMusculacion3').append(fotoMusculacion3Texto);
+        	 }
+        	 
+        	 var fotoMusculacion4 = todo.find("fotoMusculacion4").text();
+        	 if (fotoMusculacion4 != "" && fotoMusculacion4 != "-")  {
+        		 var fotoMusculacion4Texto = '<img width="360" heigth="400" src="'+fotoMusculacion4+'"/>';
+        		 $('#fotoMusculacion4').append(fotoMusculacion4Texto);
+        	 }
+        	 
+        	 var fotoMusculacion5 = todo.find("fotoMusculacion5").text();
+        	 if (fotoMusculacion5 != "" && fotoMusculacion5 != "-")  {
+        		 var fotoMusculacion5Texto = '<img width="360" heigth="400" src="'+fotoMusculacion5+'"/>';
+        		 $('#fotoMusculacion5').append(fotoMusculacion5Texto);
+        	 }
+        	 
         	 var cardio = todo.find("cardio").text();
         	 if (cardio != "" && cardio != "-")  {
 	        	 var cardioTexto = '<li><b>Cardio: </b>' + cardio + '</li>';
 	        	 $('#cardio').append(cardioTexto);
         	 }
         	 
+        	 var fotoCardio = todo.find("fotoCardio").text();
+        	 if (fotoCardio != "" && fotoCardio != "-")  {
+        		 var fotoCardioTexto = '<img width="360" heigth="400" src="'+fotoCardio+'"/>';
+        		 $('#fotoCardio').append(fotoCardioTexto);
+        	 }
+        	 
+        	 var fotoCardio2 = todo.find("fotoCardio2").text();
+        	 if (fotoCardio2 != "" && fotoCardio2 != "-")  {
+        		 var fotoCardio2Texto = '<img width="360" heigth="400" src="'+fotoCardio2+'"/>';
+        		 $('#fotoCardio2').append(fotoCardio2Texto);
+        	 }
+        	 
+        	 var fotoCardio3 = todo.find("fotoCardio3").text();
+        	 if (fotoCardio3 != "" && fotoCardio3 != "-")  {
+        		 var fotoCardio3Texto = '<img width="360" heigth="400" src="'+fotoCardio3+'"/>';
+        		 $('#fotoCardio3').append(fotoCardio3Texto);
+        	 }
+        	 
+        	 var fotoCardio4 = todo.find("fotoCardio4").text();
+        	 if (fotoCardio4 != "" && fotoCardio4 != "-")  {
+        		 var fotoCardio4Texto = '<img width="360" heigth="400" src="'+fotoCardio4+'"/>';
+        		 $('#fotoCardio4').append(fotoCardio4Texto);
+        	 }
+        	 
+        	 var fotoCardio5 = todo.find("fotoCardio5").text();
+        	 if (fotoCardio5 != "" && fotoCardio5 != "-")  {
+        		 var fotoCardio5Texto = '<img width="360" heigth="400" src="'+fotoCardio5+'"/>';
+        		 $('#fotoCardio5').append(fotoCardio5Texto);
+        	 }
+        	 
         	 var vestuarios = todo.find("vestuarios").text();
         	 if (vestuarios != "" && vestuarios != "-")  {
 	        	 var vestuariosTexto = '<li><b>Vestuarios: </b>' + vestuarios + '</li>';
 	        	 $('#vestuarios').append(vestuariosTexto);
+        	 }
+        	 
+        	 var fotoVestuarios = todo.find("fotoVestuarios").text();
+        	 if (fotoVestuarios != "" && fotoVestuarios != "-")  {
+        		 var fotoVestuariosTexto = '<img width="360" heigth="400" src="'+fotoVestuarios+'"/>';
+        		 $('#fotoVestuarios').append(fotoVestuariosTexto);
+        	 }
+        	 
+        	 var fotoVestuarios2 = todo.find("fotoVestuarios2").text();
+        	 if (fotoVestuarios2 != "" && fotoVestuarios2 != "-")  {
+        		 var fotoVestuarios2Texto = '<img width="360" heigth="400" src="'+fotoVestuarios2+'"/>';
+        		 $('#fotoVestuarios2').append(fotoVestuarios2Texto);
+        	 }
+        	 
+        	 var fotoVestuarios3 = todo.find("fotoVestuarios3").text();
+        	 if (fotoVestuarios3 != "" && fotoVestuarios3 != "-")  {
+        		 var fotoVestuarios3Texto = '<img width="360" heigth="400" src="'+fotoVestuarios3+'"/>';
+        		 $('#fotoVestuarios3').append(fotoVestuarios3Texto);
+        	 }
+        	 
+        	 var fotoVestuarios4 = todo.find("fotoVestuarios4").text();
+        	 if (fotoVestuarios4 != "" && fotoVestuarios4 != "-")  {
+        		 var fotoVestuarios4Texto = '<img width="360" heigth="400" src="'+fotoVestuarios4+'"/>';
+        		 $('#fotoVestuarios4').append(fotoVestuarios4Texto);
+        	 }
+        	 
+        	 var fotoVestuarios5 = todo.find("fotoVestuarios5").text();
+        	 if (fotoVestuarios5 != "" && fotoVestuarios5 != "-")  {
+        		 var fotoVestuarios5Texto = '<img width="360" heigth="400" src="'+fotoVestuarios5+'"/>';
+        		 $('#fotoVestuarios5').append(fotoVestuarios5Texto);
         	 }
         	 
         	 var ubicacion = todo.find("ubicacion").text();
@@ -121,6 +247,18 @@ function cargarEntrada(gimnasio) {
 	        	 $('#extras').append(extrasTexto);
         	 }
         	 
+        	 var maquinaria = todo.find("maquinaria").text();
+        	 if (maquinaria != "" && maquinaria != "-")  {
+	        	 var maquinariaTexto = '<li><b>Maquinaria: </b>' + maquinaria + '</li>';
+	        	 $('#maquinaria').append(maquinariaTexto);
+        	 }
+        	 
+        	 var precios = todo.find("precios").text();
+        	 if (precios != "" && precios != "-")  {
+	        	 var preciosTexto = '<li><b>Precios: </b>' + precios + '</li>';
+	        	 $('#precios').append(preciosTexto);
+        	 }
+        	 
         	 $('#tablaEntrada tbody tr').remove();
         	    var texto = '<tr>';
         	    
@@ -129,7 +267,13 @@ function cargarEntrada(gimnasio) {
         		    
         	    texto = texto + '</tr>';
         	    
-        	    $('#tablaEntrada tbody').append(texto);
+        	 $('#tablaEntrada tbody').append(texto);
+        	 
+        	 var conclusion = todo.find("conclusion").text();
+        	 if (conclusion != "" && conclusion != "-")  {
+	        	 var conclusionTexto = '<li><b>Conclusion: </b>' + conclusion + '</li>';
+	        	 $('#conclusion').append(conclusionTexto);
+        	 }
          }   
 })
 };
