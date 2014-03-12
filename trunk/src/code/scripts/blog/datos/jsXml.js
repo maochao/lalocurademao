@@ -3,8 +3,8 @@ var arrayTipos = [];
 
 
 $(document).ready(function () {
-	if (nombreGymEntrada != null)  
-      {cargarEntrada(nombreGymEntrada);}
+	 if (typeof (nombreGymEntrada) !== "undefined")
+		{cargarEntrada(nombreGymEntrada);}
 
   cargarDatosInicio();
 	rellenarComboCiudades();
