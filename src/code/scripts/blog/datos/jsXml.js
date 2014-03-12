@@ -1,3 +1,7 @@
+var arrayCiudades = [];
+var arrayTipos = [];
+
+
 $(document).ready(function () {
 	cargarEntrada(nombreGymEntrada);
 	cargarDatosInicio();
