@@ -1,12 +1,11 @@
 var arrayCiudades = [];
 var arrayTipos = [];
 
-
 $(document).ready(function () {
-	 if (typeof (nombreGymEntrada) !== "undefined")
+		if (typeof (nombreGymEntrada) !== "undefined")
 		{cargarEntrada(nombreGymEntrada);}
-
-  cargarDatosInicio();
+	
+	cargarDatosInicio();
 	rellenarComboCiudades();
 	rellenarComboTipos();
 	filtrarPorCiudad();
@@ -179,6 +178,32 @@ function cargarDatosCiudad(ciudad) {
     texto = texto + '</tr>';
     
     $('#myTable tbody').append(texto);})
+};
+
+function cargarDatosTipos(tipo) {
+
+    var tipoCombo = tipo;
+    _xml =  $.parseXML(archivoGimnasios);
+    $xmlDoc = $(_xml);
+    $('#myTable tbody tr').remove();
+    $xmlDoc.find("gimnasio").each(function (){
+        
+	var texto = '<tr>';
+	
+	var tipoGym = $(this).find("tipo").text();
+	    if (!existeEnArray(tipoGym,arrayTipos)){
+	            arrayTipos.push(establecerTipoGym(tipoGym));
+	    }
+	    
+	      if(tipoCombo == establecerTipoGym(tipoGym) || tipoCombo == "SELECCIONA UN TIPO"){  
+	              
+	          var todo = $(this);
+	              texto = formarTexto(todo,texto);
+	      }
+	        
+	texto = texto + '</tr>';
+	
+	$('#myTable tbody').append(texto);})
 };
 
 function cargarDatosInicio() {
