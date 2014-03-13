@@ -31,7 +31,7 @@ var archivoGimnasios = "" +
         "<musculacion>Un piso dedicado por completo a la musculación con bancos, press de banca, poleas y máquinas de espalda y pierna. Con suficiente espacio pero que puede verse colapsado en un día con mucha afluencia.</musculacion>" +
         "<fotoMusculacion></fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
-        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion3>http://goo.gl/eVAPNh</fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Un piso completo para la práctica de cardio con salas de clases.</cardio>" +
