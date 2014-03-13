@@ -22,16 +22,16 @@ var archivoGimnasios = "" +
         "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
         "<instalaciones>Dispone de hasta 5 sedes, la que visitamos se encuentra en el Barrio del Carmen. Dispone de 4 plantas y hasta ahora es el gimnasio con mayor número de éstas que hemos encontrado. En una planta la recepción, en otra la zona de cardio, otra para la de musculación y una más para los vestuarios. Tiene la ventaja de que puedes calentar iendo de una zona a otra, eso sí también puedes ir en ascensor, algo que tampoco había visto nunca en un gimnasio.</instalaciones>" +
         "<fotoInstalaciones>http://sites.google.com/site/lalocurademao/scripts/atlas.jpg</fotoInstalaciones>" +
-        "<fotoInstalaciones2>http://sites.google.com/site/lalocurademao/scripts/1388086688133.jpg</fotoInstalaciones2>" +
-        "<fotoInstalaciones3></fotoInstalaciones3>" +
-        "<fotoInstalaciones4></fotoInstalaciones4>" +
-        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Health%20City%20Orense/1388086688133.jpg</fotoInstalaciones2>" +
+        "<fotoInstalaciones3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Health%20City%20Orense/1388086688133.jpg</fotoInstalaciones3>" +
+        "<fotoInstalaciones4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Health%20City%20Orense/1388086688133.jpg</fotoInstalaciones4>" +
+        "<fotoInstalaciones5>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Health%20City%20Orense/1388086688133.jpg</fotoInstalaciones5>" +
         "<staff>Muy amables en todo momento.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Un piso dedicado por completo a la musculación con bancos, press de banca, poleas y máquinas de espalda y pierna. Con suficiente espacio pero que puede verse colapsado en un día con mucha afluencia.</musculacion>" +
         "<fotoMusculacion></fotoMusculacion>" +
-        "<fotoMusculacion2></fotoMusculacion2>" +
-        "<fotoMusculacion3>http://goo.gl/eVAPNh</fotoMusculacion3>" +
+        "<fotoMusculacion2>http://goo.gl/eVAPNh</fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Un piso completo para la práctica de cardio con salas de clases.</cardio>" +
