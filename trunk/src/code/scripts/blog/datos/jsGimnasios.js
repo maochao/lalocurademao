@@ -22,10 +22,10 @@ var archivoGimnasios = "" +
         "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
         "<instalaciones>Dispone de hasta 5 sedes, la que visitamos se encuentra en el Barrio del Carmen. Dispone de 4 plantas y hasta ahora es el gimnasio con mayor número de éstas que hemos encontrado. En una planta la recepción, en otra la zona de cardio, otra para la de musculación y una más para los vestuarios. Tiene la ventaja de que puedes calentar iendo de una zona a otra, eso sí también puedes ir en ascensor, algo que tampoco había visto nunca en un gimnasio.</instalaciones>" +
         "<fotoInstalaciones>http://sites.google.com/site/lalocurademao/scripts/atlas.jpg</fotoInstalaciones>" +
-        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Health%20City%20Orense/8133.jpg</fotoInstalaciones2>" +
-        "<fotoInstalaciones3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Health%20City%20Orense/688133.jpg</fotoInstalaciones3>" +
-        "<fotoInstalaciones4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Health%20City%20Orense/688133.jpg</fotoInstalaciones4>" +
-        "<fotoInstalaciones5>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Health%20City%20Orense/88133.jpg</fotoInstalaciones5>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff>Muy amables en todo momento.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Un piso dedicado por completo a la musculación con bancos, press de banca, poleas y máquinas de espalda y pierna. Con suficiente espacio pero que puede verse colapsado en un día con mucha afluencia.</musculacion>" +
@@ -904,11 +904,11 @@ var archivoGimnasios = "" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Los vestuarios algo canijos a juzgar por las pocas taquillas y también por el poco espacio, aunque no tuvimos ningún problema a la hora de usarlos:</vestuarios>" +
-        "<fotoVestuarios></fotoVestuarios>" +
-        "<fotoVestuarios2></fotoVestuarios2>" +
-        "<fotoVestuarios3></fotoVestuarios3>" +
-        "<fotoVestuarios4></fotoVestuarios4>" +
-        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV2.jpg</fotoVestuarios2>" +
+        "<fotoVestuarios3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV3.jpg</fotoVestuarios3>" +
+        "<fotoVestuarios4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV4.jpg</fotoVestuarios4>" +
+        "<fotoVestuarios5>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV5.jpg</fotoVestuarios5>" +
         "<ubicacion>En el polígono de las Mercedes, a 5´ del Plenilunio. La mejor opción es ir en coche. Podemos aparcar gratis en el centro comercial sin problemas. Si no disponemos de coche la mejor opción es coger algún autobús cruzando el puente de la A2 hasta Avenida América.</ubicacion>" +
         "<extras>La zona de musculación dispone de tablas plastificadas con ejercicios divididas de acuerdo al nivel de los usuarios, en principiante, avanzado, etcétera.</extras>" +
         "<stuff>8</stuff>" +
