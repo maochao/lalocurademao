@@ -892,11 +892,11 @@ var archivoGimnasios = "" +
         "<staff>No tuvimos mucho contacto con el personal, sólo a la entrada y a la salida, pero seguro que hubiesen estado encantados de ayudarnos en cualquier duda que tuviésemos.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Bastante espaciosa, separada por un pasillo central en medio. Cuenta con máquinas en muy buen estado y de calidad. Algunas de ellas incluso no las había probado nunca, como una especie de prensa guiada donde podías subir el peso en diagonal para gemelos pero que nosotros al principio usamos para muslos(esto fue gracioso porque algún usuario se fijo y también la uso para muslos en vez de gemelos):</musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
-        "<fotoMusculacion2></fotoMusculacion2>" +
-        "<fotoMusculacion3></fotoMusculacion3>" +
-        "<fotoMusculacion4></fotoMusculacion4>" +
-        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM2.jpg</fotoMusculacion2>" +
+        "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM3.jpg</fotoMusculacion3>" +
+        "<fotoMusculacion4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM4.jpg</fotoMusculacion4>" +
+        "<fotoMusculacion5>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM5.jpg</fotoMusculacion5>" +
         "<cardio>La zona de cardio cuenta con numerosas máquinas de correr, elípticas, simuladoras de escaleras, etc. En frente de las bicis tienen una Tv con Teledeporte. Las máquinas muy chulas también y bastante nuevas.</cardio>" +
         "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
