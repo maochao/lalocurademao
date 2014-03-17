@@ -18,7 +18,7 @@ var archivoGimnasios = "" +
         "<ciudad>ALCALÁ DE HENARES</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
-        "<presentacion>Este McFit es el segundo más grande de Madrid, sólo por detrás del giganteco El Carmen. Se encuentra al lado de la A-2 desde la salida 30 de la misma. El día elegido fue este sábado pasado y hay que decir que se ve muy grande y espacioso. Sin problemas de aparcamiento ya que hay parking  gratuito al lado.</presentacion>" +
+        "<presentacion>Este McFit es el 2° más grande de Madrid, sólo por detrás del giganteco El Carmen. Se encuentra al lado de la A-2 desde la salida 30 de la misma. El día elegido fue este sábado pasado y hay que decir que se ve muy grande y espacioso. Sin problemas de aparcamiento ya que hay parking  gratuito al lado.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
         "<instalaciones>Se encuentra ubicado en una zona comercial, en una segunda planta a la que puedes acceder desde la calle en ascensor o por las escaleras. Puedes encontrar una tienda de suplementación en la parte de abajo así como un Burger King por si te quierers dar un homenaje después de una dura sesión de volumen.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
