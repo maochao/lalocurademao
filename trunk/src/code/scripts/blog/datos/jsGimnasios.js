@@ -412,19 +412,19 @@ var archivoGimnasios = "" +
         "<staff>El personal correcto. Más el monitor de sala que la chica de la entrada. El primero amable nos proporcionó el material requerido, en este caso necesitamos ketbells de cierto pero que no había en la sala de musculación pero sí en otras dependencias. La chica de la recepción correcta aunque un poquito más preocupada por el hecho de recibir la cuota de pase diario que por agradarnos. Esa fue nuestra impresión.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Maquinaria Life Fitness muy nueva.&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://www.lifefitness.es/' target='_blank'&gt;LIFE FITNESS&lt;/a&gt;&lt;/span&gt;&lt;/span&gt; La disposición, muy típica, consistía en una división en cuatro. Cardio, pesos libres + máquinas + zona funcional + maquinas para circuito:</musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Pradosport%20Aranda%20de%20Duero/paM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Máquinas nuevas Life Fitness. Como siempre elípticas, cintas y bicicletas:</cardio>" +
-        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Pradosport%20Aranda%20de%20Duero/paC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Aquí es donde suelen fallar la mayoría de gimnasios. Normalmente suelen destinar un espacio insuficiente a esta parte. La visita la hicimos un sábado por la mañana y no encontramos masificación alguna, aunque tampoco es que estuviéramos solos en el recinto. Habría que ver un día entre semana a hora punta. En este caso los vestuarios se antojan pequeños e insuficientes. Dispone de secadores Dyson Airblade que te secan en las manos rápidamente. &lt;span style='text-align: center;'&gt;VER PÁGINA WEB.&lt;/span&gt;</vestuarios>" +
-        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Pradosport%20Aranda%20de%20Duero/paV.jpg</fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
@@ -841,7 +841,7 @@ var archivoGimnasios = "" +
         "<ciudad>HARO</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymOjasportHaro.jpg</foto>" +
         "<tipo>BR</tipo>" +
-        "<presentacion>Esta semana también visité un gimnasio cerca de Miranda, concrétamente en Haro, el OjaSport. Este centro es parte de la oferta de esta empresa donde también se ofrecen otros servicio como aventura, enoturismo o despedidas. Se puede ver en su página web: &lt;a href='http://www.ojasport.com/' target='_blank'&gt;http://www.ojasport.com/&lt;/a&gt;:&lt;&lt;br&gt;&gt;En esta ocasión la manera de visitar el centro no ha sido a través de un formulario, una llamada de teléfono, un anuncio, ni siquiera pagando una módica cantidad, sino que fui enchufado gracias a un buen amigo mío. El gimnasio ofrece un trato cercano y amigable por parte de la persona que lo lleva y en todo momento estuvimos bastante agusto.</presentacion>" +
+        "<presentacion>Esta semana también visité un gimnasio cerca de Miranda, concrétamente en Haro, el OjaSport. Este centro es parte de la oferta de esta empresa donde también se ofrecen otros servicio como aventura, enoturismo o despedidas. Se puede ver en su página web: &lt;a href='http://www.ojasport.com/' target='_blank'&gt;http://www.ojasport.com&lt;. En esta ocasión la manera de visitar el centro no ha sido a través de un formulario, una llamada de teléfono, un anuncio, ni siquiera pagando una módica cantidad, sino que fui enchufado gracias a un buen amigo mío. El gimnasio ofrece un trato cercano y amigable por parte de la persona que lo lleva y en todo momento estuvimos bastante agusto.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymOjasportHaro.jpg</fotoPresentacion>" +
         "<instalaciones>Cuenta con una entrada con mostrador bastante chula. A la derecha encontramos un largo pasillo por donde avanzamos dejando atrás vestuarios y demás salas. Antes de llegar al final y a la izquierda se dispone la zona de musculación/cardio.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
