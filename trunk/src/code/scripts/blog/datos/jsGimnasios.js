@@ -1,6 +1,4 @@
-var archivoGimnasios = "" +
-		"<gimnasios>" +
-
+var archivoGimnasios = "" +		"<gimnasios>" +
 			"<gimnasio>" +
 				"<nombre>MCFIT ALCALA</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-alcala.html</url>" +
@@ -599,19 +597,19 @@ var archivoGimnasios = "" +
         "<staff>Pudimos tratar con el monitor de sala  que en todo momento estuvo pendiente de estuviésemos agusto y de realizáramos los ejercicios sin ningún problema. La recepcionista fue la que nos contestó el teléfono y nos permitió visitar el centro. Sin ningún problema.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Nada más entrar está la recepción y a continuación una hilera de máquinas de cardio en la zona de la derecha. A la parte derecha podemos ver máquinas de musculación, dos ó tres para dar paso a una zona más grande donde se aglutinaría el peso libre con el resto de las máquinas. Máquinas &lt;a href='http://www.gervasport.bg/' target='_blank'&gt;Gervasport&lt;/a&gt; con un trote considerable, probablemente desde finales del 89. Aún así las máquinas no están en mal estado, únicamente tocadas por el paso del tiempo, como es normal. Esta marca búlgara nada tiene que envidiar al resto puesto que con más de 20 años ahí siguen:</musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fitness%20Place%20Alameda%20Osuna/fpaM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Dispone de una hilera pegada a la pared derecha con unas 10 máquinas repartidas entre cintas, bicis y elípticas. No hay mucho más que decir en este aspecto:</cardio>" +
-        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fitness%20Place%20Alameda%20Osuna/fpaC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>&lt;span&gt;Cuenta con unos chulos y espaciosos vestuarios. Como en el de Leganés los cierres de las taquillas están informatizados, deslizando tu tarjeta personal por encima queda registrado que ya has cerrado una taquilla no dejandote cerrar otra o incluso irte del recinto. Con tu tarjeta también puedes adquirir minutos de ducha, por cada 50 céntimos tienes 5 minutos de ducha:&lt;/span&gt;</vestuarios>" +
-        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fitness%20Place%20Alameda%20Osuna/fpaV.jpg</fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
