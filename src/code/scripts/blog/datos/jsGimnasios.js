@@ -2,6 +2,133 @@ var archivoGimnasios = "" +
 		"<gimnasios>" +
 
 			"<gimnasio>" +
+				"<nombre>MCFIT ALCALA</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-alcala.html</url>" +
+				"<nota>9</nota>" +
+				"<mobiliario>7</mobiliario>" +
+				"<personal>7.5</personal>" +
+				"<precio>9</precio>" +
+				"<masificacion>7</masificacion>" +
+		  	"<localizacion>6</localizacion>" +
+			  "<mantenimiento>8.5</mantenimiento>" +
+			  "<sedes>198</sedes>" +
+				"<taquillas>156</taquillas>" +
+				"<duchas>5</duchas>" +
+				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>ALCALÁ DE HENARES</ciudad>" +
+        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion>Este McFit es el segundo más grande de Madrid, sólo por detrás del giganteco El Carmen. Se encuentra al lado de la A-2 desde la salida 30 de la misma. El día elegido fue este sábado pasado y hay que decir que se ve muy grande y espacioso. Sin problemas de aparcamiento ya que hay parking  gratuito al lado.</presentacion>" +
+        "<fotoPresentacion></fotoPresentacion>" +
+        "<instalaciones>Se encuentra ubicado en una zona comercial, en una segunda planta a la que puedes acceder desde la calle en ascensor o por las escaleras. Puedes encontrar una tienda de suplementación en la parte de abajo así como un Burger King por si te quierers dar un homenaje después de una dura sesión de volumen.</instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>El sábado únicamente encontramos una persona al igual que en el de Torrejón. No así en del Carmen que suele haber dos personas los sábados por la mañana. Estuvimos charlando como de costumbre con el monitor del mostrador, esta vez de las diferentes sedes de Madrid.</staff>" +
+        "<masificacionTexto>Siendo tan grandes estos centros suele ser difícil que la masificación sea un problema. Este centro concrétamente no iba a ser menos.</masificacionTexto>" +
+        "<musculacion>Se puede decir que está dividido en 4 grandes zonas; máquinas, pesos libres, poleas y cruces y cardio finalmente. La zona de musculación muy similar al de Torrejón. Amplio mancuernero, no tanto como el del Carmen pero suficiente. Con varios bancos. Dos cruces de poleas. Zona bastante luminosa y ventilada. Se puede ver la autovía desde una de sus esquinas.</musculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio>Ocupando un cuarto del recinto podría decirse que es de lás más grandes, incluso más que la del Carmen. Varias hileras de cintas, bicis y suficientes steppers(bueno, creo que sólo había dos) así como elípticas.</cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Alcala/mfaC.jpg</fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Bastante amplios. Como anécdota decir que estaba estropeada la máquina de recarga de la tarjeta monedero y te podías duchar gratis por el momento.</vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Alcala/mfaV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/F0Qhd' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Muy cerca de la salida 30 dirección Zaragoza de la A-2.&lt;/span&gt;</ubicacion>" +
+        "<extras>Existen diarios de entrenamiento disponibles para el usuario ordenados por grupos musculares distribuídos en stands por todo el gimnasio, de manera que se pueden identificar las máqinas numeradas con los ejercicios propuestos en las tablas/diario. De esta manera puedes organizar tus entrenamientos de manera bastante efectiva y agilizar el paso de un ejercicio a otro.</extras>" +
+        "<stuff>7.5</stuff>" +
+        "<higiene>85%</higiene>" +
+        "<desorden>20%</desorden>" +
+        "<metro>-</metro>" +
+        "<aparcamiento>PARKING LIBRE</aparcamiento>" +
+        "<plantas>1</plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
+        "<secador>1</secador>" +
+        "<crucesPolea>2</crucesPolea>" +
+        "<hackSentadillas>2</hackSentadillas>" +
+        "<maquinaSoleo></maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
+        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +
+
+			"<gimnasio>" +
+				"<nombre>CARDENIO CAMINERA TORRENUEVA</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2013/11/review-cardenio-caminera-torrenueva.html</url>" +
+				"<nota>7.2</nota>" +
+				"<mobiliario>8</mobiliario>" +
+				"<personal>8</personal>" +
+				"<precio>6.5</precio>" +
+				"<masificacion>9</masificacion>" +
+		  	"<localizacion>5</localizacion>" +
+			  "<mantenimiento>9</mantenimiento>" +
+			  "<sedes>1</sedes>" +
+				"<taquillas>12</taquillas>" +
+				"<duchas>-</duchas>" +
+				"<pesoMaxMancuerna>10</pesoMaxMancuerna>" +
+        "<ciudad>TORRENUEVA</ciudad>" +
+        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymCardenioCaminera.jpg</foto>" +
+        "<tipo>HT</tipo>" +
+        "<presentacion>Todo el hotel es una pasada en general. Mola lo mucho lo perdido que está en medio del campo. También destaca por lo detallista que es. Se disponen 4 torres unidas por habitaciones con un gran patio en medio. En uno de estos 4 pasillos está la zona fitness. Con una placa fuera con el nombre del gym: Gimnasio Cardenio, invita a la práctica deportiva</presentacion>" +
+        "<fotoPresentacion></fotoPresentacion>" +
+        "<instalaciones>Sala lo suficientemente grade con máquinas de cardio, una especie de multifunción para la musculación, mancuernero, taquillas, TV y baño.</instalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caminera%20Torrenueva/ctI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>El personal del hotel muy majo, atento y agradable en todo momento. Es un 5 ***** de verdad.</staff>" +
+        "<masificacionTexto>Pueden estar al menos 5 personas a la vez.</masificacionTexto>" +
+        "<musculacion>&lt;span&gt;Mancuernero de hasta 10 kilos para tonificar el cuerpo más que nada. Aunque esta zona aprueba por la máquina multifunción y multipolea que había. Varias posibilidades con un banco multifunción y con peso suficiente para hacer bastantes ejercicios. Eso sí, de tren superior prácticamente.&lt;/span&gt;</musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caminera%20Torrenueva/ctM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caminera%20Torrenueva/ctM2.jpg</fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio>&lt;span&gt;Un par de cintas de correr, otro par de bicis y elípticas. Como anécdota cabe destacar que si tienes la tarjeta de Gol TV la podrás poner sin problemas en TV y ver algún partido.&lt;/span&gt;</cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caminera%20Torrenueva/ctC.jpg</fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Dispone de un baño, sin duchas.</vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caminera%20Torrenueva/ctV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/KDmgF' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
+        "<extras>Dispone de dispensador de agua. Dispone de arnes para ejercitar los músculos del cuello. Raro de ver. Sólo lo he visto en el &lt;a href='http://lalocurademao.blogspot.com.es/2014/02/review-pradosport-aranda-de-duero.html' target='_blank'&gt;PRADOSPORT DE ARANDA DE DUERO&lt;/a&gt;</extras>" +
+        "<stuff>9</stuff>" +
+        "<higiene>90%</higiene>" +
+        "<desorden>5%</desorden>" +
+        "<metro>-</metro>" +
+        "<aparcamiento>Disponible</aparcamiento>" +
+        "<plantas>1</plantas>" +
+        "<puertaDuchas>-</puertaDuchas>" +
+        "<secador>1</secador>" +
+        "<crucesPolea>0</crucesPolea>" +
+        "<hackSentadillas>0</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='http://www.sportsartfitness.com/' target='_blank'&gt;SPORTS ART&lt;/a&gt;</maquinaria>" +
+        "<precios>&lt;span&gt;Entrada sencilla al gimnasio: 3€; Entrada gimnasio, piscina y jacuzzi: 6&lt;/span&gt;€; Bono de 7X5.</precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +		 
+
+			"<gimnasio>" +
 				"<nombre>CLUB ATLAS SANTA ELENA</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-club-atlas-santa-elena.html</url>" +
 				"<nota>7.9</nota>" +
@@ -60,6 +187,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>2</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
      "</gimnasio>" +		 
@@ -123,6 +251,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>-</hackSentadillas>" +
         "<maquinaSoleo>-</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +		 
@@ -186,6 +315,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>-</hackSentadillas>" +
         "<maquinaSoleo>-</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +		 
@@ -200,59 +330,59 @@ var archivoGimnasios = "" +
 				"<masificacion>7</masificacion>" +
 		  	"<localizacion>6</localizacion>" +
 			  "<mantenimiento>8.5</mantenimiento>" +
-			  "<sedes>200</sedes>" +
+			  "<sedes>198</sedes>" +
 				"<taquillas>136</taquillas>" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>TORREJÓN DE ARDOZ</ciudad>" +
         "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
-        "<presentacion>-</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
-        "<instalaciones>-</instalaciones>" +
-        "<fotoInstalaciones></fotoInstalaciones>" +
-        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<presentacion>En la línea de los demás McFit de alrededores de Madrid. Algo más pequeño que el de Alcalá presenta también una gran superficie. </presentacion>" +
+        "<fotoPresentacion></fotoPresentacion>" +
+        "<instalaciones></instalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mftI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mft2.jpg</fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
-        "<staff>-</staff>" +
-        "<masificacionTexto></masificacionTexto>" +
-        "<musculacion></musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
+        "<staff>El monitor con el que hablamos bastante bien. Se le veía que disfrutaba currando allí, además estaba bastante enterado de las características de las demás sedes. En la línea del personal de McFit que por lo general suele ser más amable, al menos, que el personal del Holidays Gym, por ejemplo.</staff>" +
+        "<masificacionTexto>En una superficie tan grande es difícil que se produzca</masificacionTexto>" +
+        "<musculacion>En la línea de los demás. Varias máquinas para trabajar todos los grupos musculares. Suelen estar algunas por cuadriplicado.</musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mftM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio></cardio>" +
-        "<fotoCardio></fotoCardio>" +
+        "<cardio>Al igual que en la zona de musculación hay bastante y suele ser difícil no ver alguna libre</cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mftC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios></vestuarios>" +
-        "<fotoVestuarios></fotoVestuarios>" +
+        "<vestuarios>Bastante amplios y parecidos a los demás.</vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mftV.jpg</fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion></ubicacion>" +
-        "<extras></extras>" +
-        "<stuff></stuff>" +
-        "<higiene></higiene>" +
-        "<desorden></desorden>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/Hk1Z2' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Muy cerca de la A-2.&lt;/span&gt;</ubicacion>" +
+        "<extras>Existen diarios de entrenamiento disponibles para el usuario ordenados por grupos musculares distribuídos en stands por todo el gimnasio, de manera que se pueden identificar las máqinas numeradas con los ejercicios propuestos en las tablas/diario. De esta manera puedes organizar tus entrenamientos de manera bastante efectiva y agilizar el paso de un ejercicio a otro.</extras>" +
+        "<stuff>9.5</stuff>" +
+        "<higiene>75%</higiene>" +
+        "<desorden>25%</desorden>" +
         "<metro></metro>" +
-        "<aparcamiento></aparcamiento>" +
-        "<plantas></plantas>" +
-        "<puertaDuchas></puertaDuchas>" +
+        "<aparcamiento>LIBRE</aparcamiento>" +
+        "<plantas>1</plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
         "<secador></secador>" +
         "<crucesPolea></crucesPolea>" +
         "<hackSentadillas></hackSentadillas>" +
-        "<maquinaSoleo></maquinaSoleo>" +
-        "<maquinaria></maquinaria>" +
-        "<precios></precios>" +
+        "<maquinaSoleo>1</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
+        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
-
 
 	 	"<gimnasio>" +
 				"<nombre>PRADOSPORT ARANDA de DUERO</nombre>" +
@@ -313,6 +443,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>1</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
@@ -327,7 +458,7 @@ var archivoGimnasios = "" +
 				"<masificacion>6</masificacion>" +
 		  	"<localizacion>8</localizacion>" +
 			  "<mantenimiento>8</mantenimiento>" +
-			  "<sedes>200</sedes>" +
+			  "<sedes>198</sedes>" +
 				"<taquillas>160</taquillas>" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
@@ -375,8 +506,9 @@ var archivoGimnasios = "" +
         "<crucesPolea>-</crucesPolea>" +
         "<hackSentadillas>-</hackSentadillas>" +
         "<maquinaSoleo>1</maquinaSoleo>" +
-        "<maquinaria></maquinaria>" +
-        "<precios></precios>" +
+        "<maquinaria>&lt;a href='http://www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
+        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
 		
@@ -390,7 +522,7 @@ var archivoGimnasios = "" +
 				"<masificacion>7</masificacion>" +
 		  	"<localizacion>8.5</localizacion>" +
 			  "<mantenimiento>8</mantenimiento>" +
-			  "<sedes>200</sedes>" +
+			  "<sedes>198</sedes>" +
 				"<taquillas>232</taquillas>" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
@@ -421,7 +553,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
         "<ubicacion></ubicacion>" +
-        "<extras></extras>" +
+        "<extras>Existen diarios de entrenamiento disponibles para el usuario ordenados por grupos musculares distribuídos en stands por todo el gimnasio, de manera que se pueden identificar las máqinas numeradas con los ejercicios propuestos en las tablas/diario. De esta manera puedes organizar tus entrenamientos de manera bastante efectiva y agilizar el paso de un ejercicio a otro.</extras>" +
         "<stuff></stuff>" +
         "<higiene></higiene>" +
         "<desorden></desorden>" +
@@ -433,8 +565,9 @@ var archivoGimnasios = "" +
         "<crucesPolea></crucesPolea>" +
         "<hackSentadillas></hackSentadillas>" +
         "<maquinaSoleo></maquinaSoleo>" +
-        "<maquinaria></maquinaria>" +
-        "<precios></precios>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
+        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
 	
@@ -497,6 +630,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>1</hackSentadillas>" +
         "<maquinaSoleo>1</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
@@ -623,6 +757,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>1</hackSentadillas>" +
         "<maquinaSoleo>X</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
@@ -748,6 +883,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>1</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +		 
@@ -811,6 +947,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>1</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria>&lt;a href='www.technogym.com' target='_blank'&gt;TECHNOGYM&lt;/a&gt;</maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +			
@@ -937,6 +1074,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>2</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
@@ -951,7 +1089,7 @@ var archivoGimnasios = "" +
 				"<masificacion>7</masificacion>" +
 		  	"<localizacion>6.5</localizacion>" +
   			"<mantenimiento>8</mantenimiento>" +
-			  "<sedes>200</sedes>" +
+			  "<sedes>198</sedes>" +
 				"<taquillas>142</taquillas>" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
@@ -999,8 +1137,8 @@ var archivoGimnasios = "" +
         "<crucesPolea>VARIOS</crucesPolea>" +
         "<hackSentadillas>VARIOS</hackSentadillas>" +
         "<maquinaSoleo>1</maquinaSoleo>" +
-        "<maquinaria></maquinaria>" +
-        "<precios></precios>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
 			
@@ -1063,6 +1201,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas></hackSentadillas>" +
         "<maquinaSoleo></maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
@@ -1187,6 +1326,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>-</hackSentadillas>" +
         "<maquinaSoleo>1</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +			
@@ -1799,6 +1939,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>1</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
@@ -1862,6 +2003,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>2</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
@@ -1925,6 +2067,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas></hackSentadillas>" +
         "<maquinaSoleo></maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
