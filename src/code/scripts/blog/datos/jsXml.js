@@ -253,6 +253,12 @@ function cargarEntrada(gimnasio) {
 	        	 $('#maquinaria').append(maquinariaTexto);
         	 }
         	 
+        	 var clases = todo.find("clases").text();
+        	 if (clases != "" && clases != "-")  {
+	        	 var clasesTexto = '<li><b>Clases: </b>' + clases + '</li>';
+	        	 $('#clases').append(clasesTexto);
+        	 }
+        	 
         	 var precios = todo.find("precios").text();
         	 if (precios != "" && precios != "-")  {
 	        	 var preciosTexto = '<li><b>Precios: </b>' + precios + '</li>';
