@@ -16,10 +16,10 @@ var archivoGimnasios = "" +
 				"<duchas>5</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>ALCALÁ DE HENARES</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Este McFit es el segundo más grande de Madrid, sólo por detrás del giganteco El Carmen. Se encuentra al lado de la A-2 desde la salida 30 de la misma. El día elegido fue este sábado pasado y hay que decir que se ve muy grande y espacioso. Sin problemas de aparcamiento ya que hay parking  gratuito al lado.</presentacion>" +
-        "<fotoPresentacion></fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
         "<instalaciones>Se encuentra ubicado en una zona comercial, en una segunda planta a la que puedes acceder desde la calle en ascensor o por las escaleras. Puedes encontrar una tienda de suplementación en la parte de abajo así como un Burger King por si te quierers dar un homenaje después de una dura sesión de volumen.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -80,10 +80,10 @@ var archivoGimnasios = "" +
 				"<duchas>-</duchas>" +
 				"<pesoMaxMancuerna>10</pesoMaxMancuerna>" +
         "<ciudad>TORRENUEVA</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymCardenioCaminera.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCardenioCaminera.jpg</foto>" +
         "<tipo>HT</tipo>" +
         "<presentacion>Todo el hotel es una pasada en general. Mola lo mucho lo perdido que está en medio del campo. También destaca por lo detallista que es. Se disponen 4 torres unidas por habitaciones con un gran patio en medio. En uno de estos 4 pasillos está la zona fitness. Con una placa fuera con el nombre del gym: Gimnasio Cardenio, invita a la práctica deportiva</presentacion>" +
-        "<fotoPresentacion></fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCardenioCaminera.jpg</fotoPresentacion>" +
         "<instalaciones>Sala lo suficientemente grade con máquinas de cardio, una especie de multifunción para la musculación, mancuernero, taquillas, TV y baño.</instalaciones>" +
         "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caminera%20Torrenueva/ctI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -143,12 +143,12 @@ var archivoGimnasios = "" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>48</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymClubAtlas.jpg</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion>No queríamos que se quedase en el olvido la review de un centro bastante singular, el Atlas de Santa Elena, en el barrio del Carmen. Lo visitamos gracias a un amigo que está apuntado. El centro en sí no está nada mal. Podría ser un mixto entre Centro Deportivo y Gimnasio de Barrio. Destaca sobremanera los 4 pisos de que dispone, dividiéndose en zonas. El trato amigable que proporciona un gimnasio de barrio y el espacio que dan 4 pisos lo hacen una buena opción para entrenar.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymClubAtlas.jpg</fotoPresentacion>" +
         "<instalaciones>Dispone de hasta 5 sedes, la que visitamos se encuentra en el Barrio del Carmen. Dispone de 4 plantas y hasta ahora es el gimnasio con mayor número de éstas que hemos encontrado. En una planta la recepción, en otra la zona de cardio, otra para la de musculación y una más para los vestuarios. Tiene la ventaja de que puedes calentar iendo de una zona a otra, eso sí también puedes ir en ascensor, algo que tampoco había visto nunca en un gimnasio.</instalaciones>" +
-        "<fotoInstalaciones>http://sites.google.com/site/lalocurademao/scripts/atlas.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/atlas.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
@@ -207,10 +207,10 @@ var archivoGimnasios = "" +
 				"<duchas>-</duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>ARROYO DE LA VEGA</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolmesPlace.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolmesPlace.jpg</foto>" +
         "<tipo>FL</tipo>" +
         "<presentacion>Una review de una cadena como la del Holmes Place no podía faltar aquí, así que tiraremos de memoria porque la visita la hicimos hace un tiempo, concrétamente a primeros de Agosto de 2012. El Holmes se caracteriza por la altísima calidad de sus instalaciones y el exquisito trato que a todos los socios dispensan los empleados, desde el recepcionista, a los limpiadores o los entrenadores de sala. Van en la línea de los O2 o Virgin, pero a en mi opinión aún mejoran el trato a los clientes por parte de sus empleados:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolmesPlace.jpg</fotoPresentacion>" +
         "<instalaciones>La sede visitada fue la de Arroyo de la Vega, justo al lado del Diversia, en la zona de la Moraleja. Amplio centro de dos plantas. Dispone de varios servicios que no encuentras en otros gimnasios al uso, como piscina climatizada, zona de relax, cafetería restaurante, servicio de fisioterapia o un centro de estética.Esta cadena ha optado por no bajar los precios frente a la creciente oferta de gimnasios low-cost que están proliferando y a cambio ofrecer mejoras en sus instalaciones. Prueba de ello es la nueva línea de maquinaria TechnoGym Artis que se ha incluido en centros como por ejemplo en el Holmes Place Urquinaona.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -271,10 +271,10 @@ var archivoGimnasios = "" +
 				"<duchas>-</duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymVirgin.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymVirgin.jpg</foto>" +
         "<tipo>FL</tipo>" +
         "<presentacion>Hace ya bastante tiempo que visitamos este Virgin, concrétamente en agosto de 2012, pero no quería perder la review porque los Virgin, dentro de los gimnasios que no son 'low cost', son una buena opción.Esta cadena de gimnasios cuenta con 11 sedes en España y pertenece al multimillonario Richard Branson. Destaca por ser una cadena orientada al fitness de lujo; superficie mínima de 4.500 metros cuadrados, gran luminosidad, cada área tiene su propia decoración, alta tecnología en equipos, guardería, parking exclusivo para clientes, etc. Una opción muy recomendable si no andas especialmente corto de pasta:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymVirgin.jpg</fotoPresentacion>" +
         "<instalaciones>Exquisita construcción la de la sede de Capitán Haya, junto al Palacio de Congresos de Madrid. Por fuera su forma piramidal y acristalada nos hace pensar que por dentro va a estar chulo, y así es. Si mal no recuerdo nada más entrar se ubicaba la recepción y enfrente la piscina. La zona de cardio rodeaba toda la piscina de tal manera que mientras haces aeróbico puedes mirar la chula piscina.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -335,10 +335,10 @@ var archivoGimnasios = "" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>TORREJÓN DE ARDOZ</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>En la línea de los demás McFit de alrededores de Madrid. Algo más pequeño que el de Alcalá presenta también una gran superficie. </presentacion>" +
-        "<fotoPresentacion></fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCardenioCaminera.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mftI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mft2.jpg</fotoInstalaciones2>" +
@@ -399,10 +399,10 @@ var archivoGimnasios = "" +
 				"<duchas>7</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>ARANDA DE DUERO</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymPradosportAranda.png</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymPradosportAranda.png</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Moderno gimnasio el que han puesto en el polígono Prado Marina de Aranda de Duero. Tiene unos dos años y está muy nuevecito. Dispone de una buena cantidad de espacio en general. Además dispone de pistas de pádel, así como de dos piscinas(lo malo es que no están en el recinto sino en otras partes de Aranda):</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymPradosportAranda.jpg</fotoPresentacion>" +
         "<instalaciones>Construído sobre una planta destaca por la utilización de luz natural en todo el recinto ya que dispone de grandes cristaleras. Esto es muy interesante ya que proporciona un ahorro energético considerable. La zona de cardio orientada a las pistas de pádel y al campo proporcionan sensación de contacto con la naturaleza que no se puede conseguir en muchos gimnasios 'tapados' o ubicados dentro de una urbe.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -463,10 +463,10 @@ var archivoGimnasios = "" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Ayer estuvimos en el McFit de Ventas. Hace dos semanas probamos el McFit de El Carmen y la verdad es que dejó el listón bastante alto. Este no lo supera pero está a la altura de cualquier Holidays. Finalmente esta cadena ha sido la elegida para apuntarnos, así que ahora bajarán un poco el número de reviews de otros gimnasios, aunque nunca se sabe...</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
         "<instalaciones>Esta sede de la cadena alemana tiene una disposición bastante diferente a la de la del Carmen. Primero encontramos una amplia recepción con mostrador, máquinas dispensadoras, sofases y monitores para realizar la inscripción, consulta de información, etc. A continuación y ya empezando a bajar escaleras se llega a una de las zonas de cardio/musculación. Para llegar a las siguientes zonas debes volver a subir escaleras. La disposición es un poco laberíntica, lo cual puede tener su encanto ya que te puede perder en alguna de sus zonas</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -527,10 +527,10 @@ var archivoGimnasios = "" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion></presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -586,10 +586,10 @@ var archivoGimnasios = "" +
 				"<duchas>7</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymFitnessPlaceAlameda.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFitnessPlaceAlameda.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Este miércoles pasado no teníamos pensado visitar ningún centro pero al final acabamos cerca del trabajo, en Alameda de Osuna. Concretamente en el Fitness Place de Alameda. Este gimnasio pertenece a una cadena que cuenta con la nada desdeñable cantidad de 17 centros, a los cuales nos gustaría ir algún día. De momento empecemos con este:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFitnessPlaceAlameda.jpg</fotoPresentacion>" +
         "<instalaciones>Sin duda uno de los más longevos de la cadena, y eso sin ver los demás. Buscando un poco de información data de 1989 y sería de los más antiguos siendo el más el de Guadalajara. Este centro tiene la característica de que está más cercano a un gimnasio de barrio que a uno perteneciente a una cadena. Mucho tiene que ver su antigüedad. Está bien aprovechado en el espacio disponible, teniendo zona de cardio y musculación juntas, salas de clases colectivas, vestuarios y sauna. Todo ello repartido en dos pisos:</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -650,10 +650,10 @@ var archivoGimnasios = "" +
 				"<duchas>10</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymBasicfit.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Esta cadena de gimnasios, que está migrando su nombre a Basic Fit y pertenecen al grupo Health City, está bastante extendida en España, teniendo el mayor número de sedes en Madrid. En total son unos 17 en toda España, y digo unos porque van a abrir más, concrétamente uno nuevo que sabemos se ubicará en la calle Fuencarral. Superan en número a los Holidays Gym y como éstos son Low Cost pudiendo sacarte una anualidad que te dejaría el mes en unos 16 euros. Si nos vamos fuera de España cuenta con más de 200 sedes y si contamos con que la sociedad de capital riesgo 3i, reciéntemente, ha invertido 110 millones, todo parece suponer que van a convertirse en los líderes indiscutibles en España&lt;&lt;br&gt;&gt;Puedes pedir un día gratis para utilizar sus instalaciones accediendo a su página web: &lt;a href='http://www.healthcityfitness.es/solicitar-el-pase-para-un-dia' target='_blank'&gt;http://www.healthcityfitness.es/solicitar-el-pase-para-un-dia&lt;/a&gt;. Al rato nos llamó un miembro del Stuff, concrétamente de la sede de la calle Orense, que en principio, es de las que mejor nos pilla. Muy cordial y amable en todo momento se dispuso a enseñarnos las instalaciones.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</fotoPresentacion>" +
         "<instalaciones>Ubicado en la calle Orense, en el número 67 y haciendo esquina se encuentra en una zona bien comunicada si contamos con que tenemos la Castellana casi al lado, autobuses y metro cercanos. Lo primero que nos encontramos al entrar son los mostradores y a la izquierda una zona de descanso con sofases y máquinas expendedoras. Al poco nos encontramos unas escaleras que dan acceso a la zona de cardio. En la parte izquierda tienen el espacio reservado para las clases colectivas, que una vez más y por falta de tiempo nos faltó probar. A continuación y en forma de T junto con la zona de cardio se dispone la de musculación. Con una parte de máquinas y peso libre a un lado y otra de pesos alternativos como ketbells, alfombrillas o máquinas multifuncionales al otro nos da una idea de la disposición total del gimnasio Finalmente los vestuarios.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -713,10 +713,10 @@ var archivoGimnasios = "" +
 				"<duchas>7</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>COSLADA</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymSmartFit.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymSmartFit.jpg</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion>La semana pasada nos enteramos que en el Smart Fit de Coslada había jornada de puertas abiertas, así que allí que nos fuimos. Luego al llegar nos dijeron que realmente era que alguien que ya estaba apuntado podía llevar a alguien para que probase el gimnasio. Con nosotros hicieron una excepción, así que pudimos entrar sin problemas. Este centro lleva abierto desde después de Reyes, así que nos lo encontramos todo muy nuevecito:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymSmartFit.jpg</fotoPresentacion>" +
         "<instalaciones>Podría decirse que es un gimnasio muy parecido al Alta Fit de Las Mercedes; amplia nave donde las zonas de musculación y cardio comparten espacio, dos grandes salas para clases, recepción y vestuarios.:</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -777,10 +777,10 @@ var archivoGimnasios = "" +
 				"<duchas>8</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MIRANDA DE EBRO</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymSentralMiranda.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymSentralMiranda.jpg</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion>Agradable gimnasio el que visite a lo largo de esta semana. Creo que no tiene mucho tiempo y se une a la oferta existente de unos 3 gimnasios más en Miranda.&lt;&lt;br&gt;&gt;No ofrecen la posibilidad de tener un día de prueba pero sí que puedes ir días salteados por&lt;br /&gt; tan sólo 6 euros. De esta manera si vives fuera cuando vengas de visita ya no tienes disculpa para no entrenar. Tiene una buena oferta de clases, se puede ver en su página web: &lt;a href='http://www.gimnasiossentralmiranda.com/' target='_blank'&gt;http://www.gimnasiossentralmiranda.com/&lt;/a&gt;.&lt;br /&gt;</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymSentralMiranda.jpg</fotoPresentacion>" +
         "<instalaciones>Situado en la calle Almirante Bonifaz, donde tiene la entrada principal, tiene la posibilidad de salir por la puerta de atrás que daría a la calle paralela Fernán González. Nada más entrar nos da la bienvenida un chulo mostrador con una zona de relax donde podemos esperar leyendo una revista o tomando algún suplemento de la máquina dispensadora. A continuación un pasillo bastante largo nos llevará hasta la sala de cardio y musculación. A lo largo de este podemos encontrar la sala de spinning, entre otras.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -839,10 +839,10 @@ var archivoGimnasios = "" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>30</pesoMaxMancuerna>" +
         "<ciudad>HARO</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymOjasportHaro.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymOjasportHaro.jpg</foto>" +
         "<tipo>BR</tipo>" +
         "<presentacion>Esta semana también visité un gimnasio cerca de Miranda, concrétamente en Haro, el OjaSport. Este centro es parte de la oferta de esta empresa donde también se ofrecen otros servicio como aventura, enoturismo o despedidas. Se puede ver en su página web: &lt;a href='http://www.ojasport.com/' target='_blank'&gt;http://www.ojasport.com/&lt;/a&gt;:&lt;&lt;br&gt;&gt;En esta ocasión la manera de visitar el centro no ha sido a través de un formulario, una llamada de teléfono, un anuncio, ni siquiera pagando una módica cantidad, sino que fui enchufado gracias a un buen amigo mío. El gimnasio ofrece un trato cercano y amigable por parte de la persona que lo lleva y en todo momento estuvimos bastante agusto.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymOjasportHaro.jpg</fotoPresentacion>" +
         "<instalaciones>Cuenta con una entrada con mostrador bastante chula. A la derecha encontramos un largo pasillo por donde avanzamos dejando atrás vestuarios y demás salas. Antes de llegar al final y a la izquierda se dispone la zona de musculación/cardio.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -889,7 +889,7 @@ var archivoGimnasios = "" +
 			"</gimnasio>" +		 
 			
 			"<gimnasio>" +
-				"<nombre>STAR SPORT </nombre>" +
+				"<nombre>STAR SPORT</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2013/11/review-star-sport-wellnes-club.html</url>" +
 				"<nota>7.5</nota>" +
 				"<mobiliario>7.5</mobiliario>" +
@@ -903,10 +903,10 @@ var archivoGimnasios = "" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>38</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymStarSport.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymStarSport.jpg</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion>En esta ocasión quisimos visitar un gimnasio que nos queda de camino y cerquita del trabajo, el STAR SPORT del edificio Santa Lucía(ese que se ve desde la M40 a la altura del Ifema). Nos costó encontrarlo un poco pero finalmente dimos con él.&lt;&lt;br&gt;&gt;En su página web no disponen de invitación pero sí existe la opción de rellenar un formulario y pedir un día de prueba. En menos de 24 horas nos respondieron para confirmar la posibilidad de ir.&lt;br/&gt;Al entrar al edificio el gym queda a la izquierda. En el mostrador una chica muy amable nos repartió unas tarjetitas para rellenar con nuestros datos personales. Pude ver en la parte de abajo de una de ellas como ponga que el coste de la visita era de 10 euros. Suerte que parece que dejaron de cobrar. A partir de ahí ya era cosa nuestra:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymStarSport.jpg</fotoPresentacion>" +
         "<instalaciones>Como decía está en la parte baja del edificio e Santalucía y si vas en coche a simple vista no sé ve. Puedes aparcar sin pagar ya que en esa zona ya no hay parkímetro. Tiene buena comunicación en coche ya que tienes la M40 prácticamente al lado</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -967,10 +967,10 @@ var archivoGimnasios = "" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>14</pesoMaxMancuerna>" +
         "<ciudad>LANZAROTE</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymBodyCareHesperia.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBodyCareHesperia.jpg</foto>" +
         "<tipo>HT</tipo>" +
         "<presentacion>Hace una semana estuvimos de vacas por Lanzarote y voy a hablar del gym que había en el hotel. No he encontrado nada de información del mismo en internet, ni siquiera una foto, así que seguramente le sea útil a alguien esta entrada:&lt;br/&gt;El gimnasio se encuentra dentro de las instalaciones del hotel Hesperia Playa Dorada, en Lanzarote y es ideal para practicar deporte durante tus vacaciones.&lt;br/&gt;Al llegar nos atendió una chica que había en el mostrador, muy amable. Nos habló de las instalaciones y del precio. Podías coger días sueltos, para todas las instalaciones o bien sólo para el gimnasio, bonos. Luego hablaré de ello:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBodyCareHesperia.jpg</fotoPresentacion>" +
         "<instalaciones>Se encuentra ubicado nada más entrar al hotel Hesperia Playa Dorada de Lanzarote, a la izquierda. Dispone de 2 pisos; uno con la recepción en la planta a ras de suelo, una piscina climatizada y dos jacuzzis y otra en un piso inferior, donde se encuentra la sala de musculación y cardio y la sala de masajes.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1030,7 +1030,7 @@ var archivoGimnasios = "" +
 				"<duchas>8</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymAltaFit.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAltaFit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Hoy estuvimos conociendo el Alta Fit del polígono de Las Mercedes, cerca del Plenilunio. Nos atendió diréctamente la directora del centro, una chica muy maja que nos habló de las tarifas del gimnasio y nosinvitó a conocerlo por dentro:</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAltaFit.jpg</fotoPresentacion>" +
@@ -1044,10 +1044,10 @@ var archivoGimnasios = "" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Bastante espaciosa, separada por un pasillo central en medio. Cuenta con máquinas en muy buen estado y de calidad. Algunas de ellas incluso no las había probado nunca, como una especie de prensa guiada donde podías subir el peso en diagonal para gemelos pero que nosotros al principio usamos para muslos(esto fue gracioso porque algún usuario se fijo y también la uso para muslos en vez de gemelos):</musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM.jpg</fotoMusculacion>" +
-//        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM2.jpg</fotoMusculacion2>" +
-//        "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM3.jpg</fotoMusculacion3>" +
-//        "<fotoMusculacion4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM4.jpg</fotoMusculacion4>" +
-//        "<fotoMusculacion5>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmM5.jpg</fotoMusculacion5>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>La zona de cardio cuenta con numerosas máquinas de correr, elípticas, simuladoras de escaleras, etc. En frente de las bicis tienen una Tv con Teledeporte. Las máquinas muy chulas también y bastante nuevas.</cardio>" +
         "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
@@ -1056,10 +1056,10 @@ var archivoGimnasios = "" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Los vestuarios algo canijos a juzgar por las pocas taquillas y también por el poco espacio, aunque no tuvimos ningún problema a la hora de usarlos:</vestuarios>" +
         "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV.jpg</fotoVestuarios>" +
-//        "<fotoVestuarios2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV2.jpg</fotoVestuarios2>" +
-//        "<fotoVestuarios3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV3.jpg</fotoVestuarios3>" +
-//        "<fotoVestuarios4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV4.jpg</fotoVestuarios4>" +
-//        "<fotoVestuarios5>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/AltaFit%20Pol.Mercedes/afmV5.jpg</fotoVestuarios5>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
         "<ubicacion>En el polígono de las Mercedes, a 5´ del Plenilunio. La mejor opción es ir en coche. Podemos aparcar gratis en el centro comercial sin problemas. Si no disponemos de coche la mejor opción es coger algún autobús cruzando el puente de la A2 hasta Avenida América.</ubicacion>" +
         "<extras>La zona de musculación dispone de tablas plastificadas con ejercicios divididas de acuerdo al nivel de los usuarios, en principiante, avanzado, etcétera.</extras>" +
         "<stuff>8</stuff>" +
@@ -1094,10 +1094,10 @@ var archivoGimnasios = "" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>LEGANÉS</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymMcfit.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>El jueves de la semana pasada visitamos, de los gimnasios que hemos probado hasta la cuenta, el mejor, sin duda, de todo Madrid. El mejor por varias razones, pero es que los 20 euros al mes, el macro espacio del que dispone esta sede, el mobiliario, las diferentes sedes en Europa y el parking gratuito hacen que se desmarque de toda la oferta de Madrid sin problema:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
         "<instalaciones>Se encuentra ubicado en el antiguo concesionario de Peugeot de la zona del Carmen.  Este centro dispone de acceso mediante tarjeta personalizada monedero. Esta tarjeta se puede recargar con dinero en una máquina situada a la entrada y así disponer de servicios como, por ejemplo, las duchas.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1157,10 +1157,10 @@ var archivoGimnasios = "" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymCorpowellnes.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCorpowellnes.jpg</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion></presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCorpowellnes.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1221,10 +1221,10 @@ var archivoGimnasios = "" +
 		  	"<duchas>10</duchas>" +
 	 		"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymVaguada.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymVaguada.jpg</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion>Hace ya unos días probamos este gimnasio que a través de su &lt;a href='http://www.fitnesscentervaguada.com/' target='_blank'&gt;página web&lt;/a&gt; te brinda la oportunidad de visitar sus instalaciones sin coste alguno. El día elegido fue entre semana y durante Agosto, así que como podréis imaginar no nos pudimos hacer una idea real de la cantidad de gente un día normal, algo que también agradecimos.&lt;br/&gt;La manera de contactar fue mediante formulario, aunque podría haber sido de cualquier otra manera como por ejemplo por invitación de algún socio o llamando diréctamente y echándole un poco de morro. Nos quedamos con esta manera porque es la más cómoda.&lt;br/&gt;&lt;br/&gt;Al llegar nos atendió una chica que había en el mostrador, muy amable. Nos tomó los datos y nos invitó a utilizar el gimnasio:&lt;br/&gt;</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymVaguada.jpg</fotoPresentacion>" +
         "<instalaciones>Dispone de 3 pisos; recepción con vestuarios, planta de abajo con la zona de cardio y clases y zona de arriba con musculación. Me llamó la atención que había suplementos a la venta de Weider.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1282,10 +1282,10 @@ var archivoGimnasios = "" +
 				"<duchas>14</duchas>" +
 				"<pesoMaxMancuerna>48</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymCsc.png</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCsc.png</foto>" +
         "<tipo>FL</tipo>" +
         "<presentacion>Esta semana visitamos un gimnasio que teníamos bastantes ganas de ir, no solo porque lo teníamos en el punto de mira desde hace unos meses sino por la buena pinta de su web, instalaciones y la cantidad de servicios que anuncian y que otros no tienen:&lt;br /&gt;Antes de ir rellenamos un formulario de su web pidiendo un día de prueba donde dimos nuestros datos. A los dos días nos llamaron para concertar día y hora. Sin ningún problema pudimos escoger el momento, también es verdad que ahora en Agosto los gimnasios están bastante practicables.&lt;br /&gt;Nada más llegar nos atendió la persona que llevaba la dirección del gimnasio. Nos dio un tour de unos 5´ donde nos enseñó las instalaciones; bar, restaurante, zona de relax, agencia de viajes, etc, nos faltó la zona del spa que estaba en obras:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCsc.jpg</fotoPresentacion>" +
         "<instalaciones>Se encuentra ubicado en plena estación de Chamartín. Entrando por la entrada principal, por donde el Aurgi, nada más entrar vamos hacia la derecha al final veremos la entrada al gimnasio. Algo que pudimos notar en todo el recinto es, que aunque tiene una pinta muy vistosa y rozando el lujo en general, se ve que tiene ya algunos añitos y no han dedicado el dinero suficiente a tapar este paso del tiempo. Esto último, que, aunque no es alarmante, se puede apreciar en algunos detalles de las instalaciones. La zona para aparcar gratis se encuentra fuera de la estación, en una esplanada de tierra. También lo puedes dejar enfrente de la estación, en el parking, aunque es un poco caro, por 2h 45´te clavan unos 8,5 euros, ahí es nada. El gimnasio dispone de parking para los socios, nosotros no lo pudimos probar. Este centro dispone de acceso mediante tarjeta personalizada. A nosotros nos dejaron un código temporal para el acceso al vestuario, aunque siempre estaba abierto y no tuvimos que usarlo.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1346,10 +1346,10 @@ var archivoGimnasios = "" +
 				"<duchas>11</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1407,10 +1407,10 @@ var archivoGimnasios = "" +
 				"<duchas>14</duchas>" +
 				"<pesoMaxMancuerna>37.5</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1468,10 +1468,10 @@ var archivoGimnasios = "" +
 				"<duchas></duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1529,10 +1529,10 @@ var archivoGimnasios = "" +
 				"<duchas>12</duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1590,10 +1590,10 @@ var archivoGimnasios = "" +
 				"<duchas>10</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1651,10 +1651,10 @@ var archivoGimnasios = "" +
 				"<duchas>18</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1712,10 +1712,10 @@ var archivoGimnasios = "" +
 				"<duchas>9</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1773,10 +1773,10 @@ var archivoGimnasios = "" +
 				"<duchas>10</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1834,10 +1834,10 @@ var archivoGimnasios = "" +
 				"<duchas>8</duchas>" +
 				"<pesoMaxMancuerna>47.5</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymHolidaysGym.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Quería hacer esta entrada desde hace tiempo y hablar de la cadena de gimnasios Holydays Gym, repartida principalmente por Madrid.&lt;br /&gt;Es muy útil a la hora de apuntarse a un gimnasio cualquiera conocer cuáles son sus pros y sus contras ya que normalmente en los foros encontramos comentarios malos y en la web oficial comentarios espléndidos.&lt;br&gt;Para hacernos una idea la mayor ventaja que tienen es el precio y y la cantidad de ellos que hay repartida por Madrid. Por contra tenemos la afluencia masificada y su mantenimiento. &lt;br /&gt; En la tabla que viene a continuación viene un resumen de diferentes puntos que me parecen importantes(unos más que otros) a la hora de elegir un gimnasio.</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolidaysGym.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1895,10 +1895,10 @@ var archivoGimnasios = "" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymO2.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymO2.jpg</foto>" +
         "<tipo>FL</tipo>" +
         "<presentacion>Este jueves pasado estuvimos visitando el Centro Wellness O2 del Plenilunio. Nada más llegar empezamos a combrobar que no iba a ser como los demás gimnasios en los que hemos estado. El lugar es bastante chulo&lt;br /&gt;</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymO2.jpg</fotoPresentacion>" +
         "<instalaciones>Bastante espacio en todo el recinto. Zona de cardio y musculación muy espaciosa. Cuenta con máquinas &lt;a href='http://www.technogym.com/' target='_blank'&gt;TECHNOGYM&lt;/a&gt; bastante nuevas  y también dispone de otras en las que la resistencia es un tubo a presión. Dispone de una zona de piscina donde dan clases de aquagym.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -1959,10 +1959,10 @@ var archivoGimnasios = "" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>RIVAS VACIAMADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymPalestra.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymPalestra.jpg</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion>Este gimnasio nos dejó muy buen sabor de boca:</presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymPalestra.jpg</fotoPresentacion>" +
         "<instalaciones>En primer lugar las instalaciones son bastante espaciosas, tanto las salas para las clases como los vestuarios, siendo las de la parte de musculación y cardio grandes pero algo menos en comparación con éstas.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
@@ -2023,10 +2023,10 @@ var archivoGimnasios = "" +
 				"<duchas>15</duchas>" +
 				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>http://sites.google.com/site/lalocurademao/scripts/blogGymPolFitness.gif</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymPolFitness.gif</foto>" +
         "<tipo>CD</tipo>" +
         "<presentacion></presentacion>" +
-        "<fotoPresentacion>http://sites.google.com/site/lalocurademao/scripts/blogGymClubAtlas.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymPolFitness.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
