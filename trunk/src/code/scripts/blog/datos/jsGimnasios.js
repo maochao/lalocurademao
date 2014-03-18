@@ -314,7 +314,6 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<maquinaria></maquinaria>" +
         "<clases></clases>" +
         "<precios></precios>" +
-        "<conclusion></conclusion>" +
 			"</gimnasio>" +		 
       
 			"<gimnasio>" +
@@ -779,7 +778,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<presentacion>Agradable gimnasio el que visite a lo largo de esta semana. Creo que no tiene mucho tiempo y se une a la oferta existente de unos 3 gimnasios más en Miranda.&lt;&lt;br&gt;&gt;No ofrecen la posibilidad de tener un día de prueba pero sí que puedes ir días salteados por&lt;br /&gt; tan sólo 6 euros. De esta manera si vives fuera cuando vengas de visita ya no tienes disculpa para no entrenar. Tiene una buena oferta de clases, se puede ver en su página web: &lt;a href='http://www.gimnasiossentralmiranda.com/' target='_blank'&gt;http://www.gimnasiossentralmiranda.com/&lt;/a&gt;.&lt;br /&gt;</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymSentralMiranda.jpg</fotoPresentacion>" +
         "<instalaciones>Situado en la calle Almirante Bonifaz, donde tiene la entrada principal, tiene la posibilidad de salir por la puerta de atrás que daría a la calle paralela Fernán González. Nada más entrar nos da la bienvenida un chulo mostrador con una zona de relax donde podemos esperar leyendo una revista o tomando algún suplemento de la máquina dispensadora. A continuación un pasillo bastante largo nos llevará hasta la sala de cardio y musculación. A lo largo de este podemos encontrar la sala de spinning, entre otras.</instalaciones>" +
-        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda%20De%20Ebro/smI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda/smI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
@@ -787,19 +786,19 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<staff>El chico que me atendió en todo momento fue muy amable y me informó del gimnasio y de todo lo que le preguntaba.</staff>" +
         "<masificacionTexto>Como siempre, la hora elegida es la menos masificada, en este caso sobre las 2 de la tarde. No hubo problema en este caso, pero un día entre semana en hora punta podría llenarse rápidamente.</masificacionTexto>" +
         "<musculacion>Al final del pasillo antes comentado se disponen las zonas de musculación y cardio. Lo primero que te encuentras es la de cardio y después, a ambos lados de esta, dos zonas de pesas. En la primera de ellas predominan los pesos libres y material de entrenamientos funcionales como balones suizos. En los pesos libres grata sorpresa ya que contaba con dos grandes mancuerneros hasta 40 kg, otros dos más con pesas mas livianas y otro soporte con barras con peso fijo hasta 20 kg. Esta zona también cuenta con un hack de sentadillas, dos bancos de press, uno inclinado y otro plano y un magnífico cruce de poleas:</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda%20De%20Ebro/smM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda/smM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Correcta zona de cardio con elípticas, cintas y bicicletas. Con pantalla de TV para amenizar la sesión:</cardio>" +
-        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda%20De%20Ebro/smC.jpg</fotoCardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda/smC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Los vestuarios algo pequeños, si bien es cierto que si vas a horas menos concurridas sobra, el problema viene si vas a horas típicas, se llenarían rápido. Este es un problema recurrente de los gimnasios donde a la hora de recortar espacio se suele recortar de los vestuarios ya que lo lógico es que sea donde se pasa menos tiempo en comparación con otras zonas como las salas de clases o las salas de musculación:</vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda%20De%20Ebro/smV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda/smV.jpg</fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
