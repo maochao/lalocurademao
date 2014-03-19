@@ -1,6 +1,73 @@
-var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
+var archivoGimnasios = "" +
+		"<gimnasios>" +
+
+		"<gimnasio>" +
+				"<nombre>FISICO MADRID</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-ficico.html</url>" +
+				"<nota></nota>" +
+				"<mobiliario></mobiliario>" +
+				"<personal></personal>" +
+				"<precio></precio>" +
+				"<masificacion></masificacion>" +
+		  	"<localizacion></localizacion>" +
+			  "<mantenimiento></mantenimiento>" +
+			  "<sedes>2</sedes>" +
+				"<taquillas></taquillas>" +
+				"<duchas></duchas>" +
+				"<pesoMaxMancuerna></pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.jpg</foto>" +
+        "<tipo></tipo>" +
+        "<presentacion></presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.jpg</fotoPresentacion>" +
+        "<instalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmI.jpg</instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff></staff>" +
+        "<masificacionTexto></masificacionTexto>" +
+        "<musculacion></musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio></cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmC.jpg</fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Bastante amplios. Como anécdota decir que estaba estropeada la máquina de recarga de la tarjeta monedero y te podías duchar gratis por el momento.</vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/zQojV' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
+        "<extras></extras>" +
+        "<stuff></stuff>" +
+        "<higiene></higiene>" +
+        "<desorden></desorden>" +
+        "<metro>-</metro>" +
+        "<aparcamiento>ZONA VERDE/AZUL</aparcamiento>" +
+        "<plantas></plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
+        "<secador>1</secador>" +
+        "<crucesPolea>2</crucesPolea>" +
+        "<hackSentadillas>2</hackSentadillas>" +
+        "<maquinaSoleo></maquinaSoleo>" +
+        "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
+        "<precios></precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +
+
+			"<gimnasio>" +
 				"<nombre>MCFIT ALCALA</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-alcala.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-mcfit-alcala.html</url>" +
 				"<nota>9</nota>" +
 				"<mobiliario>7</mobiliario>" +
 				"<personal>7.5</personal>" +
@@ -15,7 +82,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<ciudad>ALCALÁ DE HENARES</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
-        "<presentacion>Este McFit es el 2° más grande de Madrid, sólo por detrás del giganteco El Carmen. Se encuentra al lado de la A-2 desde la salida 30 de la misma. El día elegido fue este sábado pasado y hay que decir que se ve muy grande y espacioso. Sin problemas de aparcamiento ya que hay parking  gratuito al lado.</presentacion>" +
+        "<presentacion>Este McFit es el segundo más grande de Madrid, sólo por detrás del giganteco El Carmen. Se encuentra al lado de la A-2 desde la salida 30 de la misma. El día elegido fue este sábado pasado y hay que decir que se ve muy grande y espacioso. Sin problemas de aparcamiento ya que hay parking  gratuito al lado.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
         "<instalaciones>Se encuentra ubicado en una zona comercial, en una segunda planta a la que puedes acceder desde la calle en ascensor o por las escaleras. Puedes encontrar una tienda de suplementación en la parte de abajo así como un Burger King por si te quierers dar un homenaje después de una dura sesión de volumen.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
@@ -56,7 +123,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<crucesPolea>2</crucesPolea>" +
         "<hackSentadillas>2</hackSentadillas>" +
         "<maquinaSoleo></maquinaSoleo>" +
-        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
         "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
         "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
@@ -64,7 +131,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
 
 			"<gimnasio>" +
 				"<nombre>CARDENIO CAMINERA TORRENUEVA</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2013/11/review-cardenio-caminera-torrenueva.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-cardenio-caminera-torrenueva.html</url>" +
 				"<nota>7.2</nota>" +
 				"<mobiliario>8</mobiliario>" +
 				"<personal>8</personal>" +
@@ -102,7 +169,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Dispone de un baño, sin duchas.</vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caminera%20Torrenueva/ctV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
@@ -153,13 +220,13 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<staff>Muy amables en todo momento.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Un piso dedicado por completo a la musculación con bancos, press de banca, poleas y máquinas de espalda y pierna. Con suficiente espacio pero que puede verse colapsado en un día con mucha afluencia.</musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atlas%20Santa%20Elena/aseC.jpg</fotoMusculacion>" +
         "<fotoMusculacion2>http://goo.gl/eVAPNh</fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Un piso completo para la práctica de cardio con salas de clases.</cardio>" +
-        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atlas%20Santa%20Elena/aseC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
@@ -314,11 +381,12 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<maquinaria></maquinaria>" +
         "<clases></clases>" +
         "<precios></precios>" +
+        "<conclusion></conclusion>" +
 			"</gimnasio>" +		 
       
 			"<gimnasio>" +
 				"<nombre>MCFIT TORREJÓN</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-torrejon.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-mcfit-torrejon.html</url>" +
 				"<nota>9</nota>" +
 				"<mobiliario>7</mobiliario>" +
 				"<personal>9.5</personal>" +
@@ -334,10 +402,10 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>En la línea de los demás McFit de alrededores de Madrid. Algo más pequeño que el de Alcalá presenta también una gran superficie. </presentacion>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCardenioCaminera.jpg</fotoPresentacion>" +
+        "<fotoPresentacion></fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
         "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mftI.jpg</fotoInstalaciones>" +
-        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mft2.jpg</fotoInstalaciones2>" +
+        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mftI2.jpg</fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
@@ -356,7 +424,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Bastante amplios y parecidos a los demás.</vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Torrejón/mftV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
@@ -374,7 +442,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<crucesPolea></crucesPolea>" +
         "<hackSentadillas></hackSentadillas>" +
         "<maquinaSoleo>1</maquinaSoleo>" +
-        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
         "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
         "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
@@ -561,7 +629,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<crucesPolea></crucesPolea>" +
         "<hackSentadillas></hackSentadillas>" +
         "<maquinaSoleo></maquinaSoleo>" +
-        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
         "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
         "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
@@ -595,19 +663,19 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<staff>Pudimos tratar con el monitor de sala  que en todo momento estuvo pendiente de estuviésemos agusto y de realizáramos los ejercicios sin ningún problema. La recepcionista fue la que nos contestó el teléfono y nos permitió visitar el centro. Sin ningún problema.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Nada más entrar está la recepción y a continuación una hilera de máquinas de cardio en la zona de la derecha. A la parte derecha podemos ver máquinas de musculación, dos ó tres para dar paso a una zona más grande donde se aglutinaría el peso libre con el resto de las máquinas. Máquinas &lt;a href='http://www.gervasport.bg/' target='_blank'&gt;Gervasport&lt;/a&gt; con un trote considerable, probablemente desde finales del 89. Aún así las máquinas no están en mal estado, únicamente tocadas por el paso del tiempo, como es normal. Esta marca búlgara nada tiene que envidiar al resto puesto que con más de 20 años ahí siguen:</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fitness%20Place%20Alameda%20Osuna/fpaM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Dispone de una hilera pegada a la pared derecha con unas 10 máquinas repartidas entre cintas, bicis y elípticas. No hay mucho más que decir en este aspecto:</cardio>" +
-        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fitness%20Place%20Alameda%20Osuna/fpaC.jpg</fotoCardio>" +
+        "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>&lt;span&gt;Cuenta con unos chulos y espaciosos vestuarios. Como en el de Leganés los cierres de las taquillas están informatizados, deslizando tu tarjeta personal por encima queda registrado que ya has cerrado una taquilla no dejandote cerrar otra o incluso irte del recinto. Con tu tarjeta también puedes adquirir minutos de ducha, por cada 50 céntimos tienes 5 minutos de ducha:&lt;/span&gt;</vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fitness%20Place%20Alameda%20Osuna/fpaV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
@@ -778,7 +846,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<presentacion>Agradable gimnasio el que visite a lo largo de esta semana. Creo que no tiene mucho tiempo y se une a la oferta existente de unos 3 gimnasios más en Miranda.&lt;&lt;br&gt;&gt;No ofrecen la posibilidad de tener un día de prueba pero sí que puedes ir días salteados por&lt;br /&gt; tan sólo 6 euros. De esta manera si vives fuera cuando vengas de visita ya no tienes disculpa para no entrenar. Tiene una buena oferta de clases, se puede ver en su página web: &lt;a href='http://www.gimnasiossentralmiranda.com/' target='_blank'&gt;http://www.gimnasiossentralmiranda.com/&lt;/a&gt;.&lt;br /&gt;</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymSentralMiranda.jpg</fotoPresentacion>" +
         "<instalaciones>Situado en la calle Almirante Bonifaz, donde tiene la entrada principal, tiene la posibilidad de salir por la puerta de atrás que daría a la calle paralela Fernán González. Nada más entrar nos da la bienvenida un chulo mostrador con una zona de relax donde podemos esperar leyendo una revista o tomando algún suplemento de la máquina dispensadora. A continuación un pasillo bastante largo nos llevará hasta la sala de cardio y musculación. A lo largo de este podemos encontrar la sala de spinning, entre otras.</instalaciones>" +
-        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda/smI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
@@ -786,19 +854,19 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<staff>El chico que me atendió en todo momento fue muy amable y me informó del gimnasio y de todo lo que le preguntaba.</staff>" +
         "<masificacionTexto>Como siempre, la hora elegida es la menos masificada, en este caso sobre las 2 de la tarde. No hubo problema en este caso, pero un día entre semana en hora punta podría llenarse rápidamente.</masificacionTexto>" +
         "<musculacion>Al final del pasillo antes comentado se disponen las zonas de musculación y cardio. Lo primero que te encuentras es la de cardio y después, a ambos lados de esta, dos zonas de pesas. En la primera de ellas predominan los pesos libres y material de entrenamientos funcionales como balones suizos. En los pesos libres grata sorpresa ya que contaba con dos grandes mancuerneros hasta 40 kg, otros dos más con pesas mas livianas y otro soporte con barras con peso fijo hasta 20 kg. Esta zona también cuenta con un hack de sentadillas, dos bancos de press, uno inclinado y otro plano y un magnífico cruce de poleas:</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda/smM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Correcta zona de cardio con elípticas, cintas y bicicletas. Con pantalla de TV para amenizar la sesión:</cardio>" +
-        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda/smC.jpg</fotoCardio>" +
+        "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Los vestuarios algo pequeños, si bien es cierto que si vas a horas menos concurridas sobra, el problema viene si vas a horas típicas, se llenarían rápido. Este es un problema recurrente de los gimnasios donde a la hora de recortar espacio se suele recortar de los vestuarios ya que lo lógico es que sea donde se pasa menos tiempo en comparación con otras zonas como las salas de clases o las salas de musculación:</vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Sentral%20Miranda/smV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
@@ -1133,7 +1201,7 @@ var archivoGimnasios = "" +		"<gimnasios>" +			"<gimnasio>" +
         "<crucesPolea>VARIOS</crucesPolea>" +
         "<hackSentadillas>VARIOS</hackSentadillas>" +
         "<maquinaSoleo>1</maquinaSoleo>" +
-        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt;&lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
         "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
