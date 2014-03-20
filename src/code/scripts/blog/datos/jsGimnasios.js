@@ -16,7 +16,7 @@ var archivoGimnasios = "" +
 				"<duchas></duchas>" +
 				"<pesoMaxMancuerna></pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.jpg</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.gif</foto>" +
         "<tipo></tipo>" +
         "<presentacion></presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.jpg</fotoPresentacion>" +
