@@ -4,20 +4,20 @@ var archivoGimnasios = "" +
 		"<gimnasio>" +
 				"<nombre>FISICO MADRID</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-fisico.html</url>" +
-				"<nota></nota>" +
-				"<mobiliario></mobiliario>" +
-				"<personal></personal>" +
+				"<nota>6.6</nota>" +
+				"<mobiliario>7.2</mobiliario>" +
+				"<personal>6.9</personal>" +
 				"<precio></precio>" +
-				"<masificacion></masificacion>" +
-		  	"<localizacion></localizacion>" +
-			  "<mantenimiento></mantenimiento>" +
+				"<masificacion>2.5</masificacion>" +
+		  	"<localizacion>5</localizacion>" +
+			  "<mantenimiento>7</mantenimiento>" +
 			  "<sedes>2</sedes>" +
-				"<taquillas></taquillas>" +
-				"<duchas></duchas>" +
-				"<pesoMaxMancuerna></pesoMaxMancuerna>" +
+				"<taquillas>736</taquillas>" +
+				"<duchas>12</duchas>" +
+				"<pesoMaxMancuerna>32</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.gif</foto>" +
-        "<tipo></tipo>" +
+        "<tipo>CD</tipo>" +
         "<presentacion></presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.gif</fotoPresentacion>" +
         "<instalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmI.jpg</instalaciones>" +
@@ -49,16 +49,16 @@ var archivoGimnasios = "" +
         "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/zQojV' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
         "<extras></extras>" +
         "<stuff></stuff>" +
-        "<higiene></higiene>" +
-        "<desorden></desorden>" +
+        "<higiene>65%</higiene>" +
+        "<desorden>30%</desorden>" +
         "<metro>-</metro>" +
         "<aparcamiento>ZONA VERDE/AZUL</aparcamiento>" +
-        "<plantas></plantas>" +
-        "<puertaDuchas>X</puertaDuchas>" +
+        "<plantas>3</plantas>" +
+        "<puertaDuchas>V</puertaDuchas>" +
         "<secador>1</secador>" +
         "<crucesPolea>2</crucesPolea>" +
         "<hackSentadillas>2</hackSentadillas>" +
-        "<maquinaSoleo></maquinaSoleo>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
         "<clases></clases>" +
         "<precios></precios>" +
