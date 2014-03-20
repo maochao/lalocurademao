@@ -1223,51 +1223,51 @@ var archivoGimnasios = "" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCorpowellnes.jpg</foto>" +
         "<tipo>CD</tipo>" +
-        "<presentacion></presentacion>" +
+        "<presentacion>La semana pasada visitamos el Go Fit Corporate o CorpoWellness del Grupo Ingesport. La verdad es que no sé exáctamente el nombre del gimnasio, si es realmente Go Fit o CorpoWellness ya que nos llegó un folleto del gimnasio con el nombre de Go Fit pero luego la página web es &lt;a href='http://www.corpowellness.com/corpowellness.html' target='_blank'&gt;CorpoWellness&lt;/a&gt;. En cualquier caso está en el Distrito de Telefónica, junto a la A-1 y a la M-40. Puedes solicitar un día de prueba sin ningún problema enviando un correo a info@corpowellness.com o llamando al teléfono 917271610. Al llegar nos atendió una chica que había en el mostrador, muy amable. No nos tomó los datos, lo cual nos sorprendió porque te da la posibilidad de volver. Ella misma nos dijo que si necesitábamos volver para ver alguna otra cosa que no dudásemos. Premio al buen rollo y la amabilidad(nada que ver con otros sitios que hemos visitado).</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCorpowellnes.jpg</fotoPresentacion>" +
-        "<instalaciones></instalaciones>" +
+        "<instalaciones>Se encuentra ubicado en uno de los bloques del edificio de telefónica. Dispone de 2 pisos; uno con la recepción en la planta a ras de suelo y otra en un piso inferior, que también da a la calle, con la zona de musculación y cardio.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
-        "<staff></staff>" +
-        "<masificacionTexto></masificacionTexto>" +
-        "<musculacion></musculacion>" +
+        "<staff>En la parte central de la zona de musculación hay un mostrador con pantallas para seguir tus progresos. Tambíen podemos pedir ayuda o consultar cualquier cosa a los monitores que estaban dentro. Luego en la sala vimos como un grupo de chicas daban una clase funcional con una monitora bastante entretenida.</staff>" +
+        "<masificacionTexto>Sala bastante amplia en la que en ningún momento estuvimos apretados ni esperando para utilizar nada. Para ser un miércoles de Octubre esta fue una grata sorpresa. Este tema lo comentamos con la chica de la recepción, muy agradable en todo momento, y nos confirmo que no es un gimnasio muy concurrido. Esto puede parecer ventajista pero otras veces si que nos lo han dicho y aparte lo hemos comprobado insitu.</masificacionTexto>" +
+        "<musculacion>Las máquinas, de las más modernas. Incorporan la tecnología de las llaves TGS o del Bienestar, al igual que el acceso al recinto, apertura de taquillas, etc. Mediante esta tecnología el usuario puede disponer de una llave que introduce en las máqinas de musculación y provee a la misma de su información específica. Esta info puede consistir en los avances logrados, por ejemplo, en peso y repeticiones. Gracias a lo que pude hablar con algún socio nos enteramos que también podías tener tu propio programa personalizado y circuito con las máquinas o consultar la información o resultados en las pantalllas del mostrador central de la sala. Así mismo los monitores podían seguir tus progresos.</musculacion>" +
         "<fotoMusculacion></fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio></cardio>" +
+        "<cardio>Máquinas de cardio de última generación con la tecnología antes hablada. Al igual que en las máquinas de musculación al introducir tu llave TGS en ella puedes consultar tus avances en la pantalla.</cardio>" +
         "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios></vestuarios>" +
+        "<vestuarios>Bastante correctos, no siendo de los mejores pero en la línea de todo el recinto. Dispone de bastantes taquillas, 268 en total. El espacio para cambiarte es suficiente y en ningún momento te sentías agobiado por el mismo. Con bancos alargados en el medio recordando a gimnasios como el Palestra o el O2. Las duchas, las mejores que he visto hasta la fecha. Suficientes en número, hasta 15, bastante amplias y agradables. Por lo demás todo Ok.</vestuarios>" +
         "<fotoVestuarios></fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion></ubicacion>" +
-        "<extras></extras>" +
-        "<stuff></stuff>" +
-        "<higiene></higiene>" +
-        "<desorden></desorden>" +
-        "<metro></metro>" +
-        "<aparcamiento></aparcamiento>" +
-        "<plantas></plantas>" +
-        "<puertaDuchas></puertaDuchas>" +
-        "<secador></secador>" +
-        "<crucesPolea></crucesPolea>" +
-        "<hackSentadillas></hackSentadillas>" +
-        "<maquinaSoleo></maquinaSoleo>" +
-        "<maquinaria></maquinaria>" +
+        "<ubicacion>Distrito C de Telefónica. Puedes aparcar en la calle Ronda de la Comunicación, dependiendo a la hora que vayas, sin problema. Nosotros fuimos el pasado miércoles por la tarde, sobre las 7 y tuvimos sitio de sobra. A esa hora todo el mundo sale de trabajar.</ubicacion>" +
+        "<extras>La tecnología Tgs permite llevar un control de tus entrenamientos personales. Así mismo permite que ninguna taquilla se quede ocupada durante días como ocurre en otros gimnasios(Véase el Holidays, por ejemplo). Si no desocupas la taquilla los tornos no te permitirán salir. Antes de salir del vestuario hay un pequeño panel donde puedes consultar si has dejado alguna taquilla cerrada pasando tu llave por encima.</extras>" +
+        "<stuff>8.5</stuff>" +
+        "<higiene>80%</higiene>" +
+        "<desorden>20%</desorden>" +
+        "<metro>RONDA DE LA COMUNICACIÓN 1'</metro>" +
+        "<aparcamiento>LIBRE</aparcamiento>" +
+        "<plantas>2</plantas>" +
+        "<puertaDuchas>V</puertaDuchas>" +
+        "<secador>2</secador>" +
+        "<crucesPolea>1</crucesPolea>" +
+        "<hackSentadillas>3</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.technogym.com' target='_blank'&gt;TECHNOGYM&lt;/a&gt;</maquinaria>" +
         "<clases></clases>" +
         "<precios></precios>" +
-        "<conclusion></conclusion>" +
+        "<conclusion>Las tarifas, como siempre no voy a hablar de números a no ser que alguien me lo pregunte específicamente, pero eran dependieno del horario al que vayas, algo que nunca había visto. El día se repartía en dos horarios, uno de 9h a 13h 30' y otro de 16h a 22h. Para el primero pagabas algo menos de la mitad que para el segundo. Siendo la mensualidad de días completos algo más de la suma de los dos horarios. Es una buena opción para ir por la mañana si es que puedes, sino, si trabajas en telefónica también es un gimnasio a considerar ya que lo tienes al lado.</conclusion>" +
 			"</gimnasio>" +
 			
 			"<gimnasio>" +
