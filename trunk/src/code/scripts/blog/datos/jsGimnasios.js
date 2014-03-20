@@ -212,7 +212,7 @@ var archivoGimnasios = "" +
         "<presentacion>No queríamos que se quedase en el olvido la review de un centro bastante singular, el Atlas de Santa Elena, en el barrio del Carmen. Lo visitamos gracias a un amigo que está apuntado. El centro en sí no está nada mal. Podría ser un mixto entre Centro Deportivo y Gimnasio de Barrio. Destaca sobremanera los 4 pisos de que dispone, dividiéndose en zonas. El trato amigable que proporciona un gimnasio de barrio y el espacio que dan 4 pisos lo hacen una buena opción para entrenar.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymClubAtlas.jpg</fotoPresentacion>" +
         "<instalaciones>Dispone de hasta 5 sedes, la que visitamos se encuentra en el Barrio del Carmen. Dispone de 4 plantas y hasta ahora es el gimnasio con mayor número de éstas que hemos encontrado. En una planta la recepción, en otra la zona de cardio, otra para la de musculación y una más para los vestuarios. Tiene la ventaja de que puedes calentar iendo de una zona a otra, eso sí también puedes ir en ascensor, algo que tampoco había visto nunca en un gimnasio.</instalaciones>" +
-        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/atlas.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
@@ -220,8 +220,8 @@ var archivoGimnasios = "" +
         "<staff>Muy amables en todo momento.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion>Un piso dedicado por completo a la musculación con bancos, press de banca, poleas y máquinas de espalda y pierna. Con suficiente espacio pero que puede verse colapsado en un día con mucha afluencia.</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atlas%20Santa%20Elena/aseC.jpg</fotoMusculacion>" +
-        "<fotoMusculacion2>http://goo.gl/eVAPNh</fotoMusculacion2>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atlas%20Santa%20Elena/aseM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
@@ -514,7 +514,7 @@ var archivoGimnasios = "" +
 
 			"<gimnasio>" +
 				"<nombre>MCFIT VENTAS</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/02/review-mcfit-ventas.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-mcfit-ventas.html</url>" +
 				"<nota>9</nota>" +
 				"<mobiliario>9</mobiliario>" +
 				"<personal>8</personal>" +
@@ -623,12 +623,12 @@ var archivoGimnasios = "" +
         "<desorden></desorden>" +
         "<metro></metro>" +
         "<aparcamiento></aparcamiento>" +
-        "<plantas></plantas>" +
-        "<puertaDuchas></puertaDuchas>" +
+        "<plantas>2</plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
         "<secador></secador>" +
         "<crucesPolea></crucesPolea>" +
         "<hackSentadillas></hackSentadillas>" +
-        "<maquinaSoleo></maquinaSoleo>" +
+        "<maquinaSoleo>1</maquinaSoleo>" +
         "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
         "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
         "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
@@ -716,7 +716,7 @@ var archivoGimnasios = "" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
-        "<presentacion>Esta cadena de gimnasios, que está migrando su nombre a Basic Fit y pertenecen al grupo Health City, está bastante extendida en España, teniendo el mayor número de sedes en Madrid. En total son unos 17 en toda España, y digo unos porque van a abrir más, concrétamente uno nuevo que sabemos se ubicará en la calle Fuencarral. Superan en número a los Holidays Gym y como éstos son Low Cost pudiendo sacarte una anualidad que te dejaría el mes en unos 16 euros. Si nos vamos fuera de España cuenta con más de 200 sedes y si contamos con que la sociedad de capital riesgo 3i, reciéntemente, ha invertido 110 millones, todo parece suponer que van a convertirse en los líderes indiscutibles en España&lt;&lt;br&gt;&gt;Puedes pedir un día gratis para utilizar sus instalaciones accediendo a su página web: &lt;a href='http://www.healthcityfitness.es/solicitar-el-pase-para-un-dia' target='_blank'&gt;http://www.healthcityfitness.es/solicitar-el-pase-para-un-dia&lt;/a&gt;. Al rato nos llamó un miembro del Stuff, concrétamente de la sede de la calle Orense, que en principio, es de las que mejor nos pilla. Muy cordial y amable en todo momento se dispuso a enseñarnos las instalaciones.</presentacion>" +
+        "<presentacion>Esta cadena de gimnasios, que está migrando su nombre a Basic Fit y pertenecen al grupo Health City, está bastante extendida en España, teniendo el mayor número de sedes en Madrid. En total son unos 17 en toda España, y digo unos porque van a abrir más, concrétamente uno nuevo que sabemos se ubicará en la calle Fuencarral. Superan en número a los Holidays Gym y como éstos son Low Cost pudiendo sacarte una anualidad que te dejaría el mes en unos 16 euros. Si nos vamos fuera de España cuenta con más de 200 sedes y si contamos con que la sociedad de capital riesgo 3i, reciéntemente, ha invertido 110 millones, todo parece suponer que van a convertirse en los líderes indiscutibles en España&lt;&lt;br&gt;&gt;Puedes pedir un día gratis para utilizar sus instalaciones accediendo a su página web: &lt;a href='http://www.healthcityfitness.es/solicitar-el-pase-para-un-dia' target='_blank'&gt;PINCHA AQUÍ PARA SOLICITAR UN PASE GRATIS&lt;/a&gt;. Al rato nos llamó un miembro del Stuff, concrétamente de la sede de la calle Orense, que en principio, es de las que mejor nos pilla. Muy cordial y amable en todo momento se dispuso a enseñarnos las instalaciones.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</fotoPresentacion>" +
         "<instalaciones>Ubicado en la calle Orense, en el número 67 y haciendo esquina se encuentra en una zona bien comunicada si contamos con que tenemos la Castellana casi al lado, autobuses y metro cercanos. Lo primero que nos encontramos al entrar son los mostradores y a la izquierda una zona de descanso con sofases y máquinas expendedoras. Al poco nos encontramos unas escaleras que dan acceso a la zona de cardio. En la parte izquierda tienen el espacio reservado para las clases colectivas, que una vez más y por falta de tiempo nos faltó probar. A continuación y en forma de T junto con la zona de cardio se dispone la de musculación. Con una parte de máquinas y peso libre a un lado y otra de pesos alternativos como ketbells, alfombrillas o máquinas multifuncionales al otro nos da una idea de la disposición total del gimnasio Finalmente los vestuarios.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
@@ -871,7 +871,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>Situado en la calle Almirante Bonifaz 19: &lt;a href='https://www.google.es/maps/preview#!q=Sentral+Wellness+Spa%2C+Calle+Almirante+Bonifaz%2C+Miranda+de+Ebro&amp;data=!4m15!2m14!1m13!1s0xd4f9aa074c9db9f%3A0xd71b74ccf51075!3m8!1m3!1d265139!2d-2.7827871!3d42.7521254!3m2!1i985!2i543!4f13.1!4m2!3d42.688487!4d-2.937734' target='_blank'&gt;https://www.google.es/maps/preview#!q=Sentral+Wellness+Spa%2C+Calle+Almirante+Bonifaz%2C+Miranda+de+Ebro&amp;data=!4m15!2m14!1m13!1s0xd4f9aa074c9db9f%3A0xd71b74ccf51075!3m8!1m3!1d265139!2d-2.7827871!3d42.7521254!3m2!1i985!2i543!4f13.1!4m2!3d42.688487!4d-2.937734&lt;/a&gt;.</ubicacion>" +
+        "<ubicacion>Situado en la calle Almirante Bonifaz 19: &lt;a href='https://www.google.es/maps/preview#!q=Sentral+Wellness+Spa%2C+Calle+Almirante+Bonifaz%2C+Miranda+de+Ebro&amp;data=!4m15!2m14!1m13!1s0xd4f9aa074c9db9f%3A0xd71b74ccf51075!3m8!1m3!1d265139!2d-2.7827871!3d42.7521254!3m2!1i985!2i543!4f13.1!4m2!3d42.688487!4d-2.937734' target='_blank'&gt;PINCHA AQUÍ PARA VER SU UBICACIÓN&lt;/a&gt;.</ubicacion>" +
         "<extras>Tiene la posibilidad de ir días sueltos por tan solo 6 euros. Esta opción, a un precio asequible, no suele ser común, por lo menos lo que yo he visto. Algunos gimnasios sí te dan esta posibilidad pero a precios desorbitados como 20 o 30 euros. Si comparamos estos 6 euros con los 4 ó 5 que te pueden costar un día en un polideportivo en Madrid(cogiendo un bono de 20 sesiones, por ejemplo) lo hacen una buena opción, sobre todo si vienes de vez en cuando a Miranda.</extras>" +
         "<stuff>8</stuff>" +
         "<higiene>70%</higiene>" +
@@ -905,7 +905,7 @@ var archivoGimnasios = "" +
         "<ciudad>HARO</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymOjasportHaro.jpg</foto>" +
         "<tipo>BR</tipo>" +
-        "<presentacion>Esta semana también visité un gimnasio cerca de Miranda, concrétamente en Haro, el OjaSport. Este centro es parte de la oferta de esta empresa donde también se ofrecen otros servicio como aventura, enoturismo o despedidas. Se puede ver en su página web: &lt;a href='http://www.ojasport.com/' target='_blank'&gt;http://www.ojasport.com&lt;. En esta ocasión la manera de visitar el centro no ha sido a través de un formulario, una llamada de teléfono, un anuncio, ni siquiera pagando una módica cantidad, sino que fui enchufado gracias a un buen amigo mío. El gimnasio ofrece un trato cercano y amigable por parte de la persona que lo lleva y en todo momento estuvimos bastante agusto.</presentacion>" +
+        "<presentacion>Esta semana también visité un gimnasio cerca de Miranda, concrétamente en Haro, el OjaSport. Este centro es parte de la oferta de esta empresa donde también se ofrecen otros servicio como aventura, enoturismo o despedidas. Se puede ver en su página web: &lt;a href='http://www.ojasport.com/' target='_blank' &gt; PINCHA AQUÍ. En esta ocasión la manera de visitar el centro no ha sido a través de un formulario, una llamada de teléfono, un anuncio, ni siquiera pagando una módica cantidad, sino que fui enchufado gracias a un buen amigo mío. El gimnasio ofrece un trato cercano y amigable por parte de la persona que lo lleva y en todo momento estuvimos bastante agusto.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymOjasportHaro.jpg</fotoPresentacion>" +
         "<instalaciones>Cuenta con una entrada con mostrador bastante chula. A la derecha encontramos un largo pasillo por donde avanzamos dejando atrás vestuarios y demás salas. Antes de llegar al final y a la izquierda se dispone la zona de musculación/cardio.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
@@ -1036,7 +1036,7 @@ var archivoGimnasios = "" +
         "<presentacion>Hace una semana estuvimos de vacas por Lanzarote y voy a hablar del gym que había en el hotel. No he encontrado nada de información del mismo en internet, ni siquiera una foto, así que seguramente le sea útil a alguien esta entrada:&lt;br/&gt;El gimnasio se encuentra dentro de las instalaciones del hotel Hesperia Playa Dorada, en Lanzarote y es ideal para practicar deporte durante tus vacaciones.&lt;br/&gt;Al llegar nos atendió una chica que había en el mostrador, muy amable. Nos habló de las instalaciones y del precio. Podías coger días sueltos, para todas las instalaciones o bien sólo para el gimnasio, bonos. Luego hablaré de ello:</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBodyCareHesperia.jpg</fotoPresentacion>" +
         "<instalaciones>Se encuentra ubicado nada más entrar al hotel Hesperia Playa Dorada de Lanzarote, a la izquierda. Dispone de 2 pisos; uno con la recepción en la planta a ras de suelo, una piscina climatizada y dos jacuzzis y otra en un piso inferior, donde se encuentra la sala de musculación y cardio y la sala de masajes.</instalaciones>" +
-        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Hesperia%20Lanzarote/hlI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
@@ -1044,13 +1044,13 @@ var archivoGimnasios = "" +
         "<staff>La chica con la que traté en la recepción muy maja. También traté con las chicas de masajes ya que los sábados podías disponer de uno de prueba gratis en la zona de la piscina del hotel. El trato muy agradable, al igual que todo el personal del hotel.</staff>" +
         "<masificacionTexto>No es una sala muy grande, pero sin ningún problema. Normalmente no había nadie, otros días coincidimos 2 ó 3 personas.</masificacionTexto>" +
         "<musculacion>&lt;span&gt;Contaba con una sola máquina de musculación, un mancuernero y un banco regulable. Puede parecer poco, pero para un par de semanas es suficiente. Mancuernas de 4, 6, 8, 10, 12 y 14 kilos. La multifunción de SALTER con 4 puestos; jalones, polea regulable, remo sentado y polea baja. Peso máximo 100 kg en dos de los puestos y creo que 70kg en los otros dos. El peso máximo de 100 kg es perfecto y para ser una máquina de gimnasio de hotel estaba muy bien. Faltaría alguna máquina para poder trabajar el tren inferior.&lt;/span&gt;</musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Hesperia%20Lanzarote/hlM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>&lt;span&gt;Cinta de correr, 2 elípticas, 2 bicis sentado, 1 remo y 2 bicis de spinning. Menos las dos últimas las demás de marca Technogym.&lt;/span&gt;</cardio>" +
-        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Hesperia%20Lanzarote/hlC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
@@ -1138,7 +1138,7 @@ var archivoGimnasios = "" +
         "<hackSentadillas>2</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
-        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
+        "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
