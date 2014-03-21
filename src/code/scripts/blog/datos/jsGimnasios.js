@@ -20,8 +20,8 @@ var archivoGimnasios = "" +
         "<tipo>CD</tipo>" +
         "<presentacion></presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.gif</fotoPresentacion>" +
-        "<instalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmI.jpg</instalaciones>" +
-        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<instalaciones></instalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
