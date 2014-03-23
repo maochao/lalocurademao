@@ -40,7 +40,7 @@ var archivoGimnasios = "" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios></vestuarios>" +
+        "<vestuarios>De lo mejor de todo el gimnasio. Bastante amplios, varias duchas, hasta doce.</vestuarios>" +
         "<fotoVestuarios></fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
