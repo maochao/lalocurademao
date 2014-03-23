@@ -34,7 +34,7 @@ var archivoGimnasios = "" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio></cardio>" +
+        "<cardio>Contaba con numerosas máquinas para la práctica del cardio. También disponia de televisiones en cada máquina </cardio>" +
         "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
