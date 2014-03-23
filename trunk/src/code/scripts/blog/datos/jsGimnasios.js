@@ -18,17 +18,17 @@ var archivoGimnasios = "" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.gif</foto>" +
         "<tipo>CD</tipo>" +
-        "<presentacion></presentacion>" +
+        "<presentacion>Este gimnasio se puede probar mediante una inscripción en la propia página web. Dispone de otra sede en Majadahonda aunque en esta ocasión visitamos la que está en la zona de Moncloa. Por fuera esta muy chulo y da muy buena impresión.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymFisico.gif</fotoPresentacion>" +
-        "<instalaciones></instalaciones>" +
+        "<instalaciones>Dispone de 3 plantas una para la zona de musculación y cardio otra para los vestuarios y finalmente otra para las clases colectivas. La parte que más nos llamó la atención fue la de los vestuarios que eran bastante amplios y bastante limpios.</instalaciones>" +
         "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff></staff>" +
-        "<masificacionTexto></masificacionTexto>" +
-        "<musculacion></musculacion>" +
+        "<masificacionTexto>Encontramos este centro muy masificado. Si bien es cierto que era un jueves por la tarde en otros gimnasios a la misma hora no habíamos encontrado tanta gente. En algunos ejercicios podías golpear a alguna persona literalmente sin querer ya que la proximidad de las máquinas el espacio no lo suficientemente amplio y la masificación de ese día hacia que se pudiese producir esto.</masificacionTexto>" +
+       "<musculacion></musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
