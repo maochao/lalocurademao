@@ -596,7 +596,7 @@ var archivoGimnasios = "" +
         "<presentacion></presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
-        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
@@ -604,14 +604,14 @@ var archivoGimnasios = "" +
         "<staff></staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion></musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
-        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcM2.jpg</fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio></cardio>" +
         "<vestuarios></vestuarios>" +
-        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcV.jpg</fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
