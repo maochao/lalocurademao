@@ -1,6 +1,133 @@
 var archivoGimnasios = "" +
 		"<gimnasios>" +
-
+		"<gimnasio>" +
+				"<nombre>CITY FIT PARDINAS</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/04/review-cityfit-pardinas.html</url>" +
+				"<nota>6</nota>" +
+				"<mobiliario>5.5</mobiliario>" +
+				"<personal>6.9</personal>" +
+				"<precio>7.5</precio>" +
+				"<masificacion>4</masificacion>" +
+		  	"<localizacion>5</localizacion>" +
+			  "<mantenimiento>4</mantenimiento>" +
+			  "<sedes>2</sedes>" +
+				"<taquillas>84</taquillas>" +
+				"<duchas>9</duchas>" +
+				"<pesoMaxMancuerna>35</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCitiFitPardinas.gif</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion>Este gimnasio lo visite hoy mismo. Tiene varias cosas que no me han gustado y alguna otra que si. En principio se puede probar pero no mediante su pagina web sino preguntando en la propia recepcion.</presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCityFitPardinas.gif</fotoPresentacion>" +
+        "<instalaciones>Dispone de 3 plantas una para la zona de musculación y cardio otra para los vestuarios y finalmente otra para las clases colectivas. La parte que más nos llamó la atención fue la de los vestuarios que eran bastante amplios y bastante limpios.</instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>Con el poco personal que tratamos todo fue bien. A la entrada, la chica de la recepcion un poco menos simpatica que la de la salida, pero bueno, bien en general. Aunque no te puedes hacer una idea con solo una visita.</staff>" +
+        "<masificacionTexto>Los gimnasios del centro, de Madrid, en este caso, tienen la peculiaridad de que la masificacion no la tienen a la hora tipica como pueda ser por las tarde a partir de las 19h. Normalmente la gente va a la hora de la comida. En cambio un gimnasios mas alejados de un nucleo laboral tendra los horarios de masificacion antes comentados. Aunque no quita para que un dia entre semana tambien haya una saturacion considerable. La visita a este la hicimos entre las 14 y 16 horas y pudimos encontrar bastante gente en la sala de musculacion y tambien en las clases, no tanto en la zona de cardio.</masificacionTexto>" +
+       "<musculacion></musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio>Contaba con numerosas máquinas para la práctica del cardio. También disponia de televisiones en cada máquina </cardio>" +
+        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>De lo mejor de todo el gimnasio. Bastante amplios, varias duchas, hasta doce.</vestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/zQojV' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
+        "<extras></extras>" +
+        "<stuff></stuff>" +
+        "<higiene>65%</higiene>" +
+        "<desorden>30%</desorden>" +
+        "<metro>-</metro>" +
+        "<aparcamiento>ZONA VERDE/AZUL</aparcamiento>" +
+        "<plantas>3</plantas>" +
+        "<puertaDuchas>V</puertaDuchas>" +
+        "<secador>1</secador>" +
+        "<crucesPolea>2</crucesPolea>" +
+        "<hackSentadillas>2</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
+        "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
+        "<precios></precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +
+		
+"<gimnasio>" +
+				"<nombre>MCFIT VALLADOLID</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-mcfit-alcala.html</url>" +
+				"<nota>9</nota>" +
+				"<mobiliario>7</mobiliario>" +
+				"<personal>7.5</personal>" +
+				"<precio>9</precio>" +
+				"<masificacion>7</masificacion>" +
+		  	"<localizacion>6</localizacion>" +
+			  "<mantenimiento>8.5</mantenimiento>" +
+			  "<sedes>198</sedes>" +
+				"<taquillas>156</taquillas>" +
+				"<duchas>5</duchas>" +
+				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>VALLADOLID</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion>Este McFit es el más grande de todos los de España, en principio es más grande  que el del Carmen de Madrid.</presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
+        "<instalaciones>Se encuentra ubicado en una zona comercial, en una segunda planta a la que puedes acceder desde la calle en ascensor o por las escaleras. Puedes encontrar una tienda de suplementación en la parte de abajo así como un Burger King por si te quierers dar un homenaje después de una dura sesión de volumen.</instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>El sábado únicamente encontramos una persona al igual que en el de Torrejón. No así en del Carmen que suele haber dos personas los sábados por la mañana. Estuvimos charlando como de costumbre con el monitor del mostrador, esta vez de las diferentes sedes de Madrid.</staff>" +
+        "<masificacionTexto>Siendo tan grandes estos centros suele ser difícil que la masificación sea un problema. Este centro concrétamente no iba a ser menos.</masificacionTexto>" +
+        "<musculacion>Se puede decir que está dividido en 4 grandes zonas; máquinas, pesos libres, poleas y cruces y cardio finalmente. La zona de musculación muy similar al de Torrejón. Amplio mancuernero, no tanto como el del Carmen pero suficiente. Con varios bancos. Dos cruces de poleas. Zona bastante luminosa y ventilada. Se puede ver la autovía desde una de sus esquinas.</musculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio>Ocupando un cuarto del recinto podría decirse que es de lás más grandes, incluso más que la del Carmen. Varias hileras de cintas, bicis y suficientes steppers(bueno, creo que sólo había dos) así como elípticas.</cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Alcala/mfaC.jpg</fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Bastante amplios. Como anécdota decir que estaba estropeada la máquina de recarga de la tarjeta monedero y te podías duchar gratis por el momento.</vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Alcala/mfaV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/F0Qhd' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Muy cerca de la salida 30 dirección Zaragoza de la A-2.&lt;/span&gt;</ubicacion>" +
+        "<extras>Existen diarios de entrenamiento disponibles para el usuario ordenados por grupos musculares distribuídos en stands por todo el gimnasio, de manera que se pueden identificar las máqinas numeradas con los ejercicios propuestos en las tablas/diario. De esta manera puedes organizar tus entrenamientos de manera bastante efectiva y agilizar el paso de un ejercicio a otro.</extras>" +
+        "<stuff>7.5</stuff>" +
+        "<higiene>85%</higiene>" +
+        "<desorden>20%</desorden>" +
+        "<metro>-</metro>" +
+        "<aparcamiento>PARKING LIBRE</aparcamiento>" +
+        "<plantas>1</plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
+        "<secador>1</secador>" +
+        "<crucesPolea>2</crucesPolea>" +
+        "<hackSentadillas>2</hackSentadillas>" +
+        "<maquinaSoleo></maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
+        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +
+			
 		"<gimnasio>" +
 				"<nombre>FISICO MADRID</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-fisico.html</url>" +
