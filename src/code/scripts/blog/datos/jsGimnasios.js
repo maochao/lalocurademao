@@ -27,51 +27,51 @@ var archivoGimnasios = "" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff>Con el poco personal que tratamos todo fue bien. A la entrada, la chica de la recepcion un poco menos simpatica que la de la salida, pero bueno, bien en general. Aunque no te puedes hacer una idea con solo una visita.</staff>" +
         "<masificacionTexto>Los gimnasios del centro, de Madrid, en este caso, tienen la peculiaridad de que la masificacion no la tienen a la hora tipica como pueda ser por las tarde a partir de las 19h. Normalmente la gente va a la hora de la comida. En cambio un gimnasios mas alejados de un nucleo laboral tendra los horarios de masificacion antes comentados. Aunque no quita para que un dia entre semana tambien haya una saturacion considerable. La visita a este la hicimos entre las 14 y 16 horas y pudimos encontrar bastante gente en la sala de musculacion y tambien en las clases, no tanto en la zona de cardio.</masificacionTexto>" +
-       "<musculacion></musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Fisico%20Madrid/fmM.jpg</fotoMusculacion>" +
+       "<musculacion>De esta zona tengo que decir que nos esperabamos mas, sobre todo en maquinas y espacio. Se dispone en L, teniendo acceso por ambos lados. En la primera parte, la del pasillo largo encontramos maquinas de musculacion diversas, muy basicas y no mas de dos por grupo muscular. Al llegar al otro pasillo vemos la zona de musculacion libre con mancuernas, presses de banca, hack de sentadillas, cruces de polea y bancos. Algo justo en mi opinion incluso para la hora a la que fuimos. Como puntos negativos destacaria que el material era algo escaso ya que tenias que reutilizar las barras y los discos de unos puestos a otros y si por ejemplo vas a por una repeticion con maximo peso puedes dejar a toda la sala parada por falta de discos, casi casi. Otra cosa que no nos gusto fue el mantenimiento, por ejemplo en las paredes se podia ver pintura desgastada o manchada dando no muy buena imagen.</musculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio>Contaba con numerosas máquinas para la práctica del cardio. También disponia de televisiones en cada máquina </cardio>" +
+        "<cardio>Esta zona ya me parecio otra cosa, contaba con numerosas máquinas para la práctica del cardio. La zona se ubica en el piso de arriba y como en la sala de musculacion puedes entrar por varios sitios. Esta es una caracteristica del recinto, puede parecer un poco laberintico</cardio>" +
         "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>De lo mejor de todo el gimnasio. Bastante amplios, varias duchas, hasta doce.</vestuarios>" +
-        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/CityFit%20Pardinas/cfpV.jpg</fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/zQojV' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/cBtmJ' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
         "<extras></extras>" +
         "<stuff></stuff>" +
-        "<higiene>65%</higiene>" +
+        "<higiene>50%</higiene>" +
         "<desorden>30%</desorden>" +
-        "<metro>-</metro>" +
+        "<metro>LISTA a 4</metro>" +
         "<aparcamiento>ZONA VERDE/AZUL</aparcamiento>" +
         "<plantas>3</plantas>" +
         "<puertaDuchas>V</puertaDuchas>" +
         "<secador>1</secador>" +
-        "<crucesPolea>2</crucesPolea>" +
-        "<hackSentadillas>2</hackSentadillas>" +
+        "<crucesPolea>1</crucesPolea>" +
+        "<hackSentadillas>1</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
         "<clases></clases>" +
-        "<precios></precios>" +
-        "<conclusion></conclusion>" +
+        "<precios>Creo que el precio podria oscilar sobre los 30 euros al mes, algo que no esta nada mal si lo comparamos con otros de la zona como el O2 de Manuel Becerra que puede llegar a los 60. </precios>" +
+        "<conclusion>Este centro se me antoja una buena opcion si trabajamos por el centro y podemos disponer de las horas centrales del dia para entrenar, aunque tampoco estaremos solos como otros donde veremos menos gente a esta hora. Lo malo puede ser que el fin de semana, si no vivimos cerca del trabajo, se nos haga menos comodo el ir, eso si al menos podremos aparcar mejor y sin pagar. Tambien seria una muy buena opcion si trabajas por el centro y vives en Alcorcon, aunque no se si se puede acceder a los dos centros seria cuestion de preguntar.</conclusion>" +
 			"</gimnasio>" +
 		
 "<gimnasio>" +
 				"<nombre>MCFIT VALLADOLID</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/03/review-mcfit-alcala.html</url>" +
-				"<nota>9</nota>" +
-				"<mobiliario>7</mobiliario>" +
-				"<personal>7.5</personal>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/04/review-mcfit-valladolid.html</url>" +
+				"<nota>9.3</nota>" +
+				"<mobiliario>8</mobiliario>" +
+				"<personal>9</personal>" +
 				"<precio>9</precio>" +
-				"<masificacion>7</masificacion>" +
+				"<masificacion>8</masificacion>" +
 		  	"<localizacion>6</localizacion>" +
 			  "<mantenimiento>8.5</mantenimiento>" +
 			  "<sedes>198</sedes>" +
@@ -81,9 +81,9 @@ var archivoGimnasios = "" +
         "<ciudad>VALLADOLID</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
-        "<presentacion>Este McFit es el más grande de todos los de España, en principio es más grande  que el del Carmen de Madrid.</presentacion>" +
+        "<presentacion>Este McFit es el más grande de todos los de España, en principio es más grande  que el del Carmen de Madrid. Segun uno de los monitores del McFit de Alcala esto era asi y tenia razon. Es un poco mas grande.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
-        "<instalaciones>Se encuentra ubicado en una zona comercial, en una segunda planta a la que puedes acceder desde la calle en ascensor o por las escaleras. Puedes encontrar una tienda de suplementación en la parte de abajo así como un Burger King por si te quierers dar un homenaje después de una dura sesión de volumen.</instalaciones>" +
+        "<instalaciones>Se encuentra ubicado en el centro comercial Carrefour II de Valladolid, en una nave gigante con amplias cristaleras por donde entra la luz del sol sin problemas con el correpondiente ahorro energetico que ello conlleva.y</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
@@ -92,19 +92,19 @@ var archivoGimnasios = "" +
         "<staff>El sábado únicamente encontramos una persona al igual que en el de Torrejón. No así en del Carmen que suele haber dos personas los sábados por la mañana. Estuvimos charlando como de costumbre con el monitor del mostrador, esta vez de las diferentes sedes de Madrid.</staff>" +
         "<masificacionTexto>Siendo tan grandes estos centros suele ser difícil que la masificación sea un problema. Este centro concrétamente no iba a ser menos.</masificacionTexto>" +
         "<musculacion>Se puede decir que está dividido en 4 grandes zonas; máquinas, pesos libres, poleas y cruces y cardio finalmente. La zona de musculación muy similar al de Torrejón. Amplio mancuernero, no tanto como el del Carmen pero suficiente. Con varios bancos. Dos cruces de poleas. Zona bastante luminosa y ventilada. Se puede ver la autovía desde una de sus esquinas.</musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Valladolid/mfvM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Ocupando un cuarto del recinto podría decirse que es de lás más grandes, incluso más que la del Carmen. Varias hileras de cintas, bicis y suficientes steppers(bueno, creo que sólo había dos) así como elípticas.</cardio>" +
-        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Alcala/mfaC.jpg</fotoCardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Valladolid/mfvC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Bastante amplios. Como anécdota decir que estaba estropeada la máquina de recarga de la tarjeta monedero y te podías duchar gratis por el momento.</vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Alcala/mfaV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Valladolid/mfvV.jpg</fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
