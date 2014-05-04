@@ -2,7 +2,7 @@ var archivoGimnasios = "" +
 		"<gimnasios>" +
 		"<gimnasio>" +
 				"<nombre>CITY FIT PARDINAS</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/04/review-cityfit-pardinas.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-cityfit-pardinas.html</url>" +
 				"<nota>6</nota>" +
 				"<mobiliario>5.5</mobiliario>" +
 				"<personal>6.9</personal>" +
@@ -15,7 +15,7 @@ var archivoGimnasios = "" +
 				"<duchas>9</duchas>" +
 				"<pesoMaxMancuerna>35</pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCitiFitPardinas.gif</foto>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCityFit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Este gimnasio lo visite hoy mismo. Tiene varias cosas que no me han gustado y alguna otra que si. En principio se puede probar pero no mediante su pagina web sino preguntando en la propia recepcion.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCityFitPardinas.gif</fotoPresentacion>" +
@@ -66,7 +66,7 @@ var archivoGimnasios = "" +
 		
 "<gimnasio>" +
 				"<nombre>MCFIT VALLADOLID</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/04/review-mcfit-valladolid.html</url>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-mcfit-valladolid.html</url>" +
 				"<nota>9.3</nota>" +
 				"<mobiliario>8</mobiliario>" +
 				"<personal>9</personal>" +
@@ -93,12 +93,12 @@ var archivoGimnasios = "" +
         "<masificacionTexto>Siendo tan grandes estos centros suele ser difícil que la masificación sea un problema. Este centro concrétamente no iba a ser menos.</masificacionTexto>" +
         "<musculacion>Se puede decir que está dividido en 4 grandes zonas; máquinas, pesos libres, poleas y cruces y cardio finalmente. La zona de musculación muy similar al de Torrejón. Amplio mancuernero, no tanto como el del Carmen pero suficiente. Con varios bancos. Dos cruces de poleas. Zona bastante luminosa y ventilada. Se puede ver la autovía desde una de sus esquinas.</musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Valladolid/mfvM.jpg</fotoMusculacion>" +
-        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Valladolid/mfvM2.jpg</fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Ocupando un cuarto del recinto podría decirse que es de lás más grandes, incluso más que la del Carmen. Varias hileras de cintas, bicis y suficientes steppers(bueno, creo que sólo había dos) así como elípticas.</cardio>" +
-        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Valladolid/mfvC.jpg</fotoCardio>" +
+        "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
