@@ -18,7 +18,7 @@ var archivoGimnasios = "" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCityFit.jpg</foto>" +
         "<tipo>LC</tipo>" +
         "<presentacion>Este gimnasio lo visite hoy mismo. Tiene varias cosas que no me han gustado y alguna otra que si. En principio se puede probar pero no mediante su pagina web sino preguntando en la propia recepcion.</presentacion>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCityFitPardinas.gif</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCityFit.jpg</fotoPresentacion>" +
         "<instalaciones>Dispone de 3 plantas una para la zona de musculación y cardio otra para los vestuarios y finalmente otra para las clases colectivas. La parte que más nos llamó la atención fue la de los vestuarios que eran bastante amplios y bastante limpios.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
