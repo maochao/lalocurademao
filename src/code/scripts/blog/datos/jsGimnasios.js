@@ -109,7 +109,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/F0Qhd' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Muy cerca de la salida 30 dirección Zaragoza de la A-2.&lt;/span&gt;</ubicacion>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/b3iC4' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
         "<extras>Existen diarios de entrenamiento disponibles para el usuario ordenados por grupos musculares distribuídos en stands por todo el gimnasio, de manera que se pueden identificar las máqinas numeradas con los ejercicios propuestos en las tablas/diario. De esta manera puedes organizar tus entrenamientos de manera bastante efectiva y agilizar el paso de un ejercicio a otro.</extras>" +
         "<stuff>7.5</stuff>" +
         "<higiene>85%</higiene>" +
