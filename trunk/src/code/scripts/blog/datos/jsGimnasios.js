@@ -1,6 +1,69 @@
 var archivoGimnasios = "" +
 		"<gimnasios>" +
 		"<gimnasio>" +
+				"<nombre>MCFIT ZEIL ALEMANIA</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-mcfit-zeil-alemania.html</url>" +
+				"<nota>7</nota>" +
+				"<mobiliario>7</mobiliario>" +
+				"<personal>7</personal>" +
+				"<precio>9</precio>" +
+				"<masificacion>6</masificacion>" +
+		  	"<localizacion>9</localizacion>" +
+			  "<mantenimiento>5</mantenimiento>" +
+			  "<sedes>198</sedes>" +
+				"<taquillas>186</taquillas>" +
+				"<duchas>4</duchas>" +
+				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>FRANCFURT</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion></presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
+        "<instalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzI.jpg</instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>El sábado únicamente encontramos una persona al igual que en el de Torrejón. No así en del Carmen que suele haber dos personas los sábados por la mañana. Estuvimos charlando como de costumbre con el monitor del mostrador, esta vez de las diferentes sedes de Madrid.</staff>" +
+        "<masificacionTexto>Siendo tan grandes estos centros suele ser difícil que la masificación sea un problema. Este centro concrétamente no iba a ser menos.</masificacionTexto>" +
+        "<musculacion>Se puede decir que está dividido en 4 grandes zonas; máquinas, pesos libres, poleas y cruces y cardio finalmente. La zona de musculación muy similar al de Torrejón. Amplio mancuernero, no tanto como el del Carmen pero suficiente. Con varios bancos. Dos cruces de poleas. Zona bastante luminosa y ventilada. Se puede ver la autovía desde una de sus esquinas.</musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM2.jpg</fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio>Ocupando un cuarto del recinto podría decirse que es de lás más grandes, incluso más que la del Carmen. Varias hileras de cintas, bicis y suficientes steppers(bueno, creo que sólo había dos) así como elípticas.</cardio>" +
+        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Bastante amplios. Como anécdota decir que estaba estropeada la máquina de recarga de la tarjeta monedero y te podías duchar gratis por el momento.</vestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Muy cerca de la salida 30 dirección Zaragoza de la A-2.&lt;/span&gt;</ubicacion>" +
+        "<extras>Existen diarios de entrenamiento disponibles para el usuario ordenados por grupos musculares distribuídos en stands por todo el gimnasio, de manera que se pueden identificar las máqinas numeradas con los ejercicios propuestos en las tablas/diario. De esta manera puedes organizar tus entrenamientos de manera bastante efectiva y agilizar el paso de un ejercicio a otro.</extras>" +
+        "<stuff>7</stuff>" +
+        "<higiene>35%</higiene>" +
+        "<desorden>80%</desorden>" +
+        "<metro>-</metro>" +
+        "<aparcamiento>PARKING LIBRE</aparcamiento>" +
+        "<plantas>1</plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
+        "<secador>-</secador>" +
+        "<crucesPolea>1</crucesPolea>" +
+        "<hackSentadillas>3</hackSentadillas>" +
+        "<maquinaSoleo>1</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
+        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +
+		    "<gimnasio>" +
 				"<nombre>CITY FIT PARDINAS</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-cityfit-pardinas.html</url>" +
 				"<nota>6</nota>" +
