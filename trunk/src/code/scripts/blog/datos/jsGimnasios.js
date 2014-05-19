@@ -30,8 +30,8 @@ var archivoGimnasios = "" +
         "<musculacion>Se puede decir que está dividido en 4 grandes zonas; máquinas, pesos libres, poleas y cruces y cardio finalmente. La zona de musculación muy similar al de Torrejón. Amplio mancuernero, no tanto como el del Carmen pero suficiente. Con varios bancos. Dos cruces de poleas. Zona bastante luminosa y ventilada. Se puede ver la autovía desde una de sus esquinas.</musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM2.jpg</fotoMusculacion2>" +
-        "<fotoMusculacion3></fotoMusculacion3>" +
-        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM3.jpg</fotoMusculacion3>" +
+        "<fotoMusculacion4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM4.jpg</fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Ocupando un cuarto del recinto podría decirse que es de lás más grandes, incluso más que la del Carmen. Varias hileras de cintas, bicis y suficientes steppers(bueno, creo que sólo había dos) así como elípticas.</cardio>" +
         "<fotoCardio></fotoCardio>" +
