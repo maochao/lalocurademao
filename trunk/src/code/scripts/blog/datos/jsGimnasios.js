@@ -1,7 +1,7 @@
 var archivoGimnasios = "" +
 		"<gimnasios>" +
 		"<gimnasio>" +
-				"<nombre>MCFIT ZEIL ALEMANIA</nombre>" +
+				"<nombre>MCFIT ZEIL FRANKFURT</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-mcfit-zeil-alemania.html</url>" +
 				"<nota>7</nota>" +
 				"<mobiliario>7</mobiliario>" +
