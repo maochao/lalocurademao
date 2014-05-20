@@ -10,7 +10,7 @@ var archivoGimnasios = "" +
 				"<masificacion>6</masificacion>" +
 		  	"<localizacion>9</localizacion>" +
 			  "<mantenimiento>5</mantenimiento>" +
-			  "<sedes>198</sedes>" +
+			  "<sedes>201</sedes>" +
 				"<taquillas>186</taquillas>" +
 				"<duchas>4</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
@@ -25,21 +25,21 @@ var archivoGimnasios = "" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
-        "<staff>El sábado únicamente encontramos una persona al igual que en el de Torrejón. No así en del Carmen que suele haber dos personas los sábados por la mañana. Estuvimos charlando como de costumbre con el monitor del mostrador, esta vez de las diferentes sedes de Madrid.</staff>" +
-        "<masificacionTexto>Siendo tan grandes estos centros suele ser difícil que la masificación sea un problema. Este centro concrétamente no iba a ser menos.</masificacionTexto>" +
-        "<musculacion>Se puede decir que está dividido en 4 grandes zonas; máquinas, pesos libres, poleas y cruces y cardio finalmente. La zona de musculación muy similar al de Torrejón. Amplio mancuernero, no tanto como el del Carmen pero suficiente. Con varios bancos. Dos cruces de poleas. Zona bastante luminosa y ventilada. Se puede ver la autovía desde una de sus esquinas.</musculacion>" +
+        "<staff>Por la mañana, como estábamos dando una vuelta por la calle Zeil entramos a preguntar por si había algún problema para entrar(No estaba totalmente seguro de que reconociese la tarjeta española). Hablando con una chica en inglés, muy amable, nos dejó claro que no habría muy tranquilo y que podíamos ir a cualquier hora del día(ABIERTO 24H). Por la noche, en la recepción, poco pude hablar con el monitor porque se hallaba entre una de las salas de recepción y en algún lugar del gimnasio. </staff>" +
+        "<masificacionTexto>El día elegido fue un sábado por la noche, a eso de las 21h. El gimnasio estaba bastante concurrido, aunque como siempre en esta cadena eso no es un problema por la gran superficie y el número de máquinas más que suficiente.</masificacionTexto>" +
+        "<musculacion>La zona de musculación con pesos libre se encuentra ubicada en el piso de arriba junto a un amplio catálogo de máquinas. El mancuernero, por ejemplo, en comparación con el del Carmen podría ser como una 4ª parte, vamos mucho más pequeño. Desde las cristaleras tienes bonitas vistas a la calle de Zeil</musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM2.jpg</fotoMusculacion2>" +
         "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM3.jpg</fotoMusculacion3>" +
         "<fotoMusculacion4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM4.jpg</fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio>Ocupando un cuarto del recinto podría decirse que es de lás más grandes, incluso más que la del Carmen. Varias hileras de cintas, bicis y suficientes steppers(bueno, creo que sólo había dos) así como elípticas.</cardio>" +
+        "<cardio>Similar a las zonas de cardio de España, amplias y con buen elenco de máquinas Ergo Fit. Varias máquinas y pantallas de TV</cardio>" +
         "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios>Bastante amplios. Como anécdota decir que estaba estropeada la máquina de recarga de la tarjeta monedero y te podías duchar gratis por el momento.</vestuarios>" +
+        "<vestuarios>Aquí viene una de las partes malas. Mala ventilación en general. Ambiente muy cargado aún con la puerta abierta todo el tiempo. Las taquillas y el aspecto en general es similar a los McFits de España. En cuanto a las duchas son compartidas, unas 4. El sistema para ellas es de acceso libre(GRATIS) aunque a la entrada se podía ver un sistema de cobro mediante monedas, nada que ver con el moderno sistema de tarjeta instalado en España. Quizás esté a la espera de modernizar este aspecto.</vestuarios>" +
         "<fotoVestuarios></fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
@@ -137,7 +137,7 @@ var archivoGimnasios = "" +
 				"<masificacion>8</masificacion>" +
 		  	"<localizacion>6</localizacion>" +
 			  "<mantenimiento>8.5</mantenimiento>" +
-			  "<sedes>198</sedes>" +
+			  "<sedes>201</sedes>" +
 				"<taquillas>156</taquillas>" +
 				"<duchas>5</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
@@ -265,7 +265,7 @@ var archivoGimnasios = "" +
 				"<masificacion>7</masificacion>" +
 		  	"<localizacion>6</localizacion>" +
 			  "<mantenimiento>8.5</mantenimiento>" +
-			  "<sedes>198</sedes>" +
+			  "<sedes>201</sedes>" +
 				"<taquillas>156</taquillas>" +
 				"<duchas>5</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
@@ -584,7 +584,7 @@ var archivoGimnasios = "" +
 				"<masificacion>7</masificacion>" +
 		  	"<localizacion>6</localizacion>" +
 			  "<mantenimiento>8.5</mantenimiento>" +
-			  "<sedes>198</sedes>" +
+			  "<sedes>201</sedes>" +
 				"<taquillas>136</taquillas>" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
@@ -712,7 +712,7 @@ var archivoGimnasios = "" +
 				"<masificacion>6</masificacion>" +
 		  	"<localizacion>8</localizacion>" +
 			  "<mantenimiento>8</mantenimiento>" +
-			  "<sedes>198</sedes>" +
+			  "<sedes>201</sedes>" +
 				"<taquillas>160</taquillas>" +
 				"<duchas>6</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
@@ -776,7 +776,7 @@ var archivoGimnasios = "" +
 				"<masificacion>7</masificacion>" +
 		  	"<localizacion>8.5</localizacion>" +
 			  "<mantenimiento>8</mantenimiento>" +
-			  "<sedes>198</sedes>" +
+			  "<sedes>201</sedes>" +
 				"<taquillas>232</taquillas>" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
@@ -1343,7 +1343,7 @@ var archivoGimnasios = "" +
 				"<masificacion>7</masificacion>" +
 		  	"<localizacion>6.5</localizacion>" +
   			"<mantenimiento>8</mantenimiento>" +
-			  "<sedes>198</sedes>" +
+			  "<sedes>201</sedes>" +
 				"<taquillas>142</taquillas>" +
 				"<duchas>3</duchas>" +
 				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
