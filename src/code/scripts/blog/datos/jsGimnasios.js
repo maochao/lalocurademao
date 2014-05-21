@@ -17,10 +17,10 @@ var archivoGimnasios = "" +
         "<ciudad>FRANCFURT</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
         "<tipo>LC</tipo>" +
-        "<presentacion></presentacion>" +
+        "<presentacion>Frankfurt es uno de los destinos más asequibles para viajar en avión de Europa. Air Europa tiene vuelos directos desde Madrid y eso hace que sea más barato viajar allí que a otros destinos como Dortmund o Munich. Por otro lado cuenta con varias sedes, aunque pocas si lo comparamos con Berlín, por ejemplo. Aunque se nota bastante la pérdida de calidad con respecto a los de España(al menos Valladolid y todos los de Madrid que son lo que he estado) debido a que ya tienen unos años, sigue siendo una buena opción para apuntarte.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
-        "<instalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzI.jpg</instalaciones>" +
-        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<instalaciones>Se encuentra en la calle comercial de Frankfurt, Zeil, la Gran Vía madrileña, aunque ni punto de comparación con ésta, a favor de Madrid. En un tercero de un edificio con otros comercios. Luego hay unas escaleras por las que accedes a un piso superior con pesos libres y más máquinas.</instalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
@@ -52,7 +52,7 @@ var archivoGimnasios = "" +
         "<desorden>80%</desorden>" +
         "<metro>-</metro>" +
         "<aparcamiento>PARKING LIBRE</aparcamiento>" +
-        "<plantas>1</plantas>" +
+        "<plantas>2</plantas>" +
         "<puertaDuchas>X</puertaDuchas>" +
         "<secador>-</secador>" +
         "<crucesPolea>1</crucesPolea>" +
