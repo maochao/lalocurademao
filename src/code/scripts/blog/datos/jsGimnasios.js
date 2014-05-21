@@ -63,6 +63,69 @@ var archivoGimnasios = "" +
         "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
+      "<gimnasio>" +
+				"<nombre>QGREENMELIA FRANKFURT</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-qgreenmelia-frankfurt.html</url>" +
+				"<nota>7</nota>" +
+				"<mobiliario>7</mobiliario>" +
+				"<personal>7</personal>" +
+				"<precio>9</precio>" +
+				"<masificacion>6</masificacion>" +
+		  	"<localizacion>9</localizacion>" +
+			  "<mantenimiento>5</mantenimiento>" +
+			  "<sedes>201</sedes>" +
+				"<taquillas>186</taquillas>" +
+				"<duchas>4</duchas>" +
+				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>FRANCFURT</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion>Frankfurt es uno de los destinos más asequibles para viajar en avión de Europa. Air Europa tiene vuelos directos desde Madrid y eso hace que sea más barato viajar allí que a otros destinos como Dortmund o Munich. Por otro lado cuenta con varias sedes, aunque pocas si lo comparamos con Berlín, por ejemplo. Aunque se nota bastante la pérdida de calidad con respecto a los de España(al menos Valladolid y todos los de Madrid que son lo que he estado) debido a que ya tienen unos años, sigue siendo una buena opción para apuntarte.</presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
+        "<instalaciones>Se encuentra en la calle comercial de Frankfurt, Zeil, la Gran Vía madrileña, aunque ni punto de comparación con ésta, a favor de Madrid. En un tercero de un edificio con otros comercios. Luego hay unas escaleras por las que accedes a un piso superior con pesos libres y más máquinas.</instalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>Por la mañana, como estábamos dando una vuelta por la calle Zeil entramos a preguntar por si había algún problema para entrar(No estaba totalmente seguro de que reconociese la tarjeta española). Hablando con una chica en inglés, muy amable, nos dejó claro que no habría muy tranquilo y que podíamos ir a cualquier hora del día(ABIERTO 24H). Por la noche, en la recepción, poco pude hablar con el monitor porque se hallaba entre una de las salas de recepción y en algún lugar del gimnasio. </staff>" +
+        "<masificacionTexto>El día elegido fue un sábado por la noche, a eso de las 21h. El gimnasio estaba bastante concurrido, aunque como siempre en esta cadena eso no es un problema por la gran superficie y el número de máquinas más que suficiente.</masificacionTexto>" +
+        "<musculacion>La zona de musculación con pesos libre se encuentra ubicada en el piso de arriba junto a un amplio catálogo de máquinas. El mancuernero, por ejemplo, en comparación con el del Carmen podría ser como una 4ª parte, vamos mucho más pequeño. Desde las cristaleras tienes bonitas vistas a la calle de Zeil</musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM2.jpg</fotoMusculacion2>" +
+        "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM3.jpg</fotoMusculacion3>" +
+        "<fotoMusculacion4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM4.jpg</fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio>Similar a las zonas de cardio de España, amplias y con buen elenco de máquinas Ergo Fit. Varias máquinas y pantallas de TV</cardio>" +
+        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Aquí viene una de las partes malas. Mala ventilación en general. Ambiente muy cargado aún con la puerta abierta todo el tiempo. Las taquillas y el aspecto en general es similar a los McFits de España. En cuanto a las duchas son compartidas, unas 4. El sistema para ellas es de acceso libre(GRATIS) aunque a la entrada se podía ver un sistema de cobro mediante monedas, nada que ver con el moderno sistema de tarjeta instalado en España. Quizás esté a la espera de modernizar este aspecto.</vestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Muy cerca de la salida 30 dirección Zaragoza de la A-2.&lt;/span&gt;</ubicacion>" +
+        "<extras>Existen diarios de entrenamiento disponibles para el usuario ordenados por grupos musculares distribuídos en stands por todo el gimnasio, de manera que se pueden identificar las máqinas numeradas con los ejercicios propuestos en las tablas/diario. De esta manera puedes organizar tus entrenamientos de manera bastante efectiva y agilizar el paso de un ejercicio a otro.</extras>" +
+        "<stuff>7</stuff>" +
+        "<higiene>35%</higiene>" +
+        "<desorden>80%</desorden>" +
+        "<metro>-</metro>" +
+        "<aparcamiento>PARKING LIBRE</aparcamiento>" +
+        "<plantas>2</plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
+        "<secador>-</secador>" +
+        "<crucesPolea>1</crucesPolea>" +
+        "<hackSentadillas>3</hackSentadillas>" +
+        "<maquinaSoleo>1</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
+        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +
 		    "<gimnasio>" +
 				"<nombre>CITY FIT PARDINAS</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-cityfit-pardinas.html</url>" +
@@ -125,9 +188,8 @@ var archivoGimnasios = "" +
         "<clases></clases>" +
         "<precios>Creo que el precio podria oscilar sobre los 30 euros al mes, algo que no esta nada mal si lo comparamos con otros de la zona como el O2 de Manuel Becerra que puede llegar a los 60. </precios>" +
         "<conclusion>Este centro se me antoja una buena opcion si trabajamos por el centro y podemos disponer de las horas centrales del dia para entrenar, aunque tampoco estaremos solos como otros donde veremos menos gente a esta hora. Lo malo puede ser que el fin de semana, si no vivimos cerca del trabajo, se nos haga menos comodo el ir, eso si al menos podremos aparcar mejor y sin pagar. Tambien seria una muy buena opcion si trabajas por el centro y vives en Alcorcon, aunque no se si se puede acceder a los dos centros seria cuestion de preguntar.</conclusion>" +
-			"</gimnasio>" +
-		
-"<gimnasio>" +
+			"</gimnasio>" +		
+      "<gimnasio>" +
 				"<nombre>MCFIT VALLADOLID</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-mcfit-valladolid.html</url>" +
 				"<nota>9.3</nota>" +
