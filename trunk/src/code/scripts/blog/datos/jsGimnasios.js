@@ -1,6 +1,69 @@
 var archivoGimnasios = "" +
 		"<gimnasios>" +
-		"<gimnasio>" +
+	  "<gimnasio>" +
+				"<nombre>ATENAS CHAMARTIN</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-atenas-chamartin.html</url>" +
+				"<nota></nota>" +
+				"<mobiliario>7</mobiliario>" +
+				"<personal></personal>" +
+				"<precio></precio>" +
+				"<masificacion></masificacion>" +
+		  	"<localizacion>7</localizacion>" +
+			  "<mantenimiento></mantenimiento>" +
+			  "<sedes>1</sedes>" +
+				"<taquillas></taquillas>" +
+				"<duchas></duchas>" +
+				"<pesoMaxMancuerna></pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAtenasChamartin.jpg</foto>" +
+        "<tipo>CD</tipo>" +
+        "<presentacion>El día elegido para probar este centro fue entre semana, un miércoles. Nos enteramos de iba a haber una semana de puertas abiertas. Llamando por teléfono previamente y para nuestra sorpresa nos comunicaron que </presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAtenasChamartin.jpg</fotoPresentacion>" +
+        "<instalaciones></instalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atenas%20Chamartin/aCI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff></staff>" +
+        "<masificacionTexto></masificacionTexto>" +
+        "<musculacion></musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atenas%20Chamartin/aCM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio></cardio>" +
+        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios></vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atenas%20Chamartin/aCV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='-------------' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
+        "<extras></extras>" +
+        "<stuff></stuff>" +
+        "<higiene></higiene>" +
+        "<desorden></desorden>" +
+        "<metro>COLOMBIA A 1'</metro>" +
+        "<aparcamiento></aparcamiento>" +
+        "<plantas></plantas>" +
+        "<puertaDuchas></puertaDuchas>" +
+        "<secador></secador>" +
+        "<crucesPolea></crucesPolea>" +
+        "<hackSentadillas></hackSentadillas>" +
+        "<maquinaSoleo></maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
+        "<clases></clases>" +
+        "<precios></precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +
+		 "<gimnasio>" +
 				"<nombre>MCFIT ZEIL FRANKFURT</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-mcfit-zeil-alemania.html</url>" +
 				"<nota>7</nota>" +
