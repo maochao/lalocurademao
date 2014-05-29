@@ -462,7 +462,7 @@ var archivoGimnasios = "" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCaminera.jpg</foto>" +
         "<tipo>HT</tipo>" +
         "<presentacion>Todo el hotel es una pasada en general. Mola lo mucho lo perdido que está en medio del campo. También destaca por lo detallista que es. Se disponen 4 torres unidas por habitaciones con un gran patio en medio. En uno de estos 4 pasillos está la zona fitness. Con una placa fuera con el nombre del gym: Gimnasio Cardenio, invita a la práctica deportiva</presentacion>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCardenioCaminera.jpg</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCaminera.jpg</fotoPresentacion>" +
         "<instalaciones>Sala lo suficientemente grade con máquinas de cardio, una especie de multifunción para la musculación, mancuernero, taquillas, TV y baño.</instalaciones>" +
         "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caminera%20Torrenueva/ctI.jpg</fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
