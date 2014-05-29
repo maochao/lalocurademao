@@ -1,31 +1,92 @@
 var archivoGimnasios = "" +
 		"<gimnasios>" +
 	  "<gimnasio>" +
-				"<nombre>ATENAS CHAMARTIN</nombre>" +
-				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-atenas-chamartin.html</url>" +
+				"<nombre>CAROLI MIGUEL ANGEL</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-caroli-miguel-angel.html</url>" +
 				"<nota></nota>" +
-				"<mobiliario>7</mobiliario>" +
+				"<mobiliario></mobiliario>" +
 				"<personal></personal>" +
 				"<precio></precio>" +
 				"<masificacion></masificacion>" +
-		  	"<localizacion>7</localizacion>" +
+		  	"<localizacion></localizacion>" +
 			  "<mantenimiento></mantenimiento>" +
-			  "<sedes>1</sedes>" +
+			  "<sedes>3</sedes>" +
 				"<taquillas></taquillas>" +
 				"<duchas></duchas>" +
 				"<pesoMaxMancuerna></pesoMaxMancuerna>" +
         "<ciudad>MADRID</ciudad>" +
-        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAtenasChamartin.jpg</foto>" +
-        "<tipo>CD</tipo>" +
-        "<presentacion>El día elegido para probar este centro fue entre semana, un miércoles. Nos enteramos de iba a haber una semana de puertas abiertas. Llamando por teléfono previamente y para nuestra sorpresa nos comunicaron que </presentacion>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAtenasChamartin.jpg</fotoPresentacion>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCaroliMiguelAngel.jpg</foto>" +
+        "<tipo>HT</tipo>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCaroliMiguelAngel.png</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
-        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atenas%20Chamartin/aCI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff></staff>" +
+        "<masificacionTexto></masificacionTexto>" +
+        "<musculacion></musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caroli%20Miguel%20Angel/cMAM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio></cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caroli%20Miguel%20Angel/cMAC.jpg</fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios></vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caroli%20Miguel%20Angel/cMAV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='-------------' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
+        "<extras></extras>" +
+        "<stuff></stuff>" +
+        "<higiene>%</higiene>" +
+        "<desorden>%</desorden>" +
+        "<metro></metro>" +
+        "<aparcamiento></aparcamiento>" +
+        "<plantas></plantas>" +
+        "<puertaDuchas></puertaDuchas>" +
+        "<secador></secador>" +
+        "<crucesPolea></crucesPolea>" +
+        "<hackSentadillas></hackSentadillas>" +
+        "<maquinaSoleo></maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.lifefitness.com' target='_blank'&gt;Máquinas HammerStrength de la marca LifeFitness&lt;/a&gt;</maquinaria>" +
+        "<clases></clases>" +
+        "<precios></precios>" +
+        "<conclusion></conclusion>" +
+			"</gimnasio>" +
+	  "<gimnasio>" +
+				"<nombre>ATENAS CHAMARTIN</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-atenas-chamartin.html</url>" +
+				"<nota>7.2</nota>" +
+				"<mobiliario>7</mobiliario>" +
+				"<personal>9</personal>" +
+				"<precio>6,5</precio>" +
+				"<masificacion>8</masificacion>" +
+		  	"<localizacion>7</localizacion>" +
+			  "<mantenimiento></mantenimiento>" +
+			  "<sedes>1</sedes>" +
+				"<taquillas>150</taquillas>" +
+				"<duchas>8</duchas>" +
+				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAtenasChamartin.png</foto>" +
+        "<tipo>CD</tipo>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAtenasChamartin.png</fotoPresentacion>" +
+        "<instalaciones></instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>Nos atendió una chica muy maja con la que habíamos hablado por teléfono antes. Nos hizo un mini tour por todo el gimnasio. Al final de la sesión, antes de irnos nos habló de las condiciones y precios.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion></musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atenas%20Chamartin/aCM.jpg</fotoMusculacion>" +
@@ -34,7 +95,7 @@ var archivoGimnasios = "" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio></cardio>" +
-        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atenas%20Chamartin/aCC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
@@ -46,20 +107,20 @@ var archivoGimnasios = "" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
         "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='-------------' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
-        "<extras></extras>" +
-        "<stuff></stuff>" +
-        "<higiene></higiene>" +
-        "<desorden></desorden>" +
+        "<extras>Dispone de gel en la ducha.</extras>" +
+        "<stuff>9</stuff>" +
+        "<higiene>75%</higiene>" +
+        "<desorden>10%</desorden>" +
         "<metro>COLOMBIA A 1'</metro>" +
-        "<aparcamiento></aparcamiento>" +
-        "<plantas></plantas>" +
-        "<puertaDuchas></puertaDuchas>" +
-        "<secador></secador>" +
-        "<crucesPolea></crucesPolea>" +
-        "<hackSentadillas></hackSentadillas>" +
-        "<maquinaSoleo></maquinaSoleo>" +
-        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
-        "<clases></clases>" +
+        "<aparcamiento>PARKING CONCERTADO</aparcamiento>" +
+        "<plantas>2</plantas>" +
+        "<puertaDuchas>V</puertaDuchas>" +
+        "<secador>2</secador>" +
+        "<crucesPolea>1</crucesPolea>" +
+        "<hackSentadillas>2</hackSentadillas>" +
+        "<maquinaSoleo>1</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.lifefitness.com' target='_blank'&gt;Máquinas HammerStrength de la marca LifeFitness&lt;/a&gt;</maquinaria>" +
+        "<clases>Más de 450 actividades</clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
 			"</gimnasio>" +
@@ -129,65 +190,65 @@ var archivoGimnasios = "" +
       "<gimnasio>" +
 				"<nombre>QGREENMELIA FRANKFURT</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-qgreenmelia-frankfurt.html</url>" +
-				"<nota>7</nota>" +
+				"<nota>6</nota>" +
 				"<mobiliario>7</mobiliario>" +
 				"<personal>7</personal>" +
-				"<precio>9</precio>" +
-				"<masificacion>6</masificacion>" +
-		  	"<localizacion>9</localizacion>" +
-			  "<mantenimiento>5</mantenimiento>" +
-			  "<sedes>201</sedes>" +
-				"<taquillas>186</taquillas>" +
-				"<duchas>4</duchas>" +
-				"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+				"<precio>7</precio>" +
+				"<masificacion>10</masificacion>" +
+		  	"<localizacion>7</localizacion>" +
+			  "<mantenimiento>7</mantenimiento>" +
+			  "<sedes>1</sedes>" +
+				"<taquillas></taquillas>" +
+				"<duchas>1</duchas>" +
+				"<pesoMaxMancuerna>-</pesoMaxMancuerna>" +
         "<ciudad>FRANCFURT</ciudad>" +
-        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</foto>" +
-        "<tipo>LC</tipo>" +
-        "<presentacion>Frankfurt es uno de los destinos más asequibles para viajar en avión de Europa. Air Europa tiene vuelos directos desde Madrid y eso hace que sea más barato viajar allí que a otros destinos como Dortmund o Munich. Por otro lado cuenta con varias sedes, aunque pocas si lo comparamos con Berlín, por ejemplo. Aunque se nota bastante la pérdida de calidad con respecto a los de España(al menos Valladolid y todos los de Madrid que son lo que he estado) debido a que ya tienen unos años, sigue siendo una buena opción para apuntarte.</presentacion>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymMcfit.jpg</fotoPresentacion>" +
-        "<instalaciones>Se encuentra en la calle comercial de Frankfurt, Zeil, la Gran Vía madrileña, aunque ni punto de comparación con ésta, a favor de Madrid. En un tercero de un edificio con otros comercios. Luego hay unas escaleras por las que accedes a un piso superior con pesos libres y más máquinas.</instalaciones>" +
-        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzI.jpg</fotoInstalaciones>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymQgreenMeliaFrankfurt.jpg</foto>" +
+        "<tipo>HT</tipo>" +
+        "<presentacion></presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymQgreenMeliaFrankfurt.jpg</fotoPresentacion>" +
+        "<instalaciones></instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
-        "<staff>Por la mañana, como estábamos dando una vuelta por la calle Zeil entramos a preguntar por si había algún problema para entrar(No estaba totalmente seguro de que reconociese la tarjeta española). Hablando con una chica en inglés, muy amable, nos dejó claro que no habría muy tranquilo y que podíamos ir a cualquier hora del día(ABIERTO 24H). Por la noche, en la recepción, poco pude hablar con el monitor porque se hallaba entre una de las salas de recepción y en algún lugar del gimnasio. </staff>" +
-        "<masificacionTexto>El día elegido fue un sábado por la noche, a eso de las 21h. El gimnasio estaba bastante concurrido, aunque como siempre en esta cadena eso no es un problema por la gran superficie y el número de máquinas más que suficiente.</masificacionTexto>" +
-        "<musculacion>La zona de musculación con pesos libre se encuentra ubicada en el piso de arriba junto a un amplio catálogo de máquinas. El mancuernero, por ejemplo, en comparación con el del Carmen podría ser como una 4ª parte, vamos mucho más pequeño. Desde las cristaleras tienes bonitas vistas a la calle de Zeil</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM.jpg</fotoMusculacion>" +
-        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM2.jpg</fotoMusculacion2>" +
-        "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM3.jpg</fotoMusculacion3>" +
-        "<fotoMusculacion4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM4.jpg</fotoMusculacion4>" +
+        "<staff></staff>" +
+        "<masificacionTexto></masificacionTexto>" +
+        "<musculacion>Sin musculación, sólo cardio</musculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio>Similar a las zonas de cardio de España, amplias y con buen elenco de máquinas Ergo Fit. Varias máquinas y pantallas de TV</cardio>" +
-        "<fotoCardio></fotoCardio>" +
-        "<fotoCardio2></fotoCardio2>" +
+        "<cardio>Cuenta con 3 máquinas; bicicleta, elíptica y cinta</cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Qgreenmelia%20Francfurt/qGMFC.jpg</fotoCardio>" +
+        "<fotoCardio2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Qgreenmelia%20Francfurt/qGMFC2.jpg</fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios>Aquí viene una de las partes malas. Mala ventilación en general. Ambiente muy cargado aún con la puerta abierta todo el tiempo. Las taquillas y el aspecto en general es similar a los McFits de España. En cuanto a las duchas son compartidas, unas 4. El sistema para ellas es de acceso libre(GRATIS) aunque a la entrada se podía ver un sistema de cobro mediante monedas, nada que ver con el moderno sistema de tarjeta instalado en España. Quizás esté a la espera de modernizar este aspecto.</vestuarios>" +
+        "<vestuarios></vestuarios>" +
         "<fotoVestuarios></fotoVestuarios>" +
         "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Muy cerca de la salida 30 dirección Zaragoza de la A-2.&lt;/span&gt;</ubicacion>" +
-        "<extras>Existen diarios de entrenamiento disponibles para el usuario ordenados por grupos musculares distribuídos en stands por todo el gimnasio, de manera que se pueden identificar las máqinas numeradas con los ejercicios propuestos en las tablas/diario. De esta manera puedes organizar tus entrenamientos de manera bastante efectiva y agilizar el paso de un ejercicio a otro.</extras>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
+        "<extras>Es espacio la verdad es que no era abundate pero incluía una sauna, una ducha y una sala de relajación con tumbonas. Todo ello separado con una puerta de la zona de cardio</extras>" +
         "<stuff>7</stuff>" +
         "<higiene>35%</higiene>" +
         "<desorden>80%</desorden>" +
         "<metro>-</metro>" +
-        "<aparcamiento>PARKING LIBRE</aparcamiento>" +
-        "<plantas>2</plantas>" +
+        "<aparcamiento>LIBRE</aparcamiento>" +
+        "<plantas>1</plantas>" +
         "<puertaDuchas>X</puertaDuchas>" +
         "<secador>-</secador>" +
-        "<crucesPolea>1</crucesPolea>" +
-        "<hackSentadillas>3</hackSentadillas>" +
-        "<maquinaSoleo>1</maquinaSoleo>" +
-        "<maquinaria>&lt;a href='www.gym80.de' target='_blank'&gt;GYM 80 para las máquinas de musculación&lt;/a&gt; - &lt;a href='http://www.ergo-fit.de/' target='_blank'&gt;ERGO FIT para el cardio&lt;/a&gt;</maquinaria>" +
-        "<clases>No asistimos a ninguna pero pudimos verlas desde fuera. Son sin monitor. Unas pantallas grandes con uno o varios monitores virtuales hacen las veces de clases convencionales. Las salas de clases por fuera son muy chulas, de estilo futurista.</clases>" +
-        "<precios>19,90 €/mes. Firmando el contrato te comprometes por un año. Es necesario el número de cuenta para domiciliar el pago. Cada mes te pasarán el importe. La matrícula o mejor dicho el pago de la tarjeta de acceso es de 20, así que el primer mes pagarás 40 y los demás meses 20. Lo bueno es que no pagas todo de golpe como en otros gimnasios. Al menos a mí me gusta más esta modalidad que adelantar todo el dinero el primer día.</precios>" +
-        "<conclusion></conclusion>" +
+        "<crucesPolea>-</crucesPolea>" +
+        "<hackSentadillas>-</hackSentadillas>" +
+        "<maquinaSoleo>-</maquinaSoleo>" +
+        "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
+        "<precios></precios>" +
+        "<conclusion>Una pequeña zona fitness en lo alto del hotel para mantenerte en forma y relajarte. Puedes correr un rato mientras ves la TV, a continuación utilizar la sauna y finalmente relajarte en la sala dedicada a ello que además dispone de buenas vistas a la periferia de la ciudad</conclusion>" +
 			"</gimnasio>" +
 		    "<gimnasio>" +
 				"<nombre>CITY FIT PARDINAS</nombre>" +
