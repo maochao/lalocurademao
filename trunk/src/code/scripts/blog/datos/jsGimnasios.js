@@ -80,7 +80,7 @@ var archivoGimnasios = "" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAtenasChamartin.png</foto>" +
         "<tipo>CD</tipo>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymAtenasChamartin.png</fotoPresentacion>" +
-        "<instalaciones></instalaciones>" +
+        "<instalaciones>El gimnasio tiene peor pinta por fuera que por dentro. Se encuentra justo al lado del Parking concertado. Nada más entrar y bajando unas escaleras tenemos la recepción. Justo detrás las piscinas y al final la sala de musculación y cardio. Volviendo a subir las escaleras, pero otras nos encontramo s con la sala de spinning.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
@@ -88,7 +88,7 @@ var archivoGimnasios = "" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff>Nos atendió una chica muy maja con la que habíamos hablado por teléfono antes. Nos hizo un mini tour por todo el gimnasio. Al final de la sesión, antes de irnos nos habló de las condiciones y precios.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
-        "<musculacion></musculacion>" +
+        "<musculacion>La sala de musculación no destaca por ser enorme pero sí por las máquinas que tiene. Son HammerStrength de LifeFitness, unas de las mejores que hay. Muchas de ellas, sobre todo las de espalda, dan ángulos de trabajo diferentes a los que estamos acostumbrados, por ejemplo con las TechnoGym, por decir alguna.</musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atenas%20Chamartin/aCM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
