@@ -17,14 +17,14 @@ var archivoGimnasios = "" +
         "<ciudad>MADRID</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymWellsportclubMadrid.jpg</foto>" +
         "<tipo>CD</tipo>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymWellsportclubMadrid.png</fotoPresentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymWellsportclubMadrid.jpg</fotoPresentacion>" +
         "<instalaciones>El espacio de este centro es bastante amplio, divido en varias zonas; recepción, vestuarios, zona cardio/musculación, restaurante, parking spa, clases, padel y creo que también dispone de una zona para golpear bolas de golf.</instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
-        "<staff></staff>" +
+        "<staff>Monitor de sala atento y amable. En la recepción nos pilló el cambio de turno así que pudimos conocer a dos de las recepcionistas y muy majas las dos.</staff>" +
         "<masificacionTexto>El día elegido fue un día festivo en que Madrid estaba algo vacío. No tuvimos problemas de gente, pero un día entre semana segúramente no se pueda entrenar en condiciones. La zona de sala de cardio/musculación, sobre todo esta última debería de haber sido más grande.</masificacionTexto>" +
         "<musculacion>La zona no es muy amplia, en un día masificado sería imposible entrenar con soltura. El mancuernero no es muy grande, de unos 5 metros, más o menos, con 3 bancos. El número de máquinas de que dispone tampoco es muy elevado y no suele haber repetidas.</musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMM.jpg</fotoMusculacion>" +
@@ -46,7 +46,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios5></fotoVestuarios5>" +
         "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='-------------' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
         "<extras>Dispone de gel de ducha o báscula</extras>" +
-        "<stuff>Monitor de sala atento y amable. En la recepción nos pilló el cambio de turno así que pudimos conocer a dos de las recepcionistas y muy majas las dos.</stuff>" +
+        "<stuff></stuff>" +
         "<higiene>70%</higiene>" +
         "<desorden>20%</desorden>" +
         "<metro></metro>" +
