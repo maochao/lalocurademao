@@ -27,12 +27,12 @@ var archivoGimnasios = "" +
         "<staff>Monitor de sala atento y amable. En la recepción nos pilló el cambio de turno así que pudimos conocer a dos de las recepcionistas y muy majas las dos.</staff>" +
         "<masificacionTexto>El día elegido fue un día festivo en que Madrid estaba algo vacío. No tuvimos problemas de gente, pero un día entre semana segúramente no se pueda entrenar en condiciones. La zona de sala de cardio/musculación, sobre todo esta última debería de haber sido más grande.</masificacionTexto>" +
         "<musculacion>La zona no es muy amplia, en un día masificado sería imposible entrenar con soltura. El mancuernero no es muy grande, de unos 5 metros, más o menos, con 3 bancos. El número de máquinas de que dispone tampoco es muy elevado y no suele haber repetidas.</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio></cardio>" +
+        "<cardio>En esta zona no se quedaron cortos, multitud de máquinas Technogym; cintas, steppers, elípticas y bicicletas, muchas de ellas con TV y TDT incorporadas.</cardio>" +
         "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
