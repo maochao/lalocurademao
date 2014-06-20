@@ -1,6 +1,68 @@
 var archivoGimnasios = "" +
 		"<gimnasios>" +
 	  "<gimnasio>" +
+				"<nombre>WELLSPORTCLUB MADRID</nombre>" +
+				"<url>http://lalocurademao.blogspot.com.es/2014/06/review-wellsportclub-madrid.html</url>" +
+				"<nota>7.6</nota>" +
+				"<mobiliario>7.5</mobiliario>" +
+				"<personal>8</personal>" +
+				"<precio>-</precio>" +
+				"<masificacion>5</masificacion>" +
+		  	"<localizacion>7</localizacion>" +
+			  "<mantenimiento>7</mantenimiento>" +
+			  "<sedes>1</sedes>" +
+				"<taquillas>236</taquillas>" +
+				"<duchas>10</duchas>" +
+				"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+        "<ciudad>MADRID</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymWellsportclubMadrid.jpg</foto>" +
+        "<tipo>CD</tipo>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymWellsportclubMadrid.png</fotoPresentacion>" +
+        "<instalaciones>El espacio de este centro es bastante amplio, divido en varias zonas; recepción, vestuarios, zona cardio/musculación, restaurante, parking spa, clases, padel y creo que también dispone de una zona para golpear bolas de golf.</instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff></staff>" +
+        "<masificacionTexto>El día elegido fue un día festivo en que Madrid estaba algo vacío. No tuvimos problemas de gente, pero un día entre semana segúramente no se pueda entrenar en condiciones. La zona de sala de cardio/musculación, sobre todo esta última debería de haber sido más grande.</masificacionTexto>" +
+        "<musculacion>La zona no es muy amplia, en un día masificado sería imposible entrenar con soltura. El mancuernero no es muy grande, de unos 5 metros, más o menos, con 3 bancos. El número de máquinas de que dispone tampoco es muy elevado y no suele haber repetidas.</musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio></cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMC.jpg</fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Los vestuarios están muy currados y muy cuidados, sobre todo la zona de espejos y duchas. Son bastante amplios y espaciosos y cuentan con unas taquillas con compartimentos divididos dentro para dejar los zapatos y ropa por lado y la mochila por otro. Cuenta con cierre automático mediante chip en una pulsera que te dan.</vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMV2.jpg</fotoVestuarios2>" +
+        "<fotoVestuarios3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMV3.jpg</fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='-------------' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
+        "<extras>Dispone de gel de ducha o báscula</extras>" +
+        "<stuff>Monitor de sala atento y amable. En la recepción nos pilló el cambio de turno así que pudimos conocer a dos de las recepcionistas y muy majas las dos.</stuff>" +
+        "<higiene>70%</higiene>" +
+        "<desorden>20%</desorden>" +
+        "<metro></metro>" +
+        "<aparcamiento>PARKING PARA CLIENTES</aparcamiento>" +
+        "<plantas>2</plantas>" +
+        "<puertaDuchas>V</puertaDuchas>" +
+        "<secador>2</secador>" +
+        "<crucesPolea>1</crucesPolea>" +
+        "<hackSentadillas>1</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.technogym.com' target='_blank'&gt;TECHNOGYM&lt;/a&gt;</maquinaria>" +
+        "<clases>Era día festivo y no contaba con ellas</clases>" +
+        "<precios>-</precios>" +
+        "<conclusion>Dependiendo del precio que tenga y si no se pasa demasiado, en torno a los 40 ó 50 estaría bien, puede ser una buena opción para aqullos que busquen un centro versátil con varios servicios como restauración, pádel, spa o parking. Si lo quieres sólo para hacer pesas o correr en la cinta habría mejores opciones con zonas dedicadas a esto más grandes.</conclusion>" +
+			"</gimnasio>" +
+	  "<gimnasio>" +
 				"<nombre>CAROLI MIGUEL ANGEL</nombre>" +
 				"<url>http://lalocurademao.blogspot.com.es/2014/05/review-caroli-miguel-angel.html</url>" +
 				"<nota></nota>" +
@@ -10,7 +72,7 @@ var archivoGimnasios = "" +
 				"<masificacion></masificacion>" +
 		  	"<localizacion></localizacion>" +
 			  "<mantenimiento></mantenimiento>" +
-			  "<sedes>3</sedes>" +
+			  "<sedes>-</sedes>" +
 				"<taquillas></taquillas>" +
 				"<duchas></duchas>" +
 				"<pesoMaxMancuerna></pesoMaxMancuerna>" +
@@ -94,7 +156,7 @@ var archivoGimnasios = "" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio></cardio>" +
+        "<cardio>La zona de cardio se encuentra nada más entrar en la sala, en la parte derecha. No tiene muchas máquinas</cardio>" +
         "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Atenas%20Chamartin/aCC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
@@ -122,7 +184,7 @@ var archivoGimnasios = "" +
         "<maquinaria>&lt;a href='www.lifefitness.com' target='_blank'&gt;Máquinas HammerStrength de la marca LifeFitness&lt;/a&gt;</maquinaria>" +
         "<clases>Más de 450 actividades</clases>" +
         "<precios></precios>" +
-        "<conclusion></conclusion>" +
+        "<conclusion>La existencia de un parking concertado es un punto a favor de este gimnasio. No porque tenga una pequeña rebaja sino porque puedes dejarlo</conclusion>" +
 			"</gimnasio>" +
 		 "<gimnasio>" +
 				"<nombre>MCFIT ZEIL FRANKFURT</nombre>" +
@@ -151,7 +213,7 @@ var archivoGimnasios = "" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff>Por la mañana, como estábamos dando una vuelta por la calle Zeil entramos a preguntar por si había algún problema para entrar(No estaba totalmente seguro de que reconociese la tarjeta española). Hablando con una chica en inglés, muy amable, nos dejó claro que no habría muy tranquilo y que podíamos ir a cualquier hora del día(ABIERTO 24H). Por la noche, en la recepción, poco pude hablar con el monitor porque se hallaba entre una de las salas de recepción y en algún lugar del gimnasio. </staff>" +
         "<masificacionTexto>El día elegido fue un sábado por la noche, a eso de las 21h. El gimnasio estaba bastante concurrido, aunque como siempre en esta cadena eso no es un problema por la gran superficie y el número de máquinas más que suficiente.</masificacionTexto>" +
-        "<musculacion>La zona de musculación con pesos libre se encuentra ubicada en el piso de arriba junto a un amplio catálogo de máquinas. El mancuernero, por ejemplo, en comparación con el del Carmen podría ser como una 4ª parte, vamos mucho más pequeño. Desde las cristaleras tienes bonitas vistas a la calle de Zeil</musculacion>" +
+        "<musculacion>La zona de musculación con pesos libre se encuentra ubicada en el piso de arriba junto a un amplio catálogo de máquinas. El mancuernero, por ejemplo, en comparación con el del Carmen podría ser como una 4ª parte, vamos mucho más pequeño. Desde las cristaleras tienes bonitas vistas a la calle de Zeil. Un buen detalle fue la cantidad de peso que encontré en algunas máquinas, por ejemplo en el jalón trasnuca/frontal de espalda, el peso llegaba hasta los 135 kg(VER FOTO)</musculacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM2.jpg</fotoMusculacion2>" +
         "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20Zeil%20Francfurt/mfzM3.jpg</fotoMusculacion3>" +
@@ -233,7 +295,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
         "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
-        "<extras>Es espacio la verdad es que no era abundate pero incluía una sauna, una ducha y una sala de relajación con tumbonas. Todo ello separado con una puerta de la zona de cardio</extras>" +
+        "<extras>El espacio la verdad es que no era abundate pero incluía una sauna, una ducha y una sala de relajación con tumbonas. Todo ello separado con una puerta de la zona de cardio</extras>" +
         "<stuff>7</stuff>" +
         "<higiene>35%</higiene>" +
         "<desorden>80%</desorden>" +
