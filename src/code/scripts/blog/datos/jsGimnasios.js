@@ -19,46 +19,46 @@ var archivoGimnasios = "" +
         "<tipo>CD</tipo>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymGoFitMontecarmelo.jpg</fotoPresentacion>" +
         "<instalaciones>Se encuentra ubicado en las afueras de Montecarmelo. Cuenta con unas instalaciones enormes en las que puedes encontrar de todo, desde una guardería o restaurante hasta spa o vestuarios para peques. Cuenta con ascensor que nos lleva desde el garaje, pasando por la recepción hasta los vestuarios, las salas de clases o las de musculación y cardio. En definitiva, muchos servicios en una superficie enorme. Aunque no todo el momente es orégano, y luego diré porqué.</instalaciones>" +
-        "<fotoInstalaciones></fotoInstalaciones>" +
-        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/GoFit%20Montecarmelo/gFMI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/GoFit%20Montecarmelo/gFMI2.jpg</fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff>Vimos un par de chicos jóvenes en la sala de musculación y otras dos chicas en la recepción. A alguna de ellas le faltaba un poco de entusiasmo y amabilidad, algo indispensable para la recepción de cualquier negocio y más de un gimnasio. </staff>" +
         "<masificacionTexto>El día elegido, un sábado entre la 13h  y las 15h no es el más propicio para hacerte una idea, aunque si pudimos ver una sala de musculación algo poblada pero en ningún caso masificada. Para la de cardio igual. En el tema de clases creo que vendría un poco el problema, ya que he leído en algún sitio que están bastante petadas y buena prueba de ello es que vimos bastante gente esperando para entrar a una de ellas, con lo que nos pudimos hacer una idea y ver que los comentarios no iban mal encaminados.</masificacionTexto>" +
         "<musculacion>Las máquinas, de las más modernas. Incorporan la tecnología de las llaves TGS o del Bienestar, al igual que el acceso al recinto, apertura de taquillas, etc. Mediante esta tecnología el usuario puede disponer de una llave que introduce en las máqinas de musculación y provee a la misma de su información específica. Esta info puede consistir en los avances logrados, por ejemplo, en peso y repeticiones. Gracias a lo que pude hablar con algún socio nos enteramos que también podías tener tu propio programa personalizado y circuito con las máquinas o consultar la información o resultados en las pantalllas del mostrador central de la sala. Así mismo los monitores podían seguir tus progresos.</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
         "<cardio>Máquinas de cardio de última generación con la tecnología antes hablada. Al igual que en las máquinas de musculación al introducir tu llave TGS en ella puedes consultar tus avances en la pantalla.</cardio>" +
-        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMC.jpg</fotoCardio>" +
+        "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios>Los vestuarios están muy currados y muy cuidados, sobre todo la zona de espejos y duchas. Son bastante amplios y espaciosos y cuentan con unas taquillas con compartimentos divididos dentro para dejar los zapatos y ropa por lado y la mochila por otro. Cuenta con cierre automático mediante chip en una pulsera que te dan.</vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMV.jpg</fotoVestuarios>" +
-        "<fotoVestuarios2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMV2.jpg</fotoVestuarios2>" +
-        "<fotoVestuarios3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Wellsportclub%20Madrid/wMV3.jpg</fotoVestuarios3>" +
+        "<vestuarios>Los vestuarios son bastante amplios. Algo laberínticos pero de los mejores que he visto y además cuenta con el mayor número de duchas que he visto nunca en un gimnasio: 23. Así es casi imposible que tengas que esperar para ducharte. Cuenta con cierre automático mediante chip en una pulsera que te dan.</vestuarios>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/GoFit%20Montecarmelo/gFMV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='-------------' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
-        "<extras>Dispone de gel de ducha o báscula</extras>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/8fE33' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
+        "<extras>Dispone de gel de ducha o báscula en los vestuarios. El recinto también cuenta con restaurante, fitness por supuesto y con una guardería. Así ya no tienes disculpa para no venir a entrenar. Si algún otro día quieres venir a relajarte en vez de hacer ejercicio puedes venir al spa, que aunque no lo probamos tenía buena pinta. Contaba también con piscina en la planta baja.</extras>" +
         "<stuff></stuff>" +
         "<higiene>70%</higiene>" +
-        "<desorden>20%</desorden>" +
+        "<desorden>15%</desorden>" +
         "<metro></metro>" +
         "<aparcamiento>PARKING PARA CLIENTES</aparcamiento>" +
-        "<plantas>2</plantas>" +
+        "<plantas>4</plantas>" +
         "<puertaDuchas>V</puertaDuchas>" +
-        "<secador>2</secador>" +
-        "<crucesPolea>1</crucesPolea>" +
+        "<secador>3</secador>" +
+        "<crucesPolea>-</crucesPolea>" +
         "<hackSentadillas>1</hackSentadillas>" +
         "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria>&lt;a href='www.technogym.com' target='_blank'&gt;TECHNOGYM&lt;/a&gt;</maquinaria>" +
-        "<clases>Era día festivo y no contaba con ellas</clases>" +
+        "<clases>No probamos ninguna clase, aunque al pasar a la sala de musculación vimos la gran cantidad de usuarios que estaban esperando para dar alguna</clases>" +
         "<precios>-</precios>" +
         "<conclusion>Dependiendo del precio que tenga y si no se pasa demasiado, en torno a los 40 ó 50 estaría bien, puede ser una buena opción para aqullos que busquen un centro versátil con varios servicios como restauración, pádel, spa o parking. Si lo quieres sólo para hacer pesas o correr en la cinta habría mejores opciones con zonas dedicadas a esto más grandes.</conclusion>" +
                         "</gimnasio>" +
@@ -292,7 +292,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='-------------' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/6ACnc' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
         "<extras>Dispone de gel en la ducha.</extras>" +
         "<stuff>9</stuff>" +
         "<higiene>75%</higiene>" +
@@ -481,7 +481,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/cBtmJ' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
+"<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/JkXgX' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
         "<extras></extras>" +
         "<stuff></stuff>" +
         "<higiene>50%</higiene>" +
@@ -1166,6 +1166,7 @@ var archivoGimnasios = "" +
         "<staff></staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion></musculacion>" +
+		"<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/7lFj7' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcM2.jpg</fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
@@ -1369,7 +1370,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='https://maps.google.com/?cid=16783235568663228477&amp;hl=es&amp;gl=es' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Se encuentra en Coslada. Si vas desde la zona de Barajas o Alameda de Osuna, dependiendo de la hora, puedes encontrar bastante tráfico&lt;/span&gt;.</ubicacion>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/O2CQU' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Se encuentra en Coslada. Si vas desde la zona de Barajas o Alameda de Osuna, dependiendo de la hora, puedes encontrar bastante tráfico&lt;/span&gt;</ubicacion>" +
         "<extras></extras>" +
         "<stuff>7</stuff>" +
         "<higiene>85%</higiene>" +
@@ -1686,7 +1687,7 @@ var archivoGimnasios = "" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>En el polígono de las Mercedes, a 5´ del Plenilunio. La mejor opción es ir en coche. Podemos aparcar gratis en el centro comercial sin problemas. Si no disponemos de coche la mejor opción es coger algún autobús cruzando el puente de la A2 hasta Avenida América.</ubicacion>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;En el polígono de las Mercedes, a 5´ del Plenilunio. La mejor opción es ir en coche. Podemos aparcar gratis en el centro comercial sin problemas. Si no disponemos de coche la mejor opción es coger algún autobús cruzando el puente de la A2 hasta Avenida América. Pincha &lt;a href='http://goo.gl/maps/19VHk' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
         "<extras>La zona de musculación dispone de tablas plastificadas con ejercicios divididas de acuerdo al nivel de los usuarios, en principiante, avanzado, etcétera.</extras>" +
         "<stuff>8</stuff>" +
         "<higiene>70%</higiene>" +
