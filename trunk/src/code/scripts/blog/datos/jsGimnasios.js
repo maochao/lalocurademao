@@ -1,7 +1,7 @@
 var archivoGimnasios = "" +
           "<gimnasios>" +
           "<gimnasio>" +
-		"<nombre>GO FIT MONTECARMELO</nombre>" +
+		"<nombre>GOFIT MONTECARMELO</nombre>" +
 		"<url>http://lalocurademao.blogspot.com.es/2014/07/review-gofit-montecarmelo.html</url>" +
 		"<nota>9</nota>" +
 		"<mobiliario>8.5</mobiliario>" +
