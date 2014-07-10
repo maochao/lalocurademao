@@ -1,6 +1,5 @@
 var arrayCiudades = [];
 var arrayTipos = [];
-var totalGymsVisitados = [];
 
 $(document).ready(function () {
                 if (typeof (nombreGymEntrada) !== "undefined")
