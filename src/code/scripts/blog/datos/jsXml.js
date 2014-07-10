@@ -63,7 +63,9 @@ function cargarEntrada(gimnasio) {
         $xmlDoc = $(_xml);
         $('#tablaEntrada div ').remove();
         $xmlDoc.find("gimnasio").each(function (){
-        totalGymsVisitados = totalGymsVisitados + 1; 
+        if (typeof (totalGymsVisitados) !== "undefined"){
+        	totalGymsVisitados = totalGymsVisitados + 1;
+        }
         var todo = $(this);
         var nombre = todo.find("nombre").text();
          if(gimnasio == nombre){
