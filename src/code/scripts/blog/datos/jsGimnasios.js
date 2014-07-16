@@ -64,19 +64,19 @@ var archivoGimnasios = "" +
         "<conclusion></conclusion>" +
                         "</gimnasio>" +          
           "<gimnasio>" +
-?  ?  "<nombre>GOFIT MONTECARMELO</nombre>" +
-?  ?  "<url>http://lalocurademao.blogspot.com.es/2014/07/review-gofit-montecarmelo.html</url>" +
-?  ?  "<nota>9</nota>" +
-?  ?  "<mobiliario>8.5</mobiliario>" +
-?  ?  "<personal>6.6</personal>" +
-?  ?  "<precio>8</precio>" +
-?  ?  "<masificacion>7</masificacion>" +
-?  ?  "<localizacion>6.9</localizacion>" +
-?  ?  "<mantenimiento>8</mantenimiento>" +
-?  ?  "<sedes>14</sedes>" +
-?  ?  "<taquillas>420</taquillas>" +
-?  ?  "<duchas>23</duchas>" +
-?  ?  "<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+    "<nombre>GOFIT MONTECARMELO</nombre>" +
+    "<url>http://lalocurademao.blogspot.com.es/2014/07/review-gofit-montecarmelo.html</url>" +
+    "<nota>9</nota>" +
+    "<mobiliario>8.5</mobiliario>" +
+    "<personal>6.6</personal>" +
+    "<precio>8</precio>" +
+    "<masificacion>7</masificacion>" +
+    "<localizacion>6.9</localizacion>" +
+    "<mantenimiento>8</mantenimiento>" +
+    "<sedes>14</sedes>" +
+    "<taquillas>420</taquillas>" +
+    "<duchas>23</duchas>" +
+    "<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MONTECARMELO</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymGoFitMontecarmelo.jpg</foto>" +
         "<tipo>CD</tipo>" +
@@ -186,7 +186,7 @@ var archivoGimnasios = "" +
         "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
-          "</gimnasio>" +?  ?    
+          "</gimnasio>" +     
           "<gimnasio>" +
                                 "<nombre>WELLSPORTCLUB MADRID</nombre>" +
                                 "<url>http://lalocurademao.blogspot.com.es/2014/06/review-wellsportclub-madrid.html</url>" +
@@ -1229,7 +1229,7 @@ var archivoGimnasios = "" +
         "<staff></staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion></musculacion>" +
-?  ?  "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/7lFj7' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
+  "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/7lFj7' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcM2.jpg</fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
