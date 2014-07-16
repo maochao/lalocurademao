@@ -27,8 +27,8 @@ var archivoGimnasios = "" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff>El personal de estos centros, al menos el que visitamos, destaca sobre los demás gimnasios. Por eso para mí tiene la mejor nota. Como no, pudimos disfrutar de un pase de día gratis, ya no recuerdo si mediante formulario o llamando. La visita la realizamos 3 personas y en todo momento, la chica que nos presentó el gym mediante un tour por él, a parte de ser muy amable, se acordaba de nuestros nombres. Otro detalle fueron los avisos por megafonía, fueron entre simpáticos y graciosos. Eran cada cierto rato y me acuerdo que uno de ellos decía, más o menos: ding, dong, ding.... 'Hola señores clientes, en breves instantes procederemos a celebrar el cumpleaños de (alguien, no sé si empleado o cliente), en la zona de abdominales'. También era frecuente que los empleados te llamasen por tu nombre mientras utilizabas las instalaciones. Esto sólo lo he visto en gimnasios de barrio.</staff>" +
         "<masificacionTexto></masificacionTexto>" +
-        "<musculacion>Amplia zona para dedicada a la musculación. En un extremo estaba la zona de pesos libres con una buena cantidad de ketbells. La zona se completa con hileras de máquinas en perfecto estado. No encontramos problemas de masificación el día que fuimos. Esta es una ventaja que suele ser una constante en este tipo de gimnasios en los que pagas más por factores así o factores como el trato.</musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
+        "<musculacion>La zona de musculación muy justa en cuanto a espacio para lo que se supone en un centro Holmes Place. No tuvimos problemas para entrenar pero es que fuimos un sábado por la mañana. Un día entre semana, por la tarde, la cosa sería algo distinta y sería difícil entrenar agusto. Dispone de dos mancuerneros de un par de metros cada uno. También encontramos máquinas funcionales con poleas al estilo de las que encontramos en el Hotel Caminera de Ciudad Real o en el Pradosport de Aranda de Duero</musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Holmes%20Place%20Alegra/hPAM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
@@ -40,8 +40,8 @@ var archivoGimnasios = "" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
         "<vestuarios>Amplios y lujosos, en la línea de los Virgin u O2.</vestuarios>" +
-        "<fotoVestuarios></fotoVestuarios>" +
-        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Holmes%20Place%20Alegra/hPAV.jpg</fotoVestuarios>" +
+        "<fotoVestuarios2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Holmes%20Place%20Alegra/hPAV2.jpg</fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
@@ -64,19 +64,19 @@ var archivoGimnasios = "" +
         "<conclusion></conclusion>" +
                         "</gimnasio>" +          
           "<gimnasio>" +
-		"<nombre>GOFIT MONTECARMELO</nombre>" +
-		"<url>http://lalocurademao.blogspot.com.es/2014/07/review-gofit-montecarmelo.html</url>" +
-		"<nota>9</nota>" +
-		"<mobiliario>8.5</mobiliario>" +
-		"<personal>6.6</personal>" +
-		"<precio>8</precio>" +
-		"<masificacion>7</masificacion>" +
-		"<localizacion>6.9</localizacion>" +
-		"<mantenimiento>8</mantenimiento>" +
-		"<sedes>14</sedes>" +
-		"<taquillas>420</taquillas>" +
-		"<duchas>23</duchas>" +
-		"<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
+?  ?  "<nombre>GOFIT MONTECARMELO</nombre>" +
+?  ?  "<url>http://lalocurademao.blogspot.com.es/2014/07/review-gofit-montecarmelo.html</url>" +
+?  ?  "<nota>9</nota>" +
+?  ?  "<mobiliario>8.5</mobiliario>" +
+?  ?  "<personal>6.6</personal>" +
+?  ?  "<precio>8</precio>" +
+?  ?  "<masificacion>7</masificacion>" +
+?  ?  "<localizacion>6.9</localizacion>" +
+?  ?  "<mantenimiento>8</mantenimiento>" +
+?  ?  "<sedes>14</sedes>" +
+?  ?  "<taquillas>420</taquillas>" +
+?  ?  "<duchas>23</duchas>" +
+?  ?  "<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
         "<ciudad>MONTECARMELO</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymGoFitMontecarmelo.jpg</foto>" +
         "<tipo>CD</tipo>" +
@@ -186,7 +186,7 @@ var archivoGimnasios = "" +
         "<clases></clases>" +
         "<precios></precios>" +
         "<conclusion></conclusion>" +
-          "</gimnasio>" +		  
+          "</gimnasio>" +?  ?    
           "<gimnasio>" +
                                 "<nombre>WELLSPORTCLUB MADRID</nombre>" +
                                 "<url>http://lalocurademao.blogspot.com.es/2014/06/review-wellsportclub-madrid.html</url>" +
@@ -1229,7 +1229,7 @@ var archivoGimnasios = "" +
         "<staff></staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion></musculacion>" +
-		"<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/7lFj7' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
+?  ?  "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/7lFj7' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación&lt;/span&gt;</ubicacion>" +
         "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcM.jpg</fotoMusculacion>" +
         "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/McFit%20El%20Carmen/mcM2.jpg</fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
