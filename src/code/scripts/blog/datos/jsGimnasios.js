@@ -1,6 +1,132 @@
 var archivoGimnasios = "" +
           "<gimnasios>" +
-                  "<gimnasio>" +
+		                          "<gimnasio>" +
+                                "<nombre>BASICFIT MANZANA ALCOBENDAS</nombre>" +
+                                "<url>http://lalocurademao.blogspot.com.es/2014/08/review-health-city-basic-fit-manzana-alcobendas.html</url>" +
+                                "<nota>8.5</nota>" +
+                                "<mobiliario>9</mobiliario>" +
+                                "<personal>7.75</personal>" +
+                                "<precio>9</precio>" +
+                                "<masificacion>5</masificacion>" +
+                        "<localizacion>6</localizacion>" +
+                          "<mantenimiento>3</mantenimiento>" +
+                          "<sedes>14</sedes>" +
+                                "<taquillas>190</taquillas>" +
+                                "<duchas>12</duchas>" +
+                                "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>ALCOBENDAS</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion>Esta cadena de gimnasios, que está migrando su nombre a Basic Fit y pertenecen al grupo Health City, está bastante extendida en España, teniendo el mayor número de sedes en Madrid. En total son unos 17 en toda España, y digo unos porque van a abrir más, concrétamente uno nuevo que sabemos se ubicará en la calle Fuencarral. Superan en número a los Holidays Gym y como éstos son Low Cost pudiendo sacarte una anualidad que te dejaría el mes en unos 16 euros. Si nos vamos fuera de España cuenta con más de 200 sedes y si contamos con que la sociedad de capital riesgo 3i, reciéntemente, ha invertido 110 millones, todo parece suponer que van a convertirse en los líderes indiscutibles en España&lt;&lt;br&gt;&gt;Puedes pedir un día gratis para utilizar sus instalaciones accediendo a su página web: &lt;a href='http://www.healthcityfitness.es/solicitar-el-pase-para-un-dia' target='_blank'&gt;PINCHA AQUÍ PARA SOLICITAR UN PASE GRATIS&lt;/a&gt;. Al rato nos llamó un miembro del Stuff, concrétamente de la sede de la calle Orense, que en principio, es de las que mejor nos pilla. Muy cordial y amable en todo momento se dispuso a enseñarnos las instalaciones.</presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</fotoPresentacion>" +
+        "<instalaciones>Ubicado en la calle Orense, en el número 67 y haciendo esquina se encuentra en una zona bien comunicada si contamos con que tenemos la Castellana casi al lado, autobuses y metro cercanos. Lo primero que nos encontramos al entrar son los mostradores y a la izquierda una zona de descanso con sofases y máquinas expendedoras. Al poco nos encontramos unas escaleras que dan acceso a la zona de cardio. En la parte izquierda tienen el espacio reservado para las clases colectivas, que una vez más y por falta de tiempo nos faltó probar. A continuación y en forma de T junto con la zona de cardio se dispone la de musculación. Con una parte de máquinas y peso libre a un lado y otra de pesos alternativos como ketbells, alfombrillas o máquinas multifuncionales al otro nos da una idea de la disposición total del gimnasio Finalmente los vestuarios.</instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>En la zona de musculación no vimos ninguno, al menos que yo recuerde. También es cierto que el día que elegimos fue el 26 de diciembre, un día un poco relajado. Eso sí, el chico que nos atendió tanto por teléfono como personalmente nos dio un trato bastante agradable y preciso.</staff>" +
+        "<masificacionTexto>Sin duda uno de los mejores apartados del gimnasio, aunque la fecha elegida no da para hacerse una idea general. Más o menos habría como un 20% en la zona de cardio y un 30 en la de musculación. La clase con la que coincidimos nos pareció de Bodypump y tenía una ocupación más o menos del 50%.</masificacionTexto>" +
+        "<musculacion>Lo que más me gustó de esta parte fue la disposición. Como ya he dicho la sala tenía forma de T. Al final de ella y junto a las máquinas de cardio ya se podían ver máquinas para el trabajo de las piernas, abs y hombros. A continuación y a la izquierda dos mancuerneros adornaban las paredes provistas de grandes espejos(los cuales nunca pueden faltar, véase la &lt;a href='http://lalocurademao.blogspot.com.es/2011/10/cuidado-con-los-gimnasios.html' target='_blank'&gt;review del Polideportivos &amp; Fitness de las Tablas&lt;/a&gt;). Bancos para press plano e inclinado, así como poleas, hack y diversas máquinas de Technogym para espalda, hombros, brazos, etc daban por concluida esta zona. En la otra parte de la T encontramos una zona más funcional con máquinas basadas en poleas donde se podían trabajar piernas, brazos y pechos desde diferentes ángulos. Unido a esto varios ketbells, bolsas de peso, otros dos mancuerneros en forma de X, balones medicinales y suizos, así como esterillas y demás útiles de fitness ponían el colofón a uno de los gimnasios con más alternativas en cuanto a material que hemos visto. La marca predominante de todo este material era Reebok.</musculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio>Suficientes máquinas de correr, elípticas, bicicletas, etc y en buen estado hacen de la zona de cardio de este gimnasio una de las más prácticas que hemos visitado. Acompañadas de varios monitores a ambos lados de las escaleras y separadas por un amplio pasillo permitían la práctica de una sesión de cardio de lo más lograda.</cardio>" +
+        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Si las taquillas del &lt;a href='http://lalocurademao.blogspot.com.es/2013/11/review-star-sport-wellnes-club.html' target='_blank'&gt;Star Sport Wellnes Club&lt;/a&gt; ya nos dejaron bastante sorprendidos por la forma que tenían, éstas nos sorprendieron por prácticas. Taquillas de maderas bastante amplias, eso sí con algún añito que otro, con separación interior para el abrigo y los zapatos o útiles de ducha. El sistema de cierre mediante tarjeta personal de acceso al gimnasio daba el broche final a unas taquillas, que para mí y hasta la fecha, son las mejores que he visto.&lt;/span&gt;</vestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>La sede visitada se encuentra en Orense 67, aunque en Madrid hay de momento otros 6 centros.</ubicacion>" +
+        "<extras>&lt;span&gt;Baño turco, gel y champú en las duchas. La inscripción vale para cualquiera de los centros de España. Y por si esto fuera poco cuenta con algo pionero en España; con tu abono pueden asistir las personas que vivan contigo o familiares, hasta 4 y no a la vez. Esto habría que leerlo bien en el contrato pero a priori es una pasada.&lt;/span&gt;</extras>" +
+        "<observaciones>Según nos contó el chico que nos atendió las máquinas de Technogym van a ser cambiadas en Febrero, lo de que le da un atractivo extra a este gimnasio. Por otro lado decir que es necesario ya que algunas de ellas tienen visibles marcas de uso y algunas otras no funcionan corréctamente(por ejemplo algún regulador de altura en los bancos o topes en las poleas), aún así nada comparable con lo que nos encontramos en su día en el &lt;a href='http://lalocurademao.blogspot.com.es/2013/09/review-fitness-center-vaguada.html' target='_blank'&gt;Fitness Center La Vaguada&lt;/a&gt;.</observaciones>" +
+        "<stuff>8</stuff>" +
+        "<higiene>70%</higiene>" +
+        "<desorden>50%</desorden>" +
+        "<metro></metro>" +
+        "<aparcamiento>ZONA AZUL/VERDE</aparcamiento>" +
+        "<plantas>2</plantas>" +
+        "<puertaDuchas>V</puertaDuchas>" +
+        "<secador>4</secador>" +
+        "<crucesPolea>2</crucesPolea>" +
+        "<hackSentadillas>1</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.technogym.com' target='_blank'&gt;TECHNOGYM&lt;/a&gt;</maquinaria>" +
+        "<conclusion>Centro a considerar por varias razones. La primera sin duda es el precio. La matrícula son 35 euros y la mensualidad unos 20 pero si optas por el abono anual el mes se te queda en 16 siendo el total sólo 191. Por debajo de los demás low cost de Madrid. La segunda es la opción de poder asistir más personas con el mismo abono. La siguiente son todas las sedes en España y la posibilidad de ir a la que te apetezca. Esto en otros low cost como el &lt;a href='http://lalocurademao.blogspot.com.es/2013/06/review-alta-fit-las-mercedes.html' target='_blank'&gt;Alta Fit&lt;/a&gt; es impensable, al menos de momento, debido al franquiciado. Finalmente la oferta de clases, maquinaria, espacio y afluencia hacen que esta cadena se coloque a la altura de los mejores de Madrid, para mi el &lt;a href='http://lalocurademao.blogspot.com.es/2013/06/review-mcfit-leganes.html' target='_blank'&gt;Mc Fit&lt;/a&gt;. Que cada uno decida. Como punto negativo nos quedaríamos, en el que probamos, con que aparcar es difícil y caro(gastamos 3 euros por 2 horas).</conclusion>" +
+                        "</gimnasio>" +
+
+                        "<gimnasio>" +
+                                "<nombre>SMART FIT COSLADA</nombre>" +
+                                "<url>http://lalocurademao.blogspot.com.es/2014/01/review-smart-fit-coslada.html</url>" +
+                                "<nota>7.2</nota>" +
+                                "<mobiliario>6.5</mobiliario>" +
+                                "<personal>8</personal>" +
+                                "<precio>7</precio>" +
+                                "<masificacion>8</masificacion>" +
+                        "<localizacion>7</localizacion>" +
+                          "<mantenimiento>8</mantenimiento>" +
+                          "<sedes>1</sedes>" +
+                                "<taquillas>160</taquillas>" +
+                                "<duchas>7</duchas>" +
+                                "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>COSLADA</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymSmartFit.jpg</foto>" +
+        "<tipo>CD</tipo>" +
+        "<presentacion>La semana pasada nos enteramos que en el Smart Fit de Coslada había jornada de puertas abiertas, así que allí que nos fuimos. Luego al llegar nos dijeron que realmente era que alguien que ya estaba apuntado podía llevar a alguien para que probase el gimnasio. Con nosotros hicieron una excepción, así que pudimos entrar sin problemas. Este centro lleva abierto desde después de Reyes, así que nos lo encontramos todo muy nuevecito:</presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymSmartFit.jpg</fotoPresentacion>" +
+        "<instalaciones>Podría decirse que es un gimnasio muy parecido al Alta Fit de Las Mercedes; amplia nave donde las zonas de musculación y cardio comparten espacio, dos grandes salas para clases, recepción y vestuarios.:</instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff>En la recepción muy amables la pareja que había. En teoría si no vienes con un socio el día de puertas abiertas no puedes entrar gratis. Nos dejaron pasar a pesar de esta condición. La otra opción para probar el gimnasio es abonar los 7,5 euros que cuesta el día de prueba. Luego, en la sala de musculación, otra pareja de monitores, muy correctos también. Siempre atentos por si necesitabas algo y tratando de que los discos estuvieran en su sitio(esto al principio es una buena práctica pero a la larga se deja de hacer). Por otro lado las personas con las que contactamos por correos también estuvieron ok en cuanto a la brevedad de las respuestas y las claras explicaciones.</staff>" +
+        "<masificacionTexto></masificacionTexto>" +
+        "<musculacion>Se disponen dentro de la misma zona dividida en dos, una con las máquinas de poleas y otra con máquinas de discos y pesos libres. Podría decirse que en cuanto másquinas tendría más o menos la misma cantidad que el Alta Fit de Las Mercedes, quizás alguna menos. Dos grandes mancuerneros hasta 50 kg con unos dos ó tres bancos por cada. Las máquinas TechnoGym da gusto utilizarlas al estar nuevecitas. Como anégdota se podría comentar que hay una máquina TechnoGym para el trabajo de hombros, concrétamente para el press frontal o trasnuca que, en principio y comentándolo con algún compañero que había por allí, no permitía recoger la barra desde una posición natural dando lugar a la posibilidad de provocarte una lesión:</musculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio>Dispone de 3 grandes hileras pegadas a la zona de los vesturios con elípticas, cintas, bicicletas y steppers.</cardio>" +
+        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Los vestuarios no me gustaron todo lo que esperaba. El espacio con el que cuentan está bastante ajustado, se podría haber dedicado algo más a esta zona. La zona de las duchas podría ser similar a la del Alta Fit si no fuera por la ausencia de puertas, recordándonos a los Mc Fit(aunque al menos, en éste, la ducha está incluida en el precio). Otro punto negativo sería que el agua tardaba mucho en salir caliente y hasta me comentaron que cuando no hay mucha gente podías estar esperando 15 ó 20' y ni con esas:</vestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='http://goo.gl/maps/O2CQU' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación. Se encuentra en Coslada. Si vas desde la zona de Barajas o Alameda de Osuna, dependiendo de la hora, puedes encontrar bastante tráfico&lt;/span&gt;</ubicacion>" +
+        "<extras></extras>" +
+        "<stuff>7</stuff>" +
+        "<higiene>85%</higiene>" +
+        "<desorden>10%</desorden>" +
+        "<metro>LA RAMBLA a 11'</metro>" +
+        "<aparcamiento>GRATUITO</aparcamiento>" +
+        "<plantas>2</plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
+        "<secador>1</secador>" +
+        "<crucesPolea>1</crucesPolea>" +
+        "<hackSentadillas>1</hackSentadillas>" +
+        "<maquinaSoleo>X</maquinaSoleo>" +
+        "<maquinaria></maquinaria>" +
+        "<clases></clases>" +
+        "<precios></precios>" +
+        "<conclusion></conclusion>" +
+                        "</gimnasio>" +
+	                    "<gimnasio>" +
                                 "<nombre>HOLMES PLACE ALEGRA</nombre>" +
                                 "<url>http://lalocurademao.blogspot.com.es/2014/07/review-holmes-place-alegra.html</url>" +
                                 "<nota>7.4</nota>" +
@@ -124,69 +250,7 @@ var archivoGimnasios = "" +
         "<clases>No probamos ninguna clase, aunque al pasar a la sala de musculación vimos la gran cantidad de usuarios que estaban esperando para dar alguna</clases>" +
         "<precios>-</precios>" +
         "<conclusion>Dependiendo del precio que tenga y si no se pasa demasiado, en torno a los 40 ó 50 estaría bien, puede ser una buena opción para aqullos que busquen un centro versátil con varios servicios como restauración, pádel, spa o parking. Si lo quieres sólo para hacer pesas o correr en la cinta habría mejores opciones con zonas dedicadas a esto más grandes.</conclusion>" +
-                        "</gimnasio>" +
-          "<gimnasio>" +
-                                "<nombre>CAROLI MIGUEL ANGEL</nombre>" +
-                                "<url>http://lalocurademao.blogspot.com.es/2014/05/review-caroli-miguel-angel.html</url>" +
-                                "<nota></nota>" +
-                                "<mobiliario></mobiliario>" +
-                                "<personal></personal>" +
-                                "<precio></precio>" +
-                                "<masificacion></masificacion>" +
-                        "<localizacion></localizacion>" +
-                          "<mantenimiento></mantenimiento>" +
-                          "<sedes>-</sedes>" +
-                                "<taquillas></taquillas>" +
-                                "<duchas></duchas>" +
-                                "<pesoMaxMancuerna></pesoMaxMancuerna>" +
-        "<ciudad>MADRID</ciudad>" +
-        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCaroliMiguelAngel.jpg</foto>" +
-        "<tipo>HT</tipo>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymCaroliMiguelAngel.png</fotoPresentacion>" +
-        "<instalaciones></instalaciones>" +
-        "<fotoInstalaciones></fotoInstalaciones>" +
-        "<fotoInstalaciones2></fotoInstalaciones2>" +
-        "<fotoInstalaciones3></fotoInstalaciones3>" +
-        "<fotoInstalaciones4></fotoInstalaciones4>" +
-        "<fotoInstalaciones5></fotoInstalaciones5>" +
-        "<staff></staff>" +
-        "<masificacionTexto></masificacionTexto>" +
-        "<musculacion></musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caroli%20Miguel%20Angel/cMAM.jpg</fotoMusculacion>" +
-        "<fotoMusculacion2></fotoMusculacion2>" +
-        "<fotoMusculacion3></fotoMusculacion3>" +
-        "<fotoMusculacion4></fotoMusculacion4>" +
-        "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio></cardio>" +
-        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caroli%20Miguel%20Angel/cMAC.jpg</fotoCardio>" +
-        "<fotoCardio2></fotoCardio2>" +
-        "<fotoCardio3></fotoCardio3>" +
-        "<fotoCardio4></fotoCardio4>" +
-        "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios></vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Caroli%20Miguel%20Angel/cMAV.jpg</fotoVestuarios>" +
-        "<fotoVestuarios2></fotoVestuarios2>" +
-        "<fotoVestuarios3></fotoVestuarios3>" +
-        "<fotoVestuarios4></fotoVestuarios4>" +
-        "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>&lt;span style='text-align: center;'&gt;Pincha &lt;a href='-------------' target='_blank'&gt;AQUÍ&lt;/a&gt;  para ver su ubicación.&lt;/span&gt;</ubicacion>" +
-        "<extras></extras>" +
-        "<stuff></stuff>" +
-        "<higiene>%</higiene>" +
-        "<desorden>%</desorden>" +
-        "<metro></metro>" +
-        "<aparcamiento></aparcamiento>" +
-        "<plantas></plantas>" +
-        "<puertaDuchas></puertaDuchas>" +
-        "<secador></secador>" +
-        "<crucesPolea></crucesPolea>" +
-        "<hackSentadillas></hackSentadillas>" +
-        "<maquinaSoleo></maquinaSoleo>" +
-        "<maquinaria>&lt;a href='www.lifefitness.com' target='_blank'&gt;Máquinas HammerStrength de la marca LifeFitness&lt;/a&gt;</maquinaria>" +
-        "<clases></clases>" +
-        "<precios></precios>" +
-        "<conclusion></conclusion>" +
-          "</gimnasio>" +     
+          "</gimnasio>" +
           "<gimnasio>" +
                                 "<nombre>WELLSPORTCLUB MADRID</nombre>" +
                                 "<url>http://lalocurademao.blogspot.com.es/2014/06/review-wellsportclub-madrid.html</url>" +
