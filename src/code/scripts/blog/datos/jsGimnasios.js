@@ -1,7 +1,19 @@
 var archivoGimnasios = "" +
-          "<gimnasios>" +  "<gimnasio>" + "<nombre>ROOS PALENCIA</nombre>" + "<url>http://lalocurademao.blogspot.com.es/2014/08/review-roos-palencia.html</url>" + 
-          "<nota>8.5</nota>" + "<mobiliario>9</mobiliario>" + "<personal>9</personal>" + "<precio>-</precio>" + "<masificacion>-</masificacion>" + "<localizacion>-</localizacion>" + "<mantenimiento>-</mantenimiento>" + "<sedes>1</sedes>" +"<taquillas>-<taquillas>" + "<duchas>6</duchas>" +
-"<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+          "<gimnasios>" +  
+          "<gimnasio>" +
+            "<nombre>ROOS PALENCIA</nombre>" +
+            "<url>http://lalocurademao.blogspot.com.es/2014/08/review-roos-palencia.html</url>" +
+            "<nota>8.5</nota>" +
+            "<mobiliario>9</mobiliario>" +
+            "<personal>9</personal>" +
+            "<precio></precio>" +
+            "<masificacion></masificacion>" +
+    "<localizacion></localizacion>" +
+      "<mantenimiento></mantenimiento>" +
+      "<sedes>1</sedes>" +
+           "<taquillas></taquillas>" +
+           "<duchas>6</duchas>" +
+        "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>PALENCIA</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</foto>" +
         "<tipo>BA</tipo>" +
