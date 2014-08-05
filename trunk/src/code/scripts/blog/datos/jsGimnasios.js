@@ -1,67 +1,6 @@
 var archivoGimnasios = "" +
           "<gimnasios>" +  
-          "<gimnasio>" +
-            "<nombre>ROOS PALENCIA</nombre>" +
-            "<url>http://lalocurademao.blogspot.com.es/2014/08/review-roos-palencia.html</url>" +
-            "<nota>8.5</nota>" +
-            "<mobiliario>9</mobiliario>" +
-            "<personal>9</personal>" +
-            "<precio></precio>" +
-            "<masificacion></masificacion>" +
-    "<localizacion></localizacion>" +
-      "<mantenimiento></mantenimiento>" +
-      "<sedes>1</sedes>" +
-           "<taquillas></taquillas>" +
-           "<duchas>6</duchas>" +
-        "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
-        "<ciudad>PALENCIA</ciudad>" +
-        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</foto>" +
-        "<tipo>BA</tipo>" +
-        "<presentacion>Gracias a uno de nuestros colaboradores: Pablo Mozo, hoy tenemos esta review calentita de un gym recién abierto de Palen. Abro comillas porque todo el texto es suyo: El gimnasio se sitúa en la calle Romanceros 4, en Palencia. Antiguamente conocido como Universal Gym y cerrado desde hace años, ha reabierto sus puertas totalmente reformado y con maquinaria nueva bajo el nombre de Gimnasio Roos, de la mano de dos socios, Roberto y Óscar (RO-OS). Entrenamos un sábado por la tarde invitados por Roberto, y el lugar es una auténtica pasada. Se nota muchísimo que los dos dueños son amantes del culturismo y del entreno pesado, tanto por su tamaño como por el tipo de gimnasio que han montado. Es perfecto para la gente que va a entrenar en serio y no a darse paseos, no tiene nada que ver con el típico gimnasio-peluquería.</presentacion>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</fotoPresentacion>" +
-        "<instalaciones>No es un gimnasio excesivamente grande, pero el espacio está muy bien optimizado, repartido en una planta con la recepción, las salas de boxeo y spinning, la zona de cardio, la maquinaria y los vestuarios, y una segunda altura para los pesos libres, bancos y alguna máquina más. Todo está recubierto de espejos y el espacio entre los módulos es correcto.</instalaciones>" +
-        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPI.jpg</fotoInstalaciones>" +
-        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPI2.jpg</fotoInstalaciones2>" +
-        "<fotoInstalaciones3></fotoInstalaciones3>" +
-        "<fotoInstalaciones4></fotoInstalaciones4>" +
-        "<fotoInstalaciones5></fotoInstalaciones5>" +
-        "<staff></staff>" +
-        "<masificacionTexto></masificacionTexto>" +
-        "<musculacion>Toda la maquinaria es de Hammer, la mejor del mercado. Se han traído prácticamente todo el catálogo y nos dijeron que aún faltaban máquinas por llegar. Hay una gran cantidad de discos, barras olímpicas y un extenso mancuernero hasta 50kg. Han hecho una inversión fuerte y el resultado no ha podido quedar mejor.</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPM.jpg</fotoMusculacion>" +
-        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPM2.jpg</fotoMusculacion2>" +
-        "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPM3.jpg</fotoMusculacion3>" +
-        "<fotoMusculacion4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPM4.jpg</fotoMusculacion4>" +
-    "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio></cardio>" +
-        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPC.jpg</fotoCardio>" +
-        "<fotoCardio2></fotoCardio2>" +
-        "<fotoCardio3></fotoCardio3>" +
-        "<fotoCardio4></fotoCardio4>" +
-        "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios>Los vestuarios son totalmente nuevos y están impecables. Los que hayan conocido los antiguos vestuarios del Universal Gym apreciarán mejor que nadie el gran cambio que han dado. Su tamaño también es correcto, acorde al tamaño del gimnasio.</vestuarios>" +
-        "<fotoVestuarios></fotoVestuarios>" +
-        "<fotoVestuarios2></fotoVestuarios2>" +
-        "<fotoVestuarios3></fotoVestuarios3>" +
-        "<fotoVestuarios4></fotoVestuarios4>" +
-        "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>El aparcamiento es de zona azul, aunque me parece que hay un parking cercano que han habilitado con un precio simbólico.</ubicacion>" +
-        "<extras></extras>" +
-        "<observaciones></observaciones>" +
-        "<stuff>9</stuff>" +
-        "<higiene>95%</higiene>" +
-        "<desorden>5%</desorden>" +
-        "<metro></metro>" +
-        "<aparcamiento>ZONA AZUL</aparcamiento>" +
-        "<plantas></plantas>" +
-        "<puertaDuchas>X</puertaDuchas>" +
-        "<secador>-</secador>" +
-        "<crucesPolea>-</crucesPolea>" +
-        "<hackSentadillas>-</hackSentadillas>" +
-        "<maquinaSoleo>0</maquinaSoleo>" +
-        "<maquinaria>&lt;a href='www.lifefitness.com' target='_blank'&gt;Máquinas HammerStrength de la marca LifeFitness&lt;/a&gt;</maquinaria>" +
-        "<conclusion>El gimnasio Roos se ha convertido en una de las mejores opciones para entrenar en Palencia sin lugar a dudas. Su página web es www.roosgympalencia.com, todavía en construcción.</conclusion>" +
-                        "</gimnasio>" +
+
                             "<gimnasio>" +
                                 "<nombre>BASICFIT MANZANA ALCOBENDAS</nombre>" +
                                 "<url>http://lalocurademao.blogspot.com.es/2014/08/review-basicfit-manzana-alcobendas.html</url>" +
