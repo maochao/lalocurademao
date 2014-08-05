@@ -1,10 +1,10 @@
 var archivoGimnasios = "" +
-          "<gimnasios>" "<gimnasio>" + "<nombre>ROOS PALENCIA</nombre>" + "<url>http://lalocurademao.blogspot.com.es/2014/08/review-roos-palencia.html</url>" + 
+          "<gimnasios>" +  "<gimnasio>" + "<nombre>ROOS PALENCIA</nombre>" + "<url>http://lalocurademao.blogspot.com.es/2014/08/review-roos-palencia.html</url>" + 
           "<nota>8.5</nota>" + "<mobiliario>9</mobiliario>" + "<personal>9</personal>" + "<precio>-</precio>" + "<masificacion>-</masificacion>" + "<localizacion>-</localizacion>" + "<mantenimiento>-</mantenimiento>" + "<sedes>1</sedes>" +"<taquillas>-<taquillas>" + "<duchas>6</duchas>" +
 "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>PALENCIA</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</foto>" +
-        "<tipo>LC</tipo>" +
+        "<tipo>BA</tipo>" +
         "<presentacion>Gracias a uno de nuestros colaboradores: Pablo Mozo, hoy tenemos esta review calentita de un gym recién abierto de Palen. Abro comillas porque todo el texto es suyo: El gimnasio se sitúa en la calle Romanceros 4, en Palencia. Antiguamente conocido como Universal Gym y cerrado desde hace años, ha reabierto sus puertas totalmente reformado y con maquinaria nueva bajo el nombre de Gimnasio Roos, de la mano de dos socios, Roberto y Óscar (RO-OS). Entrenamos un sábado por la tarde invitados por Roberto, y el lugar es una auténtica pasada. Se nota muchísimo que los dos dueños son amantes del culturismo y del entreno pesado, tanto por su tamaño como por el tipo de gimnasio que han montado. Es perfecto para la gente que va a entrenar en serio y no a darse paseos, no tiene nada que ver con el típico gimnasio-peluquería.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</fotoPresentacion>" +
         "<instalaciones>No es un gimnasio excesivamente grande, pero el espacio está muy bien optimizado, repartido en una planta con la recepción, las salas de boxeo y spinning, la zona de cardio, la maquinaria y los vestuarios, y una segunda altura para los pesos libres, bancos y alguna máquina más. Todo está recubierto de espejos y el espacio entre los módulos es correcto.</instalaciones>" +
