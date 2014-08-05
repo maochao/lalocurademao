@@ -62,7 +62,68 @@ var archivoGimnasios = "" +
         "<maquinaria>&lt;a href='www.lifefitness.com' target='_blank'&gt;Máquinas HammerStrength de la marca LifeFitness&lt;/a&gt;</maquinaria>" +
         "<conclusion>El gimnasio Roos se ha convertido en una de las mejores opciones para entrenar en Palencia sin lugar a dudas. Su página web es www.roosgympalencia.com, todavía en construcción.</conclusion>" +
                         "</gimnasio>" +
-               
+                            "<gimnasio>" +
+                                "<nombre>BASICFIT MANZANA ALCOBENDAS</nombre>" +
+                                "<url>http://lalocurademao.blogspot.com.es/2014/08/review-basicfit-manzana-alcobendas.html</url>" +
+                                "<nota>8.5</nota>" +
+                                "<mobiliario>9</mobiliario>" +
+                                "<personal>7.75</personal>" +
+                                "<precio>9</precio>" +
+                                "<masificacion>5</masificacion>" +
+                        "<localizacion>6</localizacion>" +
+                          "<mantenimiento>3</mantenimiento>" +
+                          "<sedes>14</sedes>" +
+                                "<taquillas>190</taquillas>" +
+                                "<duchas>12</duchas>" +
+                                "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>ALCOBENDAS</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion></presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</fotoPresentacion>" +
+        "<instalaciones></instalaciones>" +
+        "<fotoInstalaciones></fotoInstalaciones>" +
+        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff></staff>" +
+        "<masificacionTexto></masificacionTexto>" +
+        "<musculacion></musculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
+        "<fotoMusculacion2></fotoMusculacion2>" +
+        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion4></fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio></cardio>" +
+        "<fotoCardio></fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios></vestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion></ubicacion>" +
+        "<extras></extras>" +
+        "<observaciones></observaciones>" +
+        "<stuff>8</stuff>" +
+        "<higiene>70%</higiene>" +
+        "<desorden>50%</desorden>" +
+        "<metro></metro>" +
+        "<aparcamiento>ZONA AZUL/VERDE</aparcamiento>" +
+        "<plantas>2</plantas>" +
+        "<puertaDuchas>V</puertaDuchas>" +
+        "<secador>4</secador>" +
+        "<crucesPolea>2</crucesPolea>" +
+        "<hackSentadillas>1</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
+        "<maquinaria></maquinaria>" +
+        "<conclusion></conclusion>" +
+                        "</gimnasio>" +
                       "<gimnasio>" +
                                 "<nombre>HOLMES PLACE ALEGRA</nombre>" +
                                 "<url>http://lalocurademao.blogspot.com.es/2014/07/review-holmes-place-alegra.html</url>" +
