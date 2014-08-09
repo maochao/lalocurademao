@@ -1,5 +1,6 @@
 var archivoGimnasios = ""
 		+ "<gimnasios>"
+		+ "<gimnasio>"
 		+ "<nombre>CHAMBERI</nombre>"
 		+ "<url>http://lalocurademao.blogspot.com.es/2014/08/review-chamberi.html</url>"
 		+ "<nota></nota>"
