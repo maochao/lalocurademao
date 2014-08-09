@@ -1,71 +1,130 @@
 var archivoGimnasios = "" +
-          "<gimnasios>" +  
-
-		                      "<gimnasio>" +
+          "<gimnasios>" +
+		                              "<gimnasio>" +
                                 "<nombre>ROOS PALENCIA</nombre>" +
-                                "<url>http://lalocurademao.blogspot.com.es/2014/07/review-holmes-place-alegra.html</url>" +
-                                "<nota>7.4</nota>" +
-                                "<mobiliario>7.9</mobiliario>" +
-                                "<personal>8.5</personal>" +
-                                "<precio>5</precio>" +
-                                "<masificacion>5.5</masificacion>" +
-                        "<localizacion>6.5</localizacion>" +
-                          "<mantenimiento>7.5</mantenimiento>" +
-                          "<sedes>8</sedes>" +
+                                "<url>http://lalocurademao.blogspot.com.es/2014/08/review-roos-palencia.html</url>" +
+                                "<nota>8.5</nota>" +
+                                "<mobiliario>9</mobiliario>" +
+                                "<personal>9</personal>" +
+                                "<precio>-</precio>" +
+                                "<masificacion>-</masificacion>" +
+                        "<localizacion>-</localizacion>" +
+                          "<mantenimiento>-</mantenimiento>" +
+                          "<sedes>1</sedes>" +
                                 "<taquillas>-</taquillas>" +
-                                "<duchas>19</duchas>" +
-                                "<pesoMaxMancuerna>40</pesoMaxMancuerna>" +
-        "<ciudad>SAN SEBASTIÁN DE LOS REYES</ciudad>" +
-        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolmesPlace.jpg</foto>" +
-        "<tipo>FL</tipo>" +
-        "<presentacion>La visita a este centro la hicimos a través de la 'Fitness Tester App' Gymforless mediante compra de pase diario por 5 euros. Comparado con el pase del Holmes de Montecarmelo es la mitad ya que la de éste te sale por 10 euros. La recepcionista también nos habló de esta forma de vinculación con el centro y en principio puedes visitar el centro hasta 3 veces por ese precio, a partir de ahí las visitas costarían 10 euros y serían a través de su página web o ya apuntarte eligiendo alguna de las modalidades. El Holmes se caracteriza por la altísima calidad de sus instalaciones y el exquisito trato que a todos los socios dispensan los empleados, desde el recepcionista, a los limpiadores o los entrenadores de sala. Van en la línea de los O2 o Virgin, pero a en mi opinión aún mejoran el trato a los clientes por parte de sus empleados:</presentacion>" +
-        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymHolmesPlace.jpg</fotoPresentacion>" +
-        "<instalaciones>La sede visitada fue la de Alegra, junto al Factory de San Sebastián de los Reyes y el Decathlon. Amplio centro de dos plantas. Dispone de varios servicios que no encuentras en otros gimnasios al uso, como piscina climatizada, zona de relax, cafetería restaurante, servicio de fisioterapia o un centro de estética.Esta cadena ha optado por no bajar los precios frente a la creciente oferta de gimnasios low-cost que están proliferando y a cambio ofrecer mejoras en sus instalaciones. Prueba de ello es la nueva línea de maquinaria TechnoGym Artis que se ha incluido en centros como por ejemplo en el Holmes Place Urquinaona.</instalaciones>" +
+                                "<duchas>6</duchas>" +
+                                "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>PALENCIA</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion>Gracias a uno de nuestros colaboradores: Pablo Mozo, hoy tenemos esta review calentita de un gym recién abierto de Palen. Abro comillas porque todo el texto es suyo: El gimnasio se sitúa en la calle Romanceros 4, en Palencia. Antiguamente conocido como Universal Gym y cerrado desde hace años, ha reabierto sus puertas totalmente reformado y con maquinaria nueva bajo el nombre de Gimnasio Roos, de la mano de dos socios, Roberto y Óscar (RO-OS). Entrenamos un sábado por la tarde invitados por Roberto, y el lugar es una auténtica pasada. Se nota muchísimo que los dos dueños son amantes del culturismo y del entreno pesado, tanto por su tamaño como por el tipo de gimnasio que han montado. Es perfecto para la gente que va a entrenar en serio y no a darse paseos, no tiene nada que ver con el típico gimnasio-peluquería.</presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</fotoPresentacion>" +
+        "<instalaciones>No es un gimnasio excesivamente grande, pero el espacio está muy bien optimizado, repartido en una planta con la recepción, las salas de boxeo y spinning, la zona de cardio, la maquinaria y los vestuarios, y una segunda altura para los pesos libres, bancos y alguna máquina más. Todo está recubierto de espejos y el espacio entre los módulos es correcto.</instalaciones>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPI2.jpg</fotoInstalaciones2>" +
+        "<fotoInstalaciones3></fotoInstalaciones3>" +
+        "<fotoInstalaciones4></fotoInstalaciones4>" +
+        "<fotoInstalaciones5></fotoInstalaciones5>" +
+        "<staff></staff>" +
+        "<masificacionTexto></masificacionTexto>" +
+        "<musculacion>Toda la maquinaria es de Hammer, la mejor del mercado. Se han traído prácticamente todo el catálogo y nos dijeron que aún faltaban máquinas por llegar. Hay una gran cantidad de discos, barras olímpicas y un extenso mancuernero hasta 50kg. Han hecho una inversión fuerte y el resultado no ha podido quedar mejor.</musculacion>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPM2.jpg</fotoMusculacion2>" +
+        "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPM3.jpg</fotoMusculacion3>" +
+        "<fotoMusculacion4>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPM4.jpg</fotoMusculacion4>" +
+        "<fotoMusculacion5></fotoMusculacion5>" +
+        "<cardio></cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Roos%20Palencia%20/rPC.jpg</fotoCardio>" +
+        "<fotoCardio2></fotoCardio2>" +
+        "<fotoCardio3></fotoCardio3>" +
+        "<fotoCardio4></fotoCardio4>" +
+        "<fotoCardio5></fotoCardio5>" +
+        "<vestuarios>Los vestuarios son totalmente nuevos y están impecables. Los que hayan conocido los antiguos vestuarios del Universal Gym apreciarán mejor que nadie el gran cambio que han dado. Su tamaño también es correcto, acorde al tamaño del gimnasio.</vestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
+        "<fotoVestuarios3></fotoVestuarios3>" +
+        "<fotoVestuarios4></fotoVestuarios4>" +
+        "<fotoVestuarios5></fotoVestuarios5>" +
+        "<ubicacion>El aparcamiento es de zona azul, aunque me parece que hay un parking cercano que han habilitado con un precio simbólico.</ubicacion>" +
+        "<extras></extras>" +
+        "<observaciones></observaciones>" +
+        "<stuff>9</stuff>" +
+        "<higiene>95%</higiene>" +
+        "<desorden>5%</desorden>" +
+        "<metro></metro>" +
+        "<aparcamiento>ZONA AZUL</aparcamiento>" +
+        "<plantas></plantas>" +
+        "<puertaDuchas>X</puertaDuchas>" +
+        "<secador>-</secador>" +
+        "<crucesPolea>-</crucesPolea>" +
+        "<hackSentadillas>-</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
+        "<maquinaria>&lt;a href='www.lifefitness.com' target='_blank'&gt;Máquinas HammerStrength de la marca LifeFitness&lt;/a&gt;</maquinaria>" +
+        "<conclusion>El gimnasio Roos se ha convertido en una de las mejores opciones para entrenar en Palencia sin lugar a dudas. Su página web es www.roosgympalencia.com, todavía en construcción.</conclusion>" +
+                        "</gimnasio>" +
+                            "<gimnasio>" +
+                                "<nombre>BASICFIT MANZANA ALCOBENDAS</nombre>" +
+                                "<url>http://lalocurademao.blogspot.com.es/2014/08/review-health-city-basic-fit-manzana-alcobendas.html</url>" +
+                                "<nota>8.5</nota>" +
+                                "<mobiliario>9</mobiliario>" +
+                                "<personal>7.75</personal>" +
+                                "<precio>9</precio>" +
+                                "<masificacion>5</masificacion>" +
+                        "<localizacion>6</localizacion>" +
+                          "<mantenimiento>3</mantenimiento>" +
+                          "<sedes>14</sedes>" +
+                                "<taquillas>190</taquillas>" +
+                                "<duchas>12</duchas>" +
+                                "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
+        "<ciudad>ALCOBENDAS</ciudad>" +
+        "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</foto>" +
+        "<tipo>LC</tipo>" +
+        "<presentacion></presentacion>" +
+        "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</fotoPresentacion>" +
+        "<instalaciones></instalaciones>" +
         "<fotoInstalaciones></fotoInstalaciones>" +
         "<fotoInstalaciones2></fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
-        "<staff>El personal de estos centros, al menos el que visitamos, destaca sobre los demás gimnasios. Por eso para mí tiene la mejor nota. Como no, pudimos disfrutar de un pase de día gratis, ya no recuerdo si mediante formulario o llamando. La visita la realizamos 3 personas y en todo momento, la chica que nos presentó el gym mediante un tour por él, a parte de ser muy amable, se acordaba de nuestros nombres. Otro detalle fueron los avisos por megafonía, fueron entre simpáticos y graciosos. Eran cada cierto rato y me acuerdo que uno de ellos decía, más o menos: ding, dong, ding.... 'Hola señores clientes, en breves instantes procederemos a celebrar el cumpleaños de (alguien, no sé si empleado o cliente), en la zona de abdominales'. También era frecuente que los empleados te llamasen por tu nombre mientras utilizabas las instalaciones. Esto sólo lo he visto en gimnasios de barrio.</staff>" +
+        "<staff></staff>" +
         "<masificacionTexto></masificacionTexto>" +
-        "<musculacion>La zona de musculación muy justa en cuanto a espacio para lo que se supone en un centro Holmes Place. No tuvimos problemas para entrenar pero es que fuimos un sábado por la mañana. Un día entre semana, por la tarde, la cosa sería algo distinta y sería difícil entrenar agusto. Dispone de dos mancuerneros de un par de metros cada uno. También encontramos máquinas funcionales con poleas al estilo de las que encontramos en el Hotel Caminera de Ciudad Real o en el Pradosport de Aranda de Duero</musculacion>" +
-        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Holmes%20Place%20Alegra/hPAM.jpg</fotoMusculacion>" +
+        "<musculacion></musculacion>" +
+        "<fotoMusculacion></fotoMusculacion>" +
         "<fotoMusculacion2></fotoMusculacion2>" +
         "<fotoMusculacion3></fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio>La zona de cardio con múltiples máquinas recuerdo que disponía de pantallas de TV en las las propias máquinas. Un signo de distinción.</cardio>" +
+        "<cardio></cardio>" +
         "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
         "<fotoCardio5></fotoCardio5>" +
-        "<vestuarios>Amplios y lujosos, en la línea de los Virgin u O2.</vestuarios>" +
-        "<fotoVestuarios>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Holmes%20Place%20Alegra/hPAV.jpg</fotoVestuarios>" +
-        "<fotoVestuarios2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/Holmes%20Place%20Alegra/hPAV2.jpg</fotoVestuarios2>" +
+        "<vestuarios></vestuarios>" +
+        "<fotoVestuarios></fotoVestuarios>" +
+        "<fotoVestuarios2></fotoVestuarios2>" +
         "<fotoVestuarios3></fotoVestuarios3>" +
         "<fotoVestuarios4></fotoVestuarios4>" +
         "<fotoVestuarios5></fotoVestuarios5>" +
-        "<ubicacion>-</ubicacion>" +
-        "<extras>Puedes aparcar gratis, creo que 2 ó 3 horas en el Diversia que está lado</extras>" +
-        "<stuff>8.1</stuff>" +
-        "<higiene>85%</higiene>" +
-        "<desorden>15%</desorden>" +
-        "<metro>LA MORALEJA a 5'</metro>" +
-        "<aparcamiento>FACTORY</aparcamiento>" +
+        "<ubicacion></ubicacion>" +
+        "<extras></extras>" +
+        "<observaciones></observaciones>" +
+        "<stuff>8</stuff>" +
+        "<higiene>70%</higiene>" +
+        "<desorden>50%</desorden>" +
+        "<metro></metro>" +
+        "<aparcamiento>ZONA AZUL/VERDE</aparcamiento>" +
         "<plantas>2</plantas>" +
         "<puertaDuchas>V</puertaDuchas>" +
-        "<secador>-</secador>" +
-        "<crucesPolea>-</crucesPolea>" +
-        "<hackSentadillas>-</hackSentadillas>" +
-        "<maquinaSoleo>-</maquinaSoleo>" +
+        "<secador>4</secador>" +
+        "<crucesPolea>2</crucesPolea>" +
+        "<hackSentadillas>1</hackSentadillas>" +
+        "<maquinaSoleo>0</maquinaSoleo>" +
         "<maquinaria></maquinaria>" +
-        "<clases></clases>" +
-        "<precios></precios>" +
         "<conclusion></conclusion>" +
-                        "</gimnasio>" +          
-		  
-                    "<gimnasio>" +
+                        "</gimnasio>" +
+                      "<gimnasio>" +
                                 "<nombre>HOLMES PLACE ALEGRA</nombre>" +
                                 "<url>http://lalocurademao.blogspot.com.es/2014/07/review-holmes-place-alegra.html</url>" +
                                 "<nota>7.4</nota>" +
