@@ -16,7 +16,7 @@ var archivoGimnasios = "" +
                                 "<pesoMaxMancuerna>50</pesoMaxMancuerna>" +
         "<ciudad>PALENCIA</ciudad>" +
         "<foto>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</foto>" +
-        "<tipo>LC</tipo>" +
+        "<tipo>BA</tipo>" +
         "<presentacion>Gracias a uno de nuestros colaboradores: Pablo Mozo, hoy tenemos esta review calentita de un gym recién abierto de Palen. Abro comillas porque todo el texto es suyo: El gimnasio se sitúa en la calle Romanceros 4, en Palencia. Antiguamente conocido como Universal Gym y cerrado desde hace años, ha reabierto sus puertas totalmente reformado y con maquinaria nueva bajo el nombre de Gimnasio Roos, de la mano de dos socios, Roberto y Óscar (RO-OS). Entrenamos un sábado por la tarde invitados por Roberto, y el lugar es una auténtica pasada. Se nota muchísimo que los dos dueños son amantes del culturismo y del entreno pesado, tanto por su tamaño como por el tipo de gimnasio que han montado. Es perfecto para la gente que va a entrenar en serio y no a darse paseos, no tiene nada que ver con el típico gimnasio-peluquería.</presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymRoosPalencia.jpg</fotoPresentacion>" +
         "<instalaciones>No es un gimnasio excesivamente grande, pero el espacio está muy bien optimizado, repartido en una planta con la recepción, las salas de boxeo y spinning, la zona de cardio, la maquinaria y los vestuarios, y una segunda altura para los pesos libres, bancos y alguna máquina más. Todo está recubierto de espejos y el espacio entre los módulos es correcto.</instalaciones>" +
@@ -82,20 +82,20 @@ var archivoGimnasios = "" +
         "<presentacion></presentacion>" +
         "<fotoPresentacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Logotipos%20Gimnasios/blogGymBasicfit.jpg</fotoPresentacion>" +
         "<instalaciones></instalaciones>" +
-        "<fotoInstalaciones></fotoInstalaciones>" +
-        "<fotoInstalaciones2></fotoInstalaciones2>" +
+        "<fotoInstalaciones>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana%20/bFMI.jpg</fotoInstalaciones>" +
+        "<fotoInstalaciones2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana%20/bFMI2.jpg</fotoInstalaciones2>" +
         "<fotoInstalaciones3></fotoInstalaciones3>" +
         "<fotoInstalaciones4></fotoInstalaciones4>" +
         "<fotoInstalaciones5></fotoInstalaciones5>" +
         "<staff></staff>" +
         "<masificacionTexto></masificacionTexto>" +
         "<musculacion></musculacion>" +
-        "<fotoMusculacion></fotoMusculacion>" +
-        "<fotoMusculacion2></fotoMusculacion2>" +
-        "<fotoMusculacion3></fotoMusculacion3>" +
+        "<fotoMusculacion>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana%20/bFMM.jpg</fotoMusculacion>" +
+        "<fotoMusculacion2>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana%20/bFMM2.jpg</fotoMusculacion2>" +
+        "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana%20/bFMM3.jpg</fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio></cardio>" +
+        "<cardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana%20/bFMC.jpg</cardio>" +
         "<fotoCardio></fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
