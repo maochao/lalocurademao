@@ -95,8 +95,8 @@ var archivoGimnasios = "" +
         "<fotoMusculacion3>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana/bFMM3.jpg</fotoMusculacion3>" +
         "<fotoMusculacion4></fotoMusculacion4>" +
         "<fotoMusculacion5></fotoMusculacion5>" +
-        "<cardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana/bFMC.jpg</cardio>" +
-        "<fotoCardio></fotoCardio>" +
+        "<cardio></cardio>" +
+        "<fotoCardio>https://googledrive.com/host/0B-eN6ioVpTXPY0V2d0NjSEoyYjQ/Fotos%20Gimnasios/BasicFit%20Manzana/bFMC.jpg</fotoCardio>" +
         "<fotoCardio2></fotoCardio2>" +
         "<fotoCardio3></fotoCardio3>" +
         "<fotoCardio4></fotoCardio4>" +
