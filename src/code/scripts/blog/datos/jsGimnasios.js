@@ -129,7 +129,7 @@ var archivoGimnasios = ""
 	  // ////////////////////////////////////////////////////////////////////////////44
 	+ "<gimnasio>"
 		+ "<nombre>BASICFIT MANZANA ALCOBENDAS</nombre>"
-		+ "<url>http://lalocurademao.blogspot.com.es/2014/08/basic-fit-manzana-alcobendas.html</url>"
+		+ "<url>http://lalocurademao.blogspot.com.es/2014/08/review-basic-fit-manzana-alcobendas.html</url>"
 		+ "<nota>8.5</nota>"
 		+ "<mobiliario>9</mobiliario>"
 		+ "<personal>7.75</personal>"
