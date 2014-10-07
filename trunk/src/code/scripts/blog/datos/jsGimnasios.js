@@ -3,7 +3,7 @@ var archivoGimnasios = ""
 	// ////////////////////////////////////////////////////////////////////////////49
 	+ "<gimnasio>"
 		+ "<nombre>SAN EULOGIO COMAS PERU</nombre>"
-		+ "<url>http://lalocurademao.blogspot.com.es/2014/09/review-san-eulogio-comas-peru.html</url>"
+		+ "<url>http://lalocurademao.blogspot.com.es/2014/10/review-san-eulogio-comas-peru.html</url>"
 		+ "<nota>5</nota>"
 		+ "<mobiliario>5</mobiliario>"
 		+ "<personal>9</personal>"
