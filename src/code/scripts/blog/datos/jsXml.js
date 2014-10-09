@@ -8,8 +8,10 @@ $(document).ready(function () {
         
         cargarDatosInicio();
         rellenarComboCiudades();
+        rellenarComboPaises();
         rellenarComboTipos();
         filtrarPorCiudad();
+        filtrarPorPais();
         filtrarPorTipo();
         });
 
