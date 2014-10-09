@@ -1,4 +1,5 @@
 var arrayCiudades = [];
+var arrayPaises = [];
 var arrayTipos = [];
 
 $(document).ready(function () {
@@ -12,6 +13,7 @@ $(document).ready(function () {
         filtrarPorTipo();
         });
 
+// INICIO PARTE DEL FILTRO POR CIUDADES
 function rellenarComboCiudades(){
     $.each(arrayCiudades, function(val, text) {
         $('#ciudades').append(
@@ -19,6 +21,83 @@ function rellenarComboCiudades(){
         );            
 })}
 
+function filtrarPorCiudad(){
+    $("#ciudades").change(function(){
+    var op = $("#ciudades option:selected");
+    cargarDatosCiudad(op.text());
+});
+}
+
+function cargarDatosCiudad(ciudad) {
+
+    var ciudadCombo = ciudad;
+    _xml =  $.parseXML(archivoGimnasios);
+    $xmlDoc = $(_xml);
+    $('#myTable tbody tr').remove();
+    $xmlDoc.find("gimnasio").each(function (){
+        
+var texto = '<tr>';
+
+var ciudad = $(this).find("ciudad").text();
+    if (!existeEnArray(ciudad,arrayCiudades)){
+            arrayCiudades.push(ciudad);
+    }
+    
+      if(ciudadCombo == ciudad || ciudadCombo == "SELECCIONA UNA CIUDAD"){  
+              
+          var todo = $(this);
+              texto = formarTexto(todo,texto);
+      }
+        
+texto = texto + '</tr>';
+
+$('#myTable tbody').append(texto);})
+};
+// FINAL PARTE DEL FILTRO POR CIUDADES
+
+// INICIO PARTE DEL FILTRO POR PAÍSES
+function rellenarComboPaises(){
+    $.each(arrayPaises, function(val, text) {
+        $('#paises').append(
+            $('<option></option>').val(val).html(text)
+        );            
+})}
+
+function filtrarPorPais(){
+    $("#paises").change(function(){
+    var op = $("#paises option:selected");
+    cargarDatosPais(op.text());
+});
+}
+
+function cargarDatosPais(pais) {
+
+	var paisCombo = pais;
+	_xml =  $.parseXML(archivoGimnasios);
+	$xmlDoc = $(_xml);
+	$('#myTable tbody tr').remove();
+	$xmlDoc.find("gimnasio").each(function (){
+	    
+	var texto = '<tr>';
+
+	var pais = $(this).find("pais").text();
+	if (!existeEnArray(pais,arrayPaises)){
+	        arrayPaises.push(pais);
+	}
+
+	  if(paisCombo == pais || paisCombo == "SELECCIONA UN PAÍS"){  
+	          
+	      var todo = $(this);
+	          texto = formarTexto(todo,texto);
+	  }
+	    
+	texto = texto + '</tr>';
+
+	$('#myTable tbody').append(texto);})
+	};
+// FINAL PARTE DEL FILTRO POR PAÍSES
+
+// INICIO PARTE DEL FILTRO POR TIPO DE GYM
 function rellenarComboTipos(){
     $.each(arrayTipos, function(val, text) {
         $('#tipos').append(
@@ -26,19 +105,39 @@ function rellenarComboTipos(){
         );            
 })}
 
-function filtrarPorCiudad(){
-         $("#ciudades").change(function(){
-         var op = $("#ciudades option:selected");
-         cargarDatosCiudad(op.text());
- });
-}
-
 function filtrarPorTipo(){
-         $("#tipos").change(function(){
-        var op = $("#tipos option:selected");
-        cargarDatosTipos(op.text());
+    $("#tipos").change(function(){
+   var op = $("#tipos option:selected");
+   cargarDatosTipos(op.text());
 });
 }
+
+function cargarDatosTipos(tipo) {
+
+	var tipoCombo = tipo;
+	_xml =  $.parseXML(archivoGimnasios);
+	$xmlDoc = $(_xml);
+	$('#myTable tbody tr').remove();
+	$xmlDoc.find("gimnasio").each(function (){
+	    
+	    var texto = '<tr>';
+	    
+	    var tipoGym = $(this).find("tipo").text();
+	        if (!existeEnArray(tipoGym,arrayTipos)){
+	                arrayTipos.push(establecerTipoGym(tipoGym));
+	        }
+	        
+	          if(tipoCombo == establecerTipoGym(tipoGym) || tipoCombo == "SELECCIONA UN TIPO"){  
+	                  
+	              var todo = $(this);
+	                  texto = formarTexto(todo,texto);
+	          }
+	            
+	    texto = texto + '</tr>';
+	    
+	    $('#myTable tbody').append(texto);})
+	};
+// FINAL PARTE DEL FILTRO POR TIPO DE GYM
 
 function establecerTipoGym(tipo){
     var tipoGym = "";
@@ -313,58 +412,6 @@ function cargarDatosInicio(tipo) {
     $('#myTable tbody').append(texto);})
 };
 
-function cargarDatosCiudad(ciudad) {
-
-        var ciudadCombo = ciudad;
-        _xml =  $.parseXML(archivoGimnasios);
-        $xmlDoc = $(_xml);
-        $('#myTable tbody tr').remove();
-        $xmlDoc.find("gimnasio").each(function (){
-            
-    var texto = '<tr>';
-    
-    var ciudad = $(this).find("ciudad").text();
-        if (!existeEnArray(ciudad,arrayCiudades)){
-                arrayCiudades.push(ciudad);
-        }
-        
-          if(ciudadCombo == ciudad || ciudadCombo == "SELECCIONA UNA CIUDAD"){  
-                  
-              var todo = $(this);
-                  texto = formarTexto(todo,texto);
-          }
-            
-    texto = texto + '</tr>';
-    
-    $('#myTable tbody').append(texto);})
-};
-
-function cargarDatosTipos(tipo) {
-
-    var tipoCombo = tipo;
-    _xml =  $.parseXML(archivoGimnasios);
-    $xmlDoc = $(_xml);
-    $('#myTable tbody tr').remove();
-    $xmlDoc.find("gimnasio").each(function (){
-        
-        var texto = '<tr>';
-        
-        var tipoGym = $(this).find("tipo").text();
-            if (!existeEnArray(tipoGym,arrayTipos)){
-                    arrayTipos.push(establecerTipoGym(tipoGym));
-            }
-            
-              if(tipoCombo == establecerTipoGym(tipoGym) || tipoCombo == "SELECCIONA UN TIPO"){  
-                      
-                  var todo = $(this);
-                      texto = formarTexto(todo,texto);
-              }
-                
-        texto = texto + '</tr>';
-        
-        $('#myTable tbody').append(texto);})
-};
-
 function cargarDatosInicio() {
 
                 _xml =  $.parseXML(archivoGimnasios);
@@ -380,6 +427,11 @@ function cargarDatosInicio() {
         var ciudad = $(this).find("ciudad").text();
         if (!existeEnArray(ciudad,arrayCiudades)){
                 arrayCiudades.push(ciudad);
+        }
+        
+        var pais = $(this).find("pais").text();
+        if (!existeEnArray(pais,arrayPaises)){
+                arrayPaises.push(pais);
         }
         
         var tipoGym = $(this).find("tipo").text();
@@ -577,9 +629,9 @@ function formarTextoEntrada(todo,texto){
 
 function formarTexto(todo,texto){
             
-                var foto = todo.find("foto").text();
-            var textoFoto = '<td><img width="50" heigth="50" src="'+foto+'"/></td>';
-            texto = texto + textoFoto;
+        var foto = todo.find("foto").text();
+        var textoFoto = '<td><img width="50" heigth="50" src="'+foto+'"/></td>';
+        texto = texto + textoFoto;
             
         var nombre = todo.find("nombre").text();
         var url = todo.find("url").text();
