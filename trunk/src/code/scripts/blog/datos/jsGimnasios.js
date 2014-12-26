@@ -197,7 +197,7 @@ var archivoGimnasios = ""
    // ////////////////////////////////////////////////////////////////////////////50
    + "<gimnasio>"
    + "<nombre>ALTAFIT VITORIA</nombre>"
-   + "<url>http://lalocurademao.blogspot.com.es/2014/10/review-alta-fit-vitoria.html</url>"
+   + "<url>http://lalocurademao.blogspot.com.es/2014/10/review-altafit-vitoria.html</url>"
    + "<nota>7.9</nota>"
    + "<mobiliario>7.6</mobiliario>"
    + "<personal>7</personal>"
