@@ -717,7 +717,7 @@ function formarTextoEntrada(todo, texto) {
 
 	var taquillas = todo.find("taquillas").text();
 	if (taquillas != "" && taquillas != "-") {
-		var taquillasTexto = '<tr><th>NÂº Taquillas</th><th class='
+		var taquillasTexto = '<tr><th>Número Taquillas</th><th class='
 				+ establecerEstilo(taquillas, "taquillas") + '>' + taquillas
 				+ '</th></tr>';
 		texto = texto + taquillasTexto;
