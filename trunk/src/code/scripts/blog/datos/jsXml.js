@@ -58,7 +58,7 @@ function cargarDatosCiudad(ciudad) {
 }
 // FINAL PARTE DEL FILTRO POR CIUDADES
 
-// INICIO PARTE DEL FILTRO POR PAÃ�SES
+// INICIO PARTE DEL FILTRO POR PAÍSES
 function rellenarComboPaises() {
 	$.each(arrayPaises, function(val, text) {
 		$('#paises').append($('<option></option>').val(val).html(text));
@@ -87,7 +87,7 @@ function cargarDatosPais(pais) {
 			arrayPaises.push(pais);
 		}
 
-		if (paisCombo == pais || paisCombo == "SELECCIONA UN PAÃ�S") {
+		if (paisCombo == pais || paisCombo == "SELECCIONA UN PAÍS") {
 
 			var todo = $(this);
 			texto = formarTexto(todo, texto);
@@ -98,7 +98,7 @@ function cargarDatosPais(pais) {
 		$('#myTable tbody').append(texto);
 	});
 }
-// FINAL PARTE DEL FILTRO POR PAÃ�SES
+// FINAL PARTE DEL FILTRO POR PAÍSES
 
 // INICIO PARTE DEL FILTRO POR TIPO DE GYM
 function rellenarComboTipos() {
@@ -265,7 +265,7 @@ function cargarEntrada(gimnasio) {
 									"masificacionTexto").text();
 							if (masificacionTexto != ""
 									&& masificacionTexto != "-") {
-								var masificacionTextoTexto = '<li><b>Masificacion: </b>'
+								var masificacionTextoTexto = '<li><b>Masificación: </b>'
 										+ masificacionTexto + '</li>';
 								$('#masificacionTexto').append(
 										masificacionTextoTexto);
@@ -273,7 +273,7 @@ function cargarEntrada(gimnasio) {
 
 							var musculacion = todo.find("musculacion").text();
 							if (musculacion != "" && musculacion != "-") {
-								var musculacionTexto = '<li><b>Musculacion: </b>'
+								var musculacionTexto = '<li><b>Musculación: </b>'
 										+ musculacion + '</li>';
 								$('#musculacion').append(musculacionTexto);
 							}
@@ -423,7 +423,7 @@ function cargarEntrada(gimnasio) {
 
 							var ubicacion = todo.find("ubicacion").text();
 							if (ubicacion != "" && ubicacion != "-") {
-								var ubicacionTexto = '<li><b>Ubicacion: </b>'
+								var ubicacionTexto = '<li><b>Ubicación: </b>'
 										+ ubicacion + '</li>';
 								$('#ubicacion').append(ubicacionTexto);
 							}
@@ -468,7 +468,7 @@ function cargarEntrada(gimnasio) {
 
 							var conclusion = todo.find("conclusion").text();
 							if (conclusion != "" && conclusion != "-") {
-								var conclusionTexto = '<li><b>Conclusion: </b>'
+								var conclusionTexto = '<li><b>Conclusión: </b>'
 										+ conclusion + '</li>';
 								$('#conclusion').append(conclusionTexto);
 							}
@@ -651,7 +651,7 @@ function formarTextoEntrada(todo, texto) {
 
 	var nombre = todo.find("nombre").text();
 	if (nombre != "" && nombre != "-") {
-		var nombreTexto = '<tr><th>CARACTERÃ�STICA/GIMNASIO</th><th>' + nombre
+		var nombreTexto = '<tr><th>CARACTERÍSTICA/GIMNASIO</th><th>' + nombre
 				+ '</th></tr>';
 		texto = texto + nombreTexto;
 	}
@@ -673,7 +673,7 @@ function formarTextoEntrada(todo, texto) {
 
 	var desorden = todo.find("desorden").text();
 	if (desorden != "" && desorden != "-") {
-		var desordenTexto = '<tr><th>Desorden Sala MusculaciÃ³n</th><th class='
+		var desordenTexto = '<tr><th>Desorden Sala Musculación</th><th class='
 				+ establecerEstilo(desorden, "desorden") + '>' + desorden
 				+ '</th></tr>';
 		texto = texto + desordenTexto;
@@ -701,7 +701,7 @@ function formarTextoEntrada(todo, texto) {
 
 	var duchas = todo.find("duchas").text();
 	if (duchas != "" && duchas != "-") {
-		var duchasTexto = '<tr><th>NÂºDuchas</th><th class='
+		var duchasTexto = '<tr><th>Número Duchas</th><th class='
 				+ establecerEstilo(duchas, "duchas") + '>' + duchas
 				+ '</th></tr>';
 		texto = texto + duchasTexto;
@@ -733,7 +733,7 @@ function formarTextoEntrada(todo, texto) {
 
 	var crucesPolea = todo.find("crucesPolea").text();
 	if (crucesPolea != "" && crucesPolea != "-") {
-		var crucesPoleaTexto = '<tr><th>MÃ¡quina Cruces Polea</th><th class='
+		var crucesPoleaTexto = '<tr><th>Máquina Cruces Polea</th><th class='
 				+ establecerEstilo(crucesPolea, "crucesPolea") + '>'
 				+ crucesPolea + '</th></tr>';
 		texto = texto + crucesPoleaTexto;
@@ -749,7 +749,7 @@ function formarTextoEntrada(todo, texto) {
 
 	var maquinaSoleo = todo.find("maquinaSoleo").text();
 	if (maquinaSoleo != "" && maquinaSoleo != "-") {
-		var maquinaSoleoTexto = '<tr><th>MÃ¡quina Soleo</th><th class='
+		var maquinaSoleoTexto = '<tr><th>Máquina Soleo</th><th class='
 				+ establecerEstilo(maquinaSoleo, "maquinaSoleo") + '>'
 				+ maquinaSoleo + '</th></tr>';
 		texto = texto + maquinaSoleoTexto;
